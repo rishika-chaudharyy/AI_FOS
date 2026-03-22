@@ -1,0 +1,125 @@
+/* BACKGROUND */
+.landing {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  background: url("/bg.jpg") center/cover no-repeat;
+  position: relative;
+
+}
+
+/* OVERLAY */
+.landing::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(circle at 20% 20%, rgba(59, 130, 246, 0.1), transparent 40%),
+    radial-gradient(circle at 80% 80%, rgba(124, 58, 237, 0.1), transparent 40%),
+    rgba(5, 5, 10, 0.9);
+}
+
+/* CARD (LESS BULKY) */
+.card {
+  position: relative;
+  max-width: 560px;
+  /* 👈 reduced width */
+  width: 100%;
+  padding: 45px 40px;
+  /* 👈 less padding */
+
+  border-radius: 16px;
+
+  background: rgba(15, 15, 25, 0.75);
+  backdrop-filter: blur(16px);
+
+  border: 1px solid rgba(255, 255, 255, 0.06);
+
+  box-shadow: 0 20px 70px rgba(0, 0, 0, 0.65);
+
+  color: #e5e7eb;
+
+  text-align: center;
+  /* ✅ centered */
+  box-shadow:
+    0 25px 90px rgba(0, 0, 0, 0.75),
+    0 0 25px rgba(255, 255, 255, 0.1);
+  transition: box-shadow 0.3s ease;
+}
+
+/* LOGO */
+.logo {
+  font-size: 44px;
+  /* 👈 smaller */
+  font-weight: 700;
+
+  background: linear-gradient(90deg, #60a5fa, #a78bfa);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  margin-bottom: 14px;
+}
+
+/* HEADLINE */
+.headline {
+  font-size: 18px;
+  /* 👈 reduced */
+  font-weight: 500;
+  color: #d1d5db;
+
+  margin-bottom: 12px;
+}
+
+/* DESCRIPTION */
+.description {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #9ca3af;
+
+  max-width: 480px;
+  /* 👈 tighter text block */
+  margin: 0 auto 26px;
+}
+
+/* CTA */
+.cta {
+  padding: 12px 28px;
+  /* 👈 smaller button */
+  font-size: 14px;
+  font-weight: 600;
+
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+
+  background: linear-gradient(135deg, #2563eb, #7c3aed);
+  color: white;
+
+  transition: none;
+}
+
+.cta:hover {
+  transform: none;
+  box-shadow: none;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .card {
+    padding: 30px 20px;
+  }
+
+  .logo {
+    font-size: 32px;
+  }
+
+  .headline {
+    font-size: 16px;
+  }
+
+  .description {
+    font-size: 13px;
+  }
+}

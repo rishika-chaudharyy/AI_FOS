@@ -1,0 +1,115 @@
+.dashboard {
+  padding: 30px;
+  background: #020617;
+  color: white;
+  min-height: 100vh;
+  font-family: "Inter", sans-serif;
+}
+
+.main-title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* UPLOAD FIX */
+.upload-box {
+  border: 2px dashed #334155;
+  padding: 50px;
+  text-align: center;
+  border-radius: 12px;
+  margin-bottom: 30px;
+}
+
+.upload-text {
+  margin-bottom: 15px;
+}
+
+.upload-actions {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.upload-btn {
+  padding: 10px 20px;
+  background: #3b82f6;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.file-name {
+  margin-top: 10px;
+  color: #22c55e;
+}
+
+/* CARDS */
+.cards {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+}
+
+.card {
+  padding: 20px;
+  background: #020617;
+  border-radius: 12px;
+  border: 1px solid #1e293b;
+}
+
+/* CHART */
+.chart-box {
+  margin-top: 40px;
+  text-align: center;
+}
+
+.chart-center {
+  display: flex;
+  justify-content: center;
+}
+
+/* SECTION */
+.section {
+  margin-top: 40px;
+}
+
+.section-title {
+  text-align: center;
+  border-bottom: 2px solid;
+  padding-bottom: 10px;
+}
+
+/* TABLE */
+.table-container {
+  max-height: 350px;
+  overflow: auto;
+  border: 1px solid #1e293b;
+  border-radius: 10px;
+}
+
+/* 🔥 STICKY HEADER FIX */
+thead th {
+  position: sticky;
+  top: 0;
+  background: #020617;
+  z-index: 10;
+}
+
+/* TABLE STYLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 12px;
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+tr:hover {
+  background: rgba(255, 255, 255, 0.05);
+}

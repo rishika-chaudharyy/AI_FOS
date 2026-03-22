@@ -1,0 +1,5001 @@
+description,amount,category
+Interest Credit,9959.93,income
+Stock Purchase,3236.19,asset
+Swiggy Order,5503.33,expense
+Loan EMI,3034.87,liability
+Amazon Purchase,4958.74,expense
+Gold Investment,1127.92,asset
+Freelance Payment,8105.24,income
+Freelance Payment,616.93,income
+Electricity Bill,3543.16,expense
+Uber Ride,8284.66,expense
+Loan EMI,1689.17,liability
+Home Loan Interest,9872.01,liability
+FD Deposit,9481.24,asset
+FD Deposit,3779.83,asset
+Swiggy Order,3403.85,expense
+Freelance Payment,3651.37,income
+Interest Credit,1217.16,income
+Freelance Payment,7157.75,income
+Mutual Fund Investment,586.82,asset
+Home Loan Interest,9809.35,liability
+Mutual Fund Investment,2211.13,asset
+Mutual Fund Investment,8178.89,asset
+Interest Credit,2642.06,income
+Loan EMI,5353.49,liability
+Electricity Bill,5723.6,expense
+Home Loan Interest,3479.16,liability
+Loan EMI,9518.96,liability
+Interest Credit,5447.47,income
+Salary Credit,9285.83,income
+Loan EMI,8937.07,liability
+Salary Credit,1703.77,income
+Mutual Fund Investment,4087.28,asset
+Uber Ride,4109.76,expense
+Credit Card Bill,6129.77,liability
+Bonus Received,288.48,income
+Uber Ride,1042.69,expense
+Uber Ride,7450.37,expense
+Uber Ride,3663.51,expense
+Car Loan EMI,7189.9,liability
+Electricity Bill,9484.49,expense
+Swiggy Order,3370.61,expense
+Gold Investment,5884.42,asset
+Amazon Purchase,9652.79,expense
+Mutual Fund Investment,1726.16,asset
+Car Loan EMI,6416.74,liability
+Interest Credit,3592.33,income
+Stock Purchase,8153.94,asset
+Freelance Payment,8374.98,income
+Home Loan Interest,6052.23,liability
+Mutual Fund Investment,635.99,asset
+FD Deposit,4560.85,asset
+Car Loan EMI,8249.16,liability
+Home Loan Interest,5602.59,liability
+Amazon Purchase,2411.57,expense
+Credit Card Bill,8067.67,liability
+Salary Credit,6525.29,income
+FD Deposit,6223.21,asset
+Loan EMI,4629.06,liability
+FD Deposit,7157.08,asset
+Gold Investment,2126.42,asset
+Gold Investment,8722.45,asset
+Amazon Purchase,8353.88,expense
+Interest Credit,9051.88,income
+Stock Purchase,6600.14,asset
+Credit Card Bill,8337.41,liability
+Uber Ride,711.24,expense
+Credit Card Bill,1104.09,liability
+Car Loan EMI,8149.6,liability
+Bonus Received,9352.05,income
+FD Deposit,1431.13,asset
+Bonus Received,4527.54,income
+Car Loan EMI,2090.23,liability
+Amazon Purchase,8832.9,expense
+Car Loan EMI,4845.04,liability
+Loan EMI,4780.28,liability
+Car Loan EMI,8380.23,liability
+Stock Purchase,6581.0,asset
+Loan EMI,2702.05,liability
+Uber Ride,6996.16,expense
+Credit Card Bill,7267.82,liability
+Swiggy Order,358.97,expense
+Interest Credit,8147.59,income
+Amazon Purchase,9362.75,expense
+Gold Investment,1132.25,asset
+Salary Credit,9934.64,income
+Salary Credit,8647.3,income
+Uber Ride,9267.51,expense
+Freelance Payment,8665.01,income
+Electricity Bill,2402.34,expense
+Stock Purchase,104.54,asset
+Interest Credit,2559.33,income
+Freelance Payment,3732.11,income
+Car Loan EMI,3497.87,liability
+Loan EMI,4699.11,liability
+Credit Card Bill,4210.94,liability
+Home Loan Interest,7294.39,liability
+Uber Ride,3454.15,expense
+Bonus Received,6874.96,income
+Interest Credit,5738.12,income
+Salary Credit,839.85,income
+Electricity Bill,4053.52,expense
+Credit Card Bill,2861.11,liability
+Home Loan Interest,8631.34,liability
+FD Deposit,6915.71,asset
+Home Loan Interest,5397.23,liability
+Freelance Payment,3896.3,income
+Stock Purchase,5725.91,asset
+FD Deposit,8759.17,asset
+Home Loan Interest,3277.96,liability
+Bonus Received,8968.88,income
+Stock Purchase,1062.46,asset
+Amazon Purchase,8158.41,expense
+Electricity Bill,1079.49,expense
+Home Loan Interest,224.53,liability
+Amazon Purchase,2094.01,expense
+Salary Credit,7783.07,income
+FD Deposit,6302.53,asset
+Swiggy Order,1574.66,expense
+Amazon Purchase,5519.4,expense
+Stock Purchase,2378.64,asset
+Swiggy Order,4911.06,expense
+Bonus Received,7579.09,income
+Credit Card Bill,8484.23,liability
+Freelance Payment,4117.47,income
+Credit Card Bill,1715.5,liability
+Credit Card Bill,6193.11,liability
+Salary Credit,1240.35,income
+FD Deposit,4049.28,asset
+Stock Purchase,9589.21,asset
+Swiggy Order,3648.13,expense
+FD Deposit,5563.55,asset
+Salary Credit,8044.04,income
+Salary Credit,9359.33,income
+Stock Purchase,2255.86,asset
+Salary Credit,4855.94,income
+Gold Investment,9935.95,asset
+FD Deposit,6434.53,asset
+Gold Investment,2484.97,asset
+Gold Investment,9972.15,asset
+Salary Credit,8005.29,income
+Loan EMI,3038.21,liability
+Salary Credit,414.0,income
+Swiggy Order,1201.41,expense
+Gold Investment,9012.19,asset
+FD Deposit,3975.61,asset
+Bonus Received,347.09,income
+Salary Credit,4962.44,income
+Swiggy Order,1449.48,expense
+Swiggy Order,4108.64,expense
+Electricity Bill,2119.33,expense
+Electricity Bill,4578.74,expense
+Freelance Payment,6128.14,income
+Stock Purchase,5649.01,asset
+Amazon Purchase,8574.38,expense
+Credit Card Bill,2371.84,liability
+Interest Credit,4194.6,income
+Freelance Payment,8653.88,income
+Loan EMI,4463.46,liability
+Freelance Payment,6532.99,income
+Home Loan Interest,3506.91,liability
+Electricity Bill,6638.06,expense
+Gold Investment,3515.35,asset
+Swiggy Order,3814.22,expense
+Loan EMI,2011.47,liability
+Swiggy Order,6333.57,expense
+Electricity Bill,2868.58,expense
+Electricity Bill,4037.27,expense
+Swiggy Order,9185.91,expense
+Stock Purchase,2440.47,asset
+Interest Credit,7817.18,income
+Loan EMI,5363.26,liability
+Interest Credit,6100.16,income
+Freelance Payment,3585.98,income
+Salary Credit,2503.79,income
+Bonus Received,3182.74,income
+Freelance Payment,8871.71,income
+Gold Investment,898.54,asset
+Electricity Bill,5376.98,expense
+Credit Card Bill,9726.01,liability
+Loan EMI,4584.13,liability
+Salary Credit,427.19,income
+Home Loan Interest,9641.83,liability
+Bonus Received,9909.37,income
+Swiggy Order,4935.97,expense
+Uber Ride,3101.02,expense
+Salary Credit,6885.81,income
+Car Loan EMI,1728.35,liability
+Amazon Purchase,3545.65,expense
+Freelance Payment,8073.82,income
+Amazon Purchase,9611.54,expense
+Swiggy Order,6182.63,expense
+Swiggy Order,4146.66,expense
+Freelance Payment,9695.1,income
+Home Loan Interest,2051.35,liability
+Interest Credit,5263.13,income
+Home Loan Interest,6815.56,liability
+Credit Card Bill,6292.95,liability
+Interest Credit,4564.54,income
+Uber Ride,8080.08,expense
+Car Loan EMI,8770.5,liability
+Bonus Received,7435.85,income
+Home Loan Interest,8699.44,liability
+Uber Ride,3461.39,expense
+Interest Credit,5000.89,income
+Salary Credit,3625.84,income
+Bonus Received,2864.89,income
+Freelance Payment,9702.31,income
+Credit Card Bill,8708.34,liability
+Bonus Received,7994.23,income
+Electricity Bill,2499.39,expense
+Credit Card Bill,6151.23,liability
+Mutual Fund Investment,533.28,asset
+Home Loan Interest,1691.02,liability
+Amazon Purchase,2790.29,expense
+Mutual Fund Investment,2895.7,asset
+Bonus Received,4830.68,income
+Salary Credit,4885.04,income
+Salary Credit,6756.32,income
+Freelance Payment,8153.26,income
+Interest Credit,4039.32,income
+Salary Credit,5619.67,income
+Credit Card Bill,3449.1,liability
+Swiggy Order,9030.93,expense
+Gold Investment,5044.32,asset
+Car Loan EMI,7223.41,liability
+Interest Credit,7534.99,income
+Uber Ride,2748.64,expense
+Gold Investment,4531.08,asset
+Uber Ride,5455.65,expense
+FD Deposit,5477.99,asset
+Loan EMI,864.52,liability
+Car Loan EMI,6332.75,liability
+Electricity Bill,7686.6,expense
+Stock Purchase,2258.07,asset
+Amazon Purchase,4714.22,expense
+Loan EMI,6323.68,liability
+Credit Card Bill,3194.87,liability
+Loan EMI,1121.65,liability
+Mutual Fund Investment,2950.78,asset
+Swiggy Order,4488.52,expense
+Car Loan EMI,6253.41,liability
+Interest Credit,2542.41,income
+Car Loan EMI,3375.98,liability
+Interest Credit,6913.46,income
+Bonus Received,6223.97,income
+Mutual Fund Investment,7505.98,asset
+Interest Credit,2611.83,income
+Mutual Fund Investment,988.61,asset
+Electricity Bill,7508.73,expense
+Freelance Payment,2159.29,income
+Loan EMI,4584.01,liability
+Electricity Bill,4324.94,expense
+Swiggy Order,9302.1,expense
+Bonus Received,7762.33,income
+Mutual Fund Investment,5829.39,asset
+Uber Ride,6054.76,expense
+Interest Credit,4365.1,income
+Bonus Received,963.32,income
+Uber Ride,6232.96,expense
+Stock Purchase,2680.32,asset
+Gold Investment,6159.06,asset
+Gold Investment,3050.62,asset
+Home Loan Interest,4205.38,liability
+Car Loan EMI,4183.0,liability
+Freelance Payment,9544.29,income
+Loan EMI,6028.41,liability
+Amazon Purchase,9119.09,expense
+Interest Credit,6661.87,income
+Home Loan Interest,6001.09,liability
+Bonus Received,855.61,income
+Gold Investment,1097.54,asset
+Uber Ride,9916.67,expense
+Freelance Payment,7521.18,income
+Bonus Received,4899.57,income
+Amazon Purchase,3005.19,expense
+Stock Purchase,4267.57,asset
+Stock Purchase,3804.9,asset
+Amazon Purchase,7795.71,expense
+Salary Credit,1912.03,income
+FD Deposit,9821.84,asset
+Mutual Fund Investment,6407.86,asset
+Salary Credit,4252.69,income
+Gold Investment,8264.45,asset
+Stock Purchase,5406.84,asset
+Amazon Purchase,6690.92,expense
+Bonus Received,8398.94,income
+Salary Credit,8285.31,income
+Swiggy Order,5711.64,expense
+Bonus Received,7640.39,income
+Home Loan Interest,2208.8,liability
+Freelance Payment,4893.25,income
+Interest Credit,1503.88,income
+Swiggy Order,944.98,expense
+Car Loan EMI,8067.58,liability
+Credit Card Bill,4396.95,liability
+FD Deposit,7350.24,asset
+Loan EMI,5113.19,liability
+Freelance Payment,1771.58,income
+Home Loan Interest,9420.14,liability
+Home Loan Interest,8985.58,liability
+Swiggy Order,1269.94,expense
+Bonus Received,1199.78,income
+Swiggy Order,1342.59,expense
+Loan EMI,9814.7,liability
+Home Loan Interest,2955.53,liability
+Amazon Purchase,7198.23,expense
+Interest Credit,5629.16,income
+Electricity Bill,670.48,expense
+Car Loan EMI,1930.67,liability
+FD Deposit,5238.67,asset
+Interest Credit,830.7,income
+Freelance Payment,3452.57,income
+Gold Investment,5579.82,asset
+Car Loan EMI,3018.7,liability
+Bonus Received,9014.93,income
+Amazon Purchase,2440.56,expense
+Credit Card Bill,2136.92,liability
+Salary Credit,4264.42,income
+FD Deposit,3188.08,asset
+Stock Purchase,445.02,asset
+Stock Purchase,8812.57,asset
+Bonus Received,3337.35,income
+Amazon Purchase,3076.82,expense
+Amazon Purchase,5407.93,expense
+Home Loan Interest,883.97,liability
+Swiggy Order,9837.38,expense
+Uber Ride,8899.43,expense
+Electricity Bill,2488.61,expense
+Salary Credit,1460.14,income
+Bonus Received,1130.43,income
+Freelance Payment,2634.12,income
+Gold Investment,2798.6,asset
+Stock Purchase,6518.83,asset
+Amazon Purchase,3009.97,expense
+Car Loan EMI,1935.17,liability
+Amazon Purchase,9879.1,expense
+Gold Investment,1257.76,asset
+Salary Credit,422.04,income
+Car Loan EMI,5528.56,liability
+Amazon Purchase,1929.58,expense
+FD Deposit,2497.1,asset
+Electricity Bill,9475.5,expense
+Mutual Fund Investment,611.61,asset
+Electricity Bill,5767.79,expense
+Salary Credit,9546.11,income
+Interest Credit,4093.01,income
+Credit Card Bill,5732.1,liability
+FD Deposit,3181.38,asset
+Mutual Fund Investment,2748.62,asset
+FD Deposit,2198.99,asset
+Freelance Payment,9011.58,income
+Electricity Bill,8306.32,expense
+Bonus Received,9810.86,income
+FD Deposit,4628.22,asset
+Electricity Bill,831.79,expense
+Stock Purchase,5977.05,asset
+Car Loan EMI,4001.94,liability
+Car Loan EMI,1742.35,liability
+Salary Credit,384.95,income
+Car Loan EMI,6671.16,liability
+Salary Credit,5292.02,income
+Swiggy Order,9619.99,expense
+Interest Credit,2489.66,income
+Stock Purchase,6753.19,asset
+Mutual Fund Investment,8565.38,asset
+Car Loan EMI,5126.35,liability
+Mutual Fund Investment,2961.97,asset
+Gold Investment,8029.98,asset
+Car Loan EMI,7538.61,liability
+Loan EMI,5170.2,liability
+Interest Credit,1074.4,income
+Interest Credit,5151.87,income
+Gold Investment,9546.08,asset
+Interest Credit,6230.82,income
+Bonus Received,8992.19,income
+Amazon Purchase,5456.97,expense
+Mutual Fund Investment,7543.27,asset
+Amazon Purchase,8617.45,expense
+Bonus Received,4795.47,income
+Credit Card Bill,4846.55,liability
+Home Loan Interest,8615.16,liability
+Interest Credit,891.62,income
+FD Deposit,7622.04,asset
+Freelance Payment,3123.94,income
+Loan EMI,5151.48,liability
+Salary Credit,3637.18,income
+Gold Investment,7782.97,asset
+Electricity Bill,3535.64,expense
+Interest Credit,524.63,income
+Credit Card Bill,8518.04,liability
+Gold Investment,2114.48,asset
+Freelance Payment,2994.1,income
+Uber Ride,5833.3,expense
+Loan EMI,4541.17,liability
+Loan EMI,3795.22,liability
+Swiggy Order,4452.49,expense
+Swiggy Order,945.74,expense
+Amazon Purchase,221.98,expense
+Amazon Purchase,4772.78,expense
+Mutual Fund Investment,3973.38,asset
+Electricity Bill,6844.46,expense
+Stock Purchase,5867.8,asset
+Stock Purchase,9142.44,asset
+Bonus Received,1606.5,income
+Salary Credit,8650.51,income
+Stock Purchase,767.83,asset
+Home Loan Interest,1537.93,liability
+Gold Investment,8992.25,asset
+Credit Card Bill,2447.03,liability
+Mutual Fund Investment,9114.52,asset
+Amazon Purchase,3826.17,expense
+Loan EMI,6793.31,liability
+Freelance Payment,4823.83,income
+Loan EMI,570.35,liability
+Stock Purchase,1430.02,asset
+FD Deposit,300.82,asset
+Gold Investment,586.39,asset
+Freelance Payment,2682.97,income
+Car Loan EMI,7940.2,liability
+Bonus Received,4901.93,income
+Car Loan EMI,1896.26,liability
+Electricity Bill,6620.83,expense
+Stock Purchase,5322.24,asset
+Credit Card Bill,3084.1,liability
+Freelance Payment,3773.14,income
+Gold Investment,8610.16,asset
+Loan EMI,6149.83,liability
+Home Loan Interest,7387.21,liability
+Mutual Fund Investment,3062.81,asset
+FD Deposit,6607.99,asset
+Credit Card Bill,2658.02,liability
+Loan EMI,3234.87,liability
+Loan EMI,2511.44,liability
+Home Loan Interest,7078.34,liability
+Stock Purchase,347.11,asset
+Interest Credit,3580.81,income
+Car Loan EMI,8057.81,liability
+Uber Ride,3793.04,expense
+Freelance Payment,2822.96,income
+Salary Credit,5284.38,income
+Credit Card Bill,9695.18,liability
+Car Loan EMI,685.51,liability
+Swiggy Order,5997.49,expense
+Freelance Payment,7622.74,income
+Electricity Bill,3431.96,expense
+Uber Ride,3062.02,expense
+FD Deposit,5133.64,asset
+Stock Purchase,1366.42,asset
+Home Loan Interest,5676.84,liability
+Gold Investment,4648.47,asset
+Salary Credit,3056.52,income
+FD Deposit,813.01,asset
+Home Loan Interest,6544.66,liability
+Swiggy Order,6358.08,expense
+Mutual Fund Investment,7603.21,asset
+Freelance Payment,6813.79,income
+Amazon Purchase,9931.05,expense
+Uber Ride,645.05,expense
+Mutual Fund Investment,2068.34,asset
+Bonus Received,1428.2,income
+Gold Investment,8524.23,asset
+Gold Investment,108.4,asset
+Interest Credit,5462.45,income
+Electricity Bill,6104.59,expense
+Amazon Purchase,9031.89,expense
+Freelance Payment,4682.85,income
+Uber Ride,551.93,expense
+Salary Credit,9211.17,income
+Car Loan EMI,8407.13,liability
+Amazon Purchase,8038.78,expense
+Mutual Fund Investment,3755.6,asset
+Uber Ride,2862.02,expense
+FD Deposit,8785.27,asset
+Mutual Fund Investment,4727.36,asset
+Bonus Received,2838.27,income
+FD Deposit,1886.25,asset
+Bonus Received,7330.61,income
+Gold Investment,6592.66,asset
+Amazon Purchase,5017.51,expense
+Loan EMI,596.52,liability
+Swiggy Order,1443.67,expense
+Uber Ride,9691.23,expense
+Stock Purchase,5917.81,asset
+Home Loan Interest,7413.98,liability
+Interest Credit,9914.49,income
+Stock Purchase,2407.53,asset
+Gold Investment,8984.96,asset
+Home Loan Interest,8643.39,liability
+Amazon Purchase,4311.48,expense
+Gold Investment,1199.33,asset
+Stock Purchase,5215.08,asset
+Loan EMI,5537.93,liability
+Home Loan Interest,8606.67,liability
+Amazon Purchase,4411.8,expense
+FD Deposit,3510.7,asset
+Uber Ride,6839.65,expense
+Home Loan Interest,832.25,liability
+Electricity Bill,2909.79,expense
+FD Deposit,9253.23,asset
+Gold Investment,9390.03,asset
+Gold Investment,5757.85,asset
+Uber Ride,5865.77,expense
+Bonus Received,6728.04,income
+Loan EMI,8958.6,liability
+Uber Ride,439.77,expense
+Salary Credit,4475.64,income
+Bonus Received,8382.85,income
+Interest Credit,4329.6,income
+Electricity Bill,3671.0,expense
+Swiggy Order,1312.53,expense
+Uber Ride,3152.73,expense
+Mutual Fund Investment,2859.77,asset
+Interest Credit,6633.07,income
+Uber Ride,7267.91,expense
+Interest Credit,6783.93,income
+Uber Ride,5717.08,expense
+FD Deposit,1357.04,asset
+Mutual Fund Investment,9433.93,asset
+FD Deposit,8691.97,asset
+Salary Credit,2333.24,income
+Car Loan EMI,2236.35,liability
+Loan EMI,9138.32,liability
+Electricity Bill,8542.03,expense
+Loan EMI,6251.56,liability
+Swiggy Order,2716.68,expense
+Interest Credit,9376.07,income
+Freelance Payment,8888.47,income
+Car Loan EMI,6178.79,liability
+Electricity Bill,2299.63,expense
+Credit Card Bill,6115.73,liability
+Amazon Purchase,2476.83,expense
+Uber Ride,7945.41,expense
+Interest Credit,2685.04,income
+Loan EMI,7136.48,liability
+Salary Credit,7845.43,income
+Loan EMI,120.58,liability
+Freelance Payment,849.39,income
+Electricity Bill,172.42,expense
+Electricity Bill,9657.71,expense
+Bonus Received,6326.49,income
+Amazon Purchase,8423.04,expense
+Loan EMI,7142.18,liability
+Uber Ride,6945.35,expense
+Car Loan EMI,1879.1,liability
+Freelance Payment,6352.03,income
+Uber Ride,7179.45,expense
+Bonus Received,5466.84,income
+FD Deposit,8209.34,asset
+FD Deposit,3851.15,asset
+Freelance Payment,1172.64,income
+Amazon Purchase,8759.69,expense
+Salary Credit,2810.41,income
+Electricity Bill,5133.83,expense
+Bonus Received,7937.85,income
+Amazon Purchase,1384.6,expense
+Uber Ride,1239.24,expense
+Uber Ride,7857.19,expense
+Car Loan EMI,2431.78,liability
+Home Loan Interest,7138.22,liability
+Salary Credit,8772.75,income
+Loan EMI,2271.16,liability
+Amazon Purchase,4953.31,expense
+Bonus Received,837.7,income
+Interest Credit,9214.29,income
+Home Loan Interest,246.29,liability
+Credit Card Bill,1547.42,liability
+Stock Purchase,318.98,asset
+Interest Credit,7713.22,income
+Credit Card Bill,8063.03,liability
+Interest Credit,5109.03,income
+Electricity Bill,7185.06,expense
+Stock Purchase,5927.49,asset
+Car Loan EMI,4603.37,liability
+Stock Purchase,926.98,asset
+Uber Ride,4842.68,expense
+Salary Credit,5307.17,income
+Swiggy Order,8748.86,expense
+Stock Purchase,3592.03,asset
+Home Loan Interest,1760.59,liability
+Uber Ride,6472.93,expense
+Amazon Purchase,284.63,expense
+Credit Card Bill,9407.18,liability
+Bonus Received,1566.83,income
+Salary Credit,865.46,income
+Loan EMI,7519.91,liability
+Gold Investment,6474.73,asset
+Loan EMI,2121.94,liability
+Loan EMI,2057.42,liability
+Interest Credit,9534.85,income
+Home Loan Interest,6807.34,liability
+Swiggy Order,6945.76,expense
+Home Loan Interest,259.42,liability
+Interest Credit,6743.02,income
+FD Deposit,4424.93,asset
+Bonus Received,5190.84,income
+Electricity Bill,1013.62,expense
+Home Loan Interest,6868.86,liability
+FD Deposit,450.4,asset
+Stock Purchase,5155.65,asset
+Loan EMI,1921.02,liability
+Credit Card Bill,9338.98,liability
+Uber Ride,2581.41,expense
+Car Loan EMI,5308.67,liability
+Mutual Fund Investment,8884.98,asset
+Freelance Payment,519.22,income
+Amazon Purchase,7318.94,expense
+Uber Ride,4244.25,expense
+Swiggy Order,703.24,expense
+Loan EMI,9955.46,liability
+Swiggy Order,7049.36,expense
+Mutual Fund Investment,2112.34,asset
+Stock Purchase,8502.98,asset
+Home Loan Interest,9302.27,liability
+Stock Purchase,2113.73,asset
+Electricity Bill,7064.41,expense
+Stock Purchase,3575.18,asset
+Car Loan EMI,7991.22,liability
+Mutual Fund Investment,5196.05,asset
+Mutual Fund Investment,5067.5,asset
+Interest Credit,6218.46,income
+Gold Investment,1317.27,asset
+Uber Ride,4787.85,expense
+Stock Purchase,826.01,asset
+Interest Credit,8067.49,income
+Credit Card Bill,3572.19,liability
+Interest Credit,3562.42,income
+Swiggy Order,5667.37,expense
+Mutual Fund Investment,7774.1,asset
+Home Loan Interest,9570.78,liability
+Home Loan Interest,2972.14,liability
+Interest Credit,1541.63,income
+Interest Credit,5880.05,income
+Swiggy Order,115.34,expense
+Mutual Fund Investment,536.81,asset
+Gold Investment,5353.9,asset
+Loan EMI,8082.14,liability
+Stock Purchase,6738.78,asset
+Electricity Bill,3989.9,expense
+Amazon Purchase,5438.76,expense
+Gold Investment,9870.51,asset
+Mutual Fund Investment,7956.69,asset
+Car Loan EMI,9195.83,liability
+Car Loan EMI,5398.86,liability
+Gold Investment,1093.85,asset
+Bonus Received,9393.18,income
+Mutual Fund Investment,6687.53,asset
+Mutual Fund Investment,5397.97,asset
+Swiggy Order,7391.44,expense
+FD Deposit,4620.1,asset
+Amazon Purchase,6423.43,expense
+Freelance Payment,5231.46,income
+Stock Purchase,9976.22,asset
+Home Loan Interest,8151.76,liability
+Gold Investment,3278.64,asset
+Gold Investment,5192.98,asset
+Loan EMI,2237.86,liability
+Uber Ride,3916.25,expense
+Home Loan Interest,3896.15,liability
+Loan EMI,8155.95,liability
+Car Loan EMI,1738.31,liability
+Stock Purchase,6914.48,asset
+Loan EMI,5892.39,liability
+Uber Ride,9059.14,expense
+Gold Investment,8744.27,asset
+Loan EMI,2658.53,liability
+Gold Investment,8987.73,asset
+Stock Purchase,1781.55,asset
+Interest Credit,7073.14,income
+Electricity Bill,4107.43,expense
+Freelance Payment,3305.32,income
+FD Deposit,586.65,asset
+Loan EMI,1733.38,liability
+Salary Credit,234.71,income
+Stock Purchase,7563.76,asset
+Loan EMI,7061.6,liability
+Gold Investment,2685.69,asset
+Salary Credit,1328.97,income
+Amazon Purchase,7786.71,expense
+Electricity Bill,2063.96,expense
+Bonus Received,1915.1,income
+Bonus Received,599.47,income
+Home Loan Interest,9667.98,liability
+Mutual Fund Investment,6094.16,asset
+Amazon Purchase,4019.33,expense
+FD Deposit,2883.6,asset
+Uber Ride,715.43,expense
+Salary Credit,2950.79,income
+Freelance Payment,6085.22,income
+Uber Ride,2045.72,expense
+Car Loan EMI,1359.4,liability
+Loan EMI,9704.81,liability
+Interest Credit,2916.51,income
+Electricity Bill,7630.23,expense
+Loan EMI,5600.64,liability
+Electricity Bill,8705.93,expense
+Gold Investment,2835.18,asset
+Mutual Fund Investment,2084.51,asset
+Uber Ride,4665.14,expense
+Bonus Received,7038.52,income
+FD Deposit,8091.09,asset
+FD Deposit,5146.68,asset
+Interest Credit,4472.79,income
+Amazon Purchase,9688.38,expense
+Gold Investment,6872.58,asset
+FD Deposit,6989.66,asset
+Mutual Fund Investment,852.43,asset
+Bonus Received,9259.88,income
+Car Loan EMI,8850.16,liability
+Stock Purchase,8280.59,asset
+Loan EMI,2928.96,liability
+Mutual Fund Investment,8509.85,asset
+Electricity Bill,6127.59,expense
+Loan EMI,2814.5,liability
+Stock Purchase,4818.77,asset
+Mutual Fund Investment,8387.87,asset
+Swiggy Order,7539.32,expense
+Amazon Purchase,3704.95,expense
+Amazon Purchase,4785.25,expense
+Gold Investment,4916.0,asset
+Credit Card Bill,7920.38,liability
+Bonus Received,7116.36,income
+Swiggy Order,3551.84,expense
+Freelance Payment,2185.68,income
+Amazon Purchase,5550.41,expense
+Freelance Payment,4250.29,income
+Home Loan Interest,9647.16,liability
+Amazon Purchase,7692.54,expense
+FD Deposit,2427.42,asset
+Gold Investment,1153.55,asset
+Loan EMI,7141.82,liability
+Swiggy Order,5605.12,expense
+Swiggy Order,7641.44,expense
+FD Deposit,4175.19,asset
+Stock Purchase,4106.39,asset
+Stock Purchase,2199.81,asset
+Loan EMI,6719.77,liability
+Interest Credit,8001.61,income
+Electricity Bill,1279.42,expense
+Amazon Purchase,1904.63,expense
+Gold Investment,7678.86,asset
+Home Loan Interest,578.28,liability
+Uber Ride,257.61,expense
+Bonus Received,2674.23,income
+Car Loan EMI,7060.59,liability
+Salary Credit,8326.88,income
+Salary Credit,5985.19,income
+Freelance Payment,7760.11,income
+Bonus Received,1226.5,income
+Electricity Bill,2841.67,expense
+Interest Credit,2413.9,income
+Uber Ride,4034.66,expense
+Stock Purchase,5372.17,asset
+Electricity Bill,8926.93,expense
+Uber Ride,7779.26,expense
+Loan EMI,4043.53,liability
+Home Loan Interest,9644.78,liability
+FD Deposit,462.99,asset
+Electricity Bill,3371.04,expense
+Uber Ride,9486.63,expense
+Interest Credit,3132.01,income
+Credit Card Bill,3779.92,liability
+Electricity Bill,7461.34,expense
+Amazon Purchase,4371.37,expense
+FD Deposit,3880.85,asset
+Amazon Purchase,8508.55,expense
+Mutual Fund Investment,5208.16,asset
+Car Loan EMI,5323.1,liability
+Amazon Purchase,7424.88,expense
+Stock Purchase,6089.69,asset
+Salary Credit,263.23,income
+Salary Credit,1620.34,income
+Swiggy Order,5225.04,expense
+Loan EMI,1574.66,liability
+Interest Credit,9420.55,income
+Electricity Bill,386.34,expense
+Electricity Bill,6238.46,expense
+Swiggy Order,9198.78,expense
+Stock Purchase,8946.05,asset
+Car Loan EMI,660.01,liability
+Home Loan Interest,6844.17,liability
+Swiggy Order,6091.56,expense
+Loan EMI,2751.69,liability
+Salary Credit,5453.46,income
+Mutual Fund Investment,7685.14,asset
+Loan EMI,1501.32,liability
+Swiggy Order,7024.51,expense
+Credit Card Bill,9833.65,liability
+Uber Ride,4200.71,expense
+Electricity Bill,7865.68,expense
+Mutual Fund Investment,8528.13,asset
+Credit Card Bill,5541.98,liability
+Swiggy Order,8154.74,expense
+Gold Investment,3720.67,asset
+Mutual Fund Investment,5916.79,asset
+Car Loan EMI,7529.44,liability
+Electricity Bill,741.95,expense
+Car Loan EMI,7063.07,liability
+Salary Credit,8310.71,income
+Salary Credit,6421.09,income
+Gold Investment,4893.68,asset
+Stock Purchase,8916.66,asset
+Salary Credit,8852.6,income
+Home Loan Interest,6720.59,liability
+Stock Purchase,5306.58,asset
+Freelance Payment,9636.73,income
+Interest Credit,5269.81,income
+Swiggy Order,8903.86,expense
+Swiggy Order,3943.94,expense
+Electricity Bill,5852.78,expense
+Car Loan EMI,9193.27,liability
+Salary Credit,3315.96,income
+Gold Investment,8716.17,asset
+Gold Investment,5569.66,asset
+Amazon Purchase,9196.73,expense
+Interest Credit,1415.86,income
+Uber Ride,4400.66,expense
+Electricity Bill,4636.16,expense
+Mutual Fund Investment,6781.94,asset
+Gold Investment,6067.15,asset
+Electricity Bill,2134.21,expense
+Uber Ride,580.83,expense
+Electricity Bill,5368.16,expense
+Mutual Fund Investment,1358.18,asset
+Interest Credit,9836.43,income
+Uber Ride,9259.65,expense
+Mutual Fund Investment,9761.54,asset
+Loan EMI,6792.02,liability
+Credit Card Bill,2421.03,liability
+Home Loan Interest,3336.85,liability
+FD Deposit,2238.97,asset
+Credit Card Bill,201.85,liability
+Mutual Fund Investment,1717.97,asset
+Amazon Purchase,9078.25,expense
+Mutual Fund Investment,6758.64,asset
+Electricity Bill,3725.71,expense
+Interest Credit,5473.35,income
+Gold Investment,2190.15,asset
+Mutual Fund Investment,8031.96,asset
+Stock Purchase,1537.14,asset
+Bonus Received,6778.81,income
+Home Loan Interest,9971.72,liability
+Salary Credit,4774.33,income
+Uber Ride,461.18,expense
+Stock Purchase,4298.64,asset
+Loan EMI,6029.37,liability
+Uber Ride,5974.21,expense
+Electricity Bill,9469.52,expense
+Car Loan EMI,8685.92,liability
+Stock Purchase,8428.62,asset
+Freelance Payment,958.36,income
+Uber Ride,516.17,expense
+Amazon Purchase,201.95,expense
+Freelance Payment,1251.57,income
+Freelance Payment,5897.45,income
+Salary Credit,3080.37,income
+Electricity Bill,9756.3,expense
+Swiggy Order,3049.28,expense
+FD Deposit,9353.92,asset
+Bonus Received,2390.1,income
+Gold Investment,7757.69,asset
+Gold Investment,6008.54,asset
+Freelance Payment,6662.23,income
+Loan EMI,174.92,liability
+Car Loan EMI,8443.12,liability
+Amazon Purchase,308.05,expense
+Interest Credit,1585.06,income
+Uber Ride,7551.99,expense
+Freelance Payment,3317.22,income
+Interest Credit,4126.45,income
+Bonus Received,4023.54,income
+Salary Credit,7062.71,income
+Electricity Bill,4972.7,expense
+Salary Credit,7313.98,income
+Home Loan Interest,8814.39,liability
+Electricity Bill,734.88,expense
+Loan EMI,8009.51,liability
+Gold Investment,3061.31,asset
+Salary Credit,3551.1,income
+Swiggy Order,4199.34,expense
+Uber Ride,5142.58,expense
+Mutual Fund Investment,1600.78,asset
+Amazon Purchase,8101.49,expense
+Interest Credit,4663.75,income
+Credit Card Bill,7395.14,liability
+Home Loan Interest,2885.88,liability
+Mutual Fund Investment,1356.69,asset
+Loan EMI,897.88,liability
+Swiggy Order,6805.62,expense
+Bonus Received,9829.28,income
+Mutual Fund Investment,1832.17,asset
+Home Loan Interest,7891.84,liability
+Uber Ride,2034.24,expense
+FD Deposit,8551.86,asset
+Mutual Fund Investment,7199.48,asset
+Amazon Purchase,7649.16,expense
+Salary Credit,1652.19,income
+Car Loan EMI,4114.71,liability
+FD Deposit,5248.01,asset
+Freelance Payment,8737.75,income
+Swiggy Order,9571.96,expense
+Stock Purchase,3174.86,asset
+Amazon Purchase,4047.42,expense
+Credit Card Bill,6606.28,liability
+Amazon Purchase,6260.66,expense
+Amazon Purchase,4621.27,expense
+Stock Purchase,1798.96,asset
+Car Loan EMI,3298.75,liability
+Interest Credit,6838.77,income
+Car Loan EMI,1828.0,liability
+Electricity Bill,3545.97,expense
+Home Loan Interest,2555.17,liability
+Stock Purchase,2447.42,asset
+Mutual Fund Investment,437.18,asset
+Bonus Received,1283.32,income
+Uber Ride,4734.87,expense
+Bonus Received,5439.64,income
+Electricity Bill,1302.75,expense
+FD Deposit,9959.3,asset
+Car Loan EMI,446.0,liability
+Car Loan EMI,2750.09,liability
+Interest Credit,1944.23,income
+Car Loan EMI,1708.19,liability
+Stock Purchase,9265.02,asset
+Freelance Payment,6341.91,income
+Gold Investment,5673.51,asset
+Amazon Purchase,5082.35,expense
+Electricity Bill,5838.57,expense
+FD Deposit,236.25,asset
+FD Deposit,5544.25,asset
+Salary Credit,4756.66,income
+Stock Purchase,5776.43,asset
+Bonus Received,6407.98,income
+Stock Purchase,5108.49,asset
+Gold Investment,4613.55,asset
+Home Loan Interest,6047.37,liability
+Stock Purchase,8234.71,asset
+FD Deposit,460.63,asset
+Amazon Purchase,448.22,expense
+Loan EMI,5608.66,liability
+Credit Card Bill,8541.6,liability
+Freelance Payment,5654.91,income
+Bonus Received,567.26,income
+Mutual Fund Investment,8817.11,asset
+Uber Ride,4525.82,expense
+Car Loan EMI,6508.55,liability
+Amazon Purchase,7266.13,expense
+Stock Purchase,4468.34,asset
+Mutual Fund Investment,452.91,asset
+Mutual Fund Investment,9541.2,asset
+Loan EMI,1120.65,liability
+Swiggy Order,8948.77,expense
+Home Loan Interest,3288.44,liability
+Salary Credit,6509.67,income
+Salary Credit,1337.54,income
+Gold Investment,4760.52,asset
+Car Loan EMI,5231.59,liability
+Freelance Payment,5650.58,income
+Mutual Fund Investment,6677.95,asset
+Mutual Fund Investment,9823.86,asset
+FD Deposit,5508.64,asset
+Uber Ride,1183.63,expense
+Loan EMI,197.67,liability
+Mutual Fund Investment,4475.13,asset
+Credit Card Bill,8552.35,liability
+Uber Ride,1644.82,expense
+Uber Ride,8219.81,expense
+Credit Card Bill,5054.14,liability
+Electricity Bill,3352.57,expense
+Home Loan Interest,7206.32,liability
+Salary Credit,9872.01,income
+Gold Investment,3326.82,asset
+Bonus Received,3166.51,income
+Freelance Payment,1711.31,income
+Mutual Fund Investment,2974.98,asset
+Mutual Fund Investment,7942.5,asset
+FD Deposit,8088.45,asset
+Electricity Bill,1120.69,expense
+Amazon Purchase,2709.49,expense
+Uber Ride,6261.64,expense
+Home Loan Interest,344.55,liability
+Stock Purchase,156.77,asset
+Amazon Purchase,3359.26,expense
+Gold Investment,2385.89,asset
+Bonus Received,239.74,income
+Freelance Payment,6740.23,income
+Freelance Payment,2008.9,income
+FD Deposit,6049.54,asset
+FD Deposit,212.06,asset
+Loan EMI,5796.44,liability
+Credit Card Bill,3703.35,liability
+FD Deposit,8905.15,asset
+Credit Card Bill,3183.81,liability
+Gold Investment,9499.21,asset
+Mutual Fund Investment,9762.53,asset
+Gold Investment,6311.83,asset
+Stock Purchase,1505.17,asset
+Freelance Payment,2746.53,income
+Electricity Bill,6182.82,expense
+Mutual Fund Investment,8810.9,asset
+Amazon Purchase,6692.25,expense
+Amazon Purchase,4982.33,expense
+Gold Investment,457.6,asset
+Gold Investment,7488.1,asset
+Mutual Fund Investment,9381.04,asset
+Loan EMI,226.64,liability
+Uber Ride,6162.88,expense
+Uber Ride,3075.22,expense
+Car Loan EMI,7997.25,liability
+Swiggy Order,493.55,expense
+FD Deposit,6505.37,asset
+Home Loan Interest,9700.2,liability
+Car Loan EMI,7253.34,liability
+FD Deposit,3744.11,asset
+Gold Investment,1517.27,asset
+Interest Credit,7970.97,income
+Bonus Received,5611.22,income
+Bonus Received,6195.62,income
+Bonus Received,6236.7,income
+Loan EMI,5957.73,liability
+Credit Card Bill,3207.0,liability
+Electricity Bill,5046.56,expense
+Interest Credit,8640.2,income
+Freelance Payment,2756.11,income
+Car Loan EMI,1542.82,liability
+FD Deposit,1534.23,asset
+Mutual Fund Investment,4454.79,asset
+Credit Card Bill,3880.08,liability
+FD Deposit,350.59,asset
+Amazon Purchase,7129.71,expense
+Gold Investment,4668.79,asset
+Freelance Payment,6922.69,income
+Credit Card Bill,9140.48,liability
+FD Deposit,777.19,asset
+Salary Credit,9004.28,income
+Home Loan Interest,8121.97,liability
+Uber Ride,4708.91,expense
+Gold Investment,3646.95,asset
+Swiggy Order,420.09,expense
+Uber Ride,9397.07,expense
+Interest Credit,975.99,income
+Gold Investment,5743.55,asset
+Credit Card Bill,139.83,liability
+Freelance Payment,7325.15,income
+Bonus Received,9922.62,income
+Interest Credit,5424.57,income
+Bonus Received,423.2,income
+Bonus Received,2837.32,income
+Stock Purchase,1372.24,asset
+Mutual Fund Investment,2449.84,asset
+Credit Card Bill,1530.67,liability
+Freelance Payment,8986.24,income
+Credit Card Bill,9848.94,liability
+Bonus Received,360.75,income
+Freelance Payment,2192.95,income
+Mutual Fund Investment,9902.91,asset
+Credit Card Bill,4673.72,liability
+Bonus Received,6191.75,income
+Bonus Received,9656.07,income
+Home Loan Interest,7000.72,liability
+Freelance Payment,9403.46,income
+Car Loan EMI,4347.29,liability
+Mutual Fund Investment,7139.02,asset
+FD Deposit,7000.35,asset
+Electricity Bill,5870.69,expense
+Car Loan EMI,9104.19,liability
+Car Loan EMI,3467.81,liability
+Uber Ride,2946.7,expense
+Salary Credit,5467.49,income
+Bonus Received,9908.07,income
+FD Deposit,8852.9,asset
+Car Loan EMI,6013.62,liability
+Amazon Purchase,2589.85,expense
+Interest Credit,1279.66,income
+Interest Credit,5789.33,income
+Freelance Payment,4892.88,income
+Credit Card Bill,1760.74,liability
+Freelance Payment,9579.96,income
+Freelance Payment,7151.71,income
+Gold Investment,292.7,asset
+Interest Credit,4155.71,income
+Bonus Received,3624.67,income
+Salary Credit,1109.73,income
+Mutual Fund Investment,8800.36,asset
+Mutual Fund Investment,1530.57,asset
+Salary Credit,6159.49,income
+Amazon Purchase,6535.25,expense
+FD Deposit,6888.45,asset
+Uber Ride,3569.19,expense
+Bonus Received,4341.69,income
+FD Deposit,5862.6,asset
+Interest Credit,8729.27,income
+Mutual Fund Investment,9954.47,asset
+FD Deposit,5952.62,asset
+Gold Investment,9391.69,asset
+Freelance Payment,7950.9,income
+Amazon Purchase,9192.47,expense
+Loan EMI,1431.64,liability
+Loan EMI,5111.27,liability
+Gold Investment,2654.35,asset
+Bonus Received,6129.93,income
+Interest Credit,690.47,income
+Salary Credit,9986.05,income
+Freelance Payment,3112.86,income
+FD Deposit,8955.01,asset
+Uber Ride,2630.62,expense
+FD Deposit,101.63,asset
+Gold Investment,2974.22,asset
+Amazon Purchase,1452.31,expense
+Freelance Payment,1082.06,income
+Electricity Bill,9018.66,expense
+Mutual Fund Investment,4702.35,asset
+Credit Card Bill,4024.57,liability
+Salary Credit,348.97,income
+Swiggy Order,6214.16,expense
+Swiggy Order,6218.77,expense
+Swiggy Order,5097.01,expense
+Gold Investment,4070.64,asset
+Home Loan Interest,6654.23,liability
+Swiggy Order,8393.11,expense
+Uber Ride,4262.29,expense
+Home Loan Interest,4555.34,liability
+FD Deposit,1025.66,asset
+Car Loan EMI,6027.03,liability
+Car Loan EMI,4842.46,liability
+FD Deposit,566.09,asset
+Interest Credit,6833.28,income
+Loan EMI,8484.23,liability
+Amazon Purchase,819.22,expense
+Loan EMI,4582.43,liability
+Loan EMI,5014.06,liability
+Uber Ride,192.26,expense
+Swiggy Order,9667.82,expense
+FD Deposit,222.16,asset
+Swiggy Order,6540.84,expense
+Stock Purchase,4554.02,asset
+Loan EMI,984.63,liability
+FD Deposit,8754.95,asset
+Loan EMI,5608.18,liability
+Car Loan EMI,7542.93,liability
+Gold Investment,3368.62,asset
+Freelance Payment,7419.54,income
+Amazon Purchase,9799.7,expense
+Interest Credit,3037.91,income
+Gold Investment,9399.64,asset
+Car Loan EMI,6404.71,liability
+Home Loan Interest,1297.73,liability
+Swiggy Order,4255.94,expense
+Car Loan EMI,4666.9,liability
+Swiggy Order,5877.22,expense
+Home Loan Interest,6659.06,liability
+Freelance Payment,8304.02,income
+Stock Purchase,9291.3,asset
+Home Loan Interest,2183.31,liability
+Credit Card Bill,9183.0,liability
+Home Loan Interest,7239.03,liability
+Swiggy Order,9845.86,expense
+Swiggy Order,9926.79,expense
+Interest Credit,8077.39,income
+FD Deposit,9047.28,asset
+Home Loan Interest,919.29,liability
+Home Loan Interest,7293.44,liability
+Car Loan EMI,8871.43,liability
+Freelance Payment,3773.86,income
+Home Loan Interest,1516.09,liability
+Swiggy Order,1484.15,expense
+FD Deposit,4919.29,asset
+Gold Investment,920.35,asset
+Swiggy Order,4321.59,expense
+Interest Credit,3385.55,income
+Loan EMI,7029.95,liability
+FD Deposit,3871.32,asset
+Bonus Received,4537.43,income
+Swiggy Order,2738.43,expense
+Swiggy Order,4556.5,expense
+Amazon Purchase,9883.48,expense
+Swiggy Order,3317.83,expense
+Amazon Purchase,5754.84,expense
+Interest Credit,189.7,income
+Loan EMI,2682.98,liability
+Uber Ride,4849.52,expense
+Electricity Bill,1422.71,expense
+Stock Purchase,3012.81,asset
+Loan EMI,3854.88,liability
+Interest Credit,2122.82,income
+Freelance Payment,4656.42,income
+Car Loan EMI,2220.11,liability
+Car Loan EMI,5393.49,liability
+Uber Ride,3922.92,expense
+Loan EMI,5866.31,liability
+Swiggy Order,8372.51,expense
+Salary Credit,330.38,income
+Swiggy Order,2759.79,expense
+Mutual Fund Investment,129.56,asset
+Bonus Received,3301.56,income
+Car Loan EMI,1582.45,liability
+Amazon Purchase,343.79,expense
+Stock Purchase,1285.44,asset
+FD Deposit,5924.27,asset
+Salary Credit,238.35,income
+Loan EMI,1254.98,liability
+Credit Card Bill,5403.45,liability
+Electricity Bill,6403.29,expense
+Mutual Fund Investment,4919.84,asset
+Electricity Bill,3140.37,expense
+Electricity Bill,9180.2,expense
+Swiggy Order,9535.31,expense
+Credit Card Bill,5771.81,liability
+Amazon Purchase,8238.02,expense
+Credit Card Bill,838.44,liability
+Credit Card Bill,8852.03,liability
+Salary Credit,5466.56,income
+Interest Credit,9703.4,income
+Amazon Purchase,2809.72,expense
+Amazon Purchase,7205.38,expense
+Amazon Purchase,7625.63,expense
+Loan EMI,7874.05,liability
+Mutual Fund Investment,8031.14,asset
+Electricity Bill,6613.58,expense
+Mutual Fund Investment,8532.42,asset
+Car Loan EMI,1278.26,liability
+Car Loan EMI,4027.49,liability
+Home Loan Interest,1598.86,liability
+Mutual Fund Investment,126.97,asset
+Credit Card Bill,6349.67,liability
+Home Loan Interest,6469.74,liability
+Freelance Payment,2432.61,income
+Uber Ride,203.62,expense
+Bonus Received,4747.59,income
+Uber Ride,7752.78,expense
+Interest Credit,5042.76,income
+Gold Investment,505.69,asset
+Salary Credit,3558.63,income
+Salary Credit,2782.91,income
+FD Deposit,9982.48,asset
+Freelance Payment,8716.69,income
+Bonus Received,5519.08,income
+Mutual Fund Investment,3232.56,asset
+Amazon Purchase,983.35,expense
+Freelance Payment,3109.0,income
+FD Deposit,7664.79,asset
+Amazon Purchase,5937.43,expense
+Freelance Payment,5189.39,income
+Amazon Purchase,3656.84,expense
+Salary Credit,9109.03,income
+Credit Card Bill,5809.46,liability
+Gold Investment,2113.31,asset
+Uber Ride,3496.81,expense
+Bonus Received,6617.78,income
+Freelance Payment,9267.03,income
+Credit Card Bill,2053.04,liability
+Interest Credit,4991.01,income
+Freelance Payment,185.67,income
+Interest Credit,4443.29,income
+Electricity Bill,581.2,expense
+Credit Card Bill,3843.76,liability
+Swiggy Order,4368.95,expense
+Uber Ride,1744.12,expense
+Interest Credit,554.79,income
+Electricity Bill,3957.0,expense
+Mutual Fund Investment,4556.0,asset
+Amazon Purchase,3005.51,expense
+Mutual Fund Investment,1378.95,asset
+Salary Credit,106.48,income
+Interest Credit,4561.46,income
+FD Deposit,388.88,asset
+Mutual Fund Investment,3752.62,asset
+Swiggy Order,9831.93,expense
+Mutual Fund Investment,5726.29,asset
+Loan EMI,6814.09,liability
+Salary Credit,9219.9,income
+Electricity Bill,1983.73,expense
+Electricity Bill,9505.33,expense
+Stock Purchase,3592.09,asset
+Credit Card Bill,7003.2,liability
+Loan EMI,7082.36,liability
+Credit Card Bill,859.93,liability
+Freelance Payment,8950.44,income
+Mutual Fund Investment,5820.14,asset
+FD Deposit,9526.54,asset
+Stock Purchase,9055.38,asset
+Stock Purchase,6188.58,asset
+Car Loan EMI,8911.09,liability
+Salary Credit,3283.47,income
+Swiggy Order,1295.23,expense
+Swiggy Order,5392.81,expense
+FD Deposit,1050.57,asset
+Car Loan EMI,6226.01,liability
+Freelance Payment,7551.67,income
+Mutual Fund Investment,1496.1,asset
+FD Deposit,7695.68,asset
+Gold Investment,652.23,asset
+FD Deposit,9060.37,asset
+Home Loan Interest,1428.49,liability
+Salary Credit,9893.37,income
+Freelance Payment,705.57,income
+Uber Ride,6432.09,expense
+Car Loan EMI,366.77,liability
+Mutual Fund Investment,9512.82,asset
+FD Deposit,4414.33,asset
+Amazon Purchase,7941.11,expense
+FD Deposit,4427.69,asset
+Amazon Purchase,2866.45,expense
+Car Loan EMI,7220.18,liability
+Salary Credit,137.14,income
+Credit Card Bill,536.93,liability
+Freelance Payment,8199.49,income
+Freelance Payment,6736.88,income
+Uber Ride,137.14,expense
+Freelance Payment,4196.84,income
+FD Deposit,4323.82,asset
+FD Deposit,1210.67,asset
+Stock Purchase,1860.49,asset
+Gold Investment,8730.78,asset
+Car Loan EMI,2422.81,liability
+Gold Investment,7245.67,asset
+Car Loan EMI,2452.94,liability
+Home Loan Interest,3100.86,liability
+Uber Ride,7840.59,expense
+Amazon Purchase,6754.15,expense
+Gold Investment,3321.74,asset
+Home Loan Interest,9337.33,liability
+Electricity Bill,661.77,expense
+FD Deposit,8785.19,asset
+Electricity Bill,9447.71,expense
+Salary Credit,4026.8,income
+Car Loan EMI,3876.42,liability
+Uber Ride,9427.38,expense
+Salary Credit,2090.4,income
+Car Loan EMI,2860.24,liability
+Car Loan EMI,9212.31,liability
+Stock Purchase,6755.99,asset
+Credit Card Bill,9172.91,liability
+Loan EMI,4182.96,liability
+Credit Card Bill,6456.54,liability
+Freelance Payment,3345.65,income
+Home Loan Interest,9051.61,liability
+Gold Investment,7169.18,asset
+Bonus Received,1450.92,income
+Mutual Fund Investment,8776.82,asset
+Car Loan EMI,6727.9,liability
+Home Loan Interest,5172.46,liability
+FD Deposit,3205.79,asset
+Amazon Purchase,8334.08,expense
+FD Deposit,555.98,asset
+Stock Purchase,4854.86,asset
+Home Loan Interest,6925.26,liability
+Swiggy Order,2520.29,expense
+Uber Ride,6001.24,expense
+Amazon Purchase,7359.54,expense
+FD Deposit,6078.4,asset
+Stock Purchase,8184.91,asset
+Credit Card Bill,2172.74,liability
+Bonus Received,7364.51,income
+FD Deposit,8736.79,asset
+Car Loan EMI,5467.87,liability
+Car Loan EMI,6093.58,liability
+Gold Investment,6593.03,asset
+Stock Purchase,5339.23,asset
+Loan EMI,2245.41,liability
+FD Deposit,9810.63,asset
+Stock Purchase,5212.95,asset
+Bonus Received,167.59,income
+Interest Credit,3905.28,income
+Freelance Payment,8833.64,income
+Stock Purchase,4807.19,asset
+Freelance Payment,442.09,income
+Amazon Purchase,272.74,expense
+Credit Card Bill,3267.76,liability
+Swiggy Order,6538.93,expense
+Loan EMI,4560.95,liability
+Stock Purchase,9573.46,asset
+Home Loan Interest,1722.2,liability
+Uber Ride,4953.67,expense
+Home Loan Interest,4135.23,liability
+Salary Credit,900.08,income
+Salary Credit,7461.82,income
+Stock Purchase,2459.97,asset
+Stock Purchase,6153.92,asset
+Uber Ride,1629.82,expense
+Freelance Payment,1081.05,income
+Loan EMI,8197.88,liability
+Gold Investment,5716.99,asset
+Credit Card Bill,6505.74,liability
+Credit Card Bill,6980.79,liability
+Loan EMI,9123.34,liability
+Home Loan Interest,3400.71,liability
+Stock Purchase,4743.98,asset
+Uber Ride,4442.21,expense
+Amazon Purchase,6666.21,expense
+FD Deposit,9925.31,asset
+Salary Credit,2308.28,income
+Home Loan Interest,3372.56,liability
+Salary Credit,5800.79,income
+Amazon Purchase,2933.17,expense
+Credit Card Bill,7908.5,liability
+Loan EMI,8523.08,liability
+Electricity Bill,9357.56,expense
+Credit Card Bill,8678.08,liability
+Electricity Bill,1796.67,expense
+Electricity Bill,9776.99,expense
+Amazon Purchase,1678.84,expense
+Credit Card Bill,1332.76,liability
+Loan EMI,9819.71,liability
+FD Deposit,7543.29,asset
+Stock Purchase,1057.26,asset
+Loan EMI,5090.25,liability
+Loan EMI,8548.69,liability
+FD Deposit,7946.8,asset
+Car Loan EMI,1255.64,liability
+Home Loan Interest,2569.61,liability
+Stock Purchase,5764.62,asset
+Amazon Purchase,4259.71,expense
+Electricity Bill,7900.97,expense
+Bonus Received,9068.62,income
+Car Loan EMI,1788.14,liability
+Amazon Purchase,6481.08,expense
+Freelance Payment,9459.99,income
+Uber Ride,5497.06,expense
+Salary Credit,9172.06,income
+Credit Card Bill,7156.4,liability
+FD Deposit,7159.77,asset
+Mutual Fund Investment,5932.44,asset
+Amazon Purchase,4610.84,expense
+Loan EMI,7433.38,liability
+FD Deposit,8705.96,asset
+Uber Ride,9085.93,expense
+Mutual Fund Investment,1578.2,asset
+Swiggy Order,8424.73,expense
+Interest Credit,592.54,income
+Amazon Purchase,4201.24,expense
+Home Loan Interest,3821.84,liability
+Mutual Fund Investment,9057.61,asset
+Swiggy Order,6397.34,expense
+Car Loan EMI,8500.82,liability
+Interest Credit,2759.0,income
+Salary Credit,4419.09,income
+Loan EMI,5386.11,liability
+Interest Credit,9892.1,income
+Amazon Purchase,573.33,expense
+Interest Credit,3563.82,income
+Swiggy Order,4419.72,expense
+Loan EMI,8665.37,liability
+Car Loan EMI,2471.71,liability
+Salary Credit,3027.58,income
+Electricity Bill,9544.65,expense
+Salary Credit,1155.53,income
+Bonus Received,6735.58,income
+Loan EMI,7608.34,liability
+Interest Credit,665.62,income
+Gold Investment,6991.57,asset
+Electricity Bill,5977.41,expense
+Uber Ride,7134.01,expense
+Loan EMI,6194.3,liability
+Mutual Fund Investment,7058.64,asset
+Interest Credit,4998.37,income
+Car Loan EMI,7095.63,liability
+Swiggy Order,2643.48,expense
+Credit Card Bill,5973.54,liability
+Electricity Bill,1733.01,expense
+Credit Card Bill,122.77,liability
+Amazon Purchase,3880.67,expense
+Uber Ride,8113.35,expense
+Salary Credit,9295.72,income
+Interest Credit,4925.4,income
+Freelance Payment,502.36,income
+Uber Ride,9920.74,expense
+Amazon Purchase,3756.9,expense
+Mutual Fund Investment,6460.91,asset
+Swiggy Order,5130.65,expense
+Home Loan Interest,738.97,liability
+Credit Card Bill,8092.99,liability
+Swiggy Order,1127.03,expense
+Electricity Bill,5006.1,expense
+Loan EMI,8433.6,liability
+Gold Investment,4923.9,asset
+Swiggy Order,8523.2,expense
+Stock Purchase,3670.16,asset
+Electricity Bill,5725.72,expense
+Home Loan Interest,6632.66,liability
+Home Loan Interest,8129.84,liability
+Electricity Bill,443.74,expense
+Interest Credit,5138.18,income
+Electricity Bill,3271.64,expense
+Bonus Received,6350.71,income
+Mutual Fund Investment,825.59,asset
+Mutual Fund Investment,4481.15,asset
+Credit Card Bill,6801.9,liability
+FD Deposit,6223.21,asset
+Stock Purchase,1264.41,asset
+Stock Purchase,6579.5,asset
+Interest Credit,1007.14,income
+Car Loan EMI,7835.08,liability
+Car Loan EMI,5056.38,liability
+Car Loan EMI,6228.6,liability
+Salary Credit,7080.7,income
+Loan EMI,4566.95,liability
+Stock Purchase,1156.21,asset
+Amazon Purchase,8010.9,expense
+Bonus Received,9882.79,income
+Salary Credit,9226.87,income
+Home Loan Interest,153.44,liability
+Salary Credit,6470.15,income
+Mutual Fund Investment,580.47,asset
+Salary Credit,2152.31,income
+Uber Ride,568.86,expense
+Salary Credit,5091.1,income
+Car Loan EMI,8046.37,liability
+Stock Purchase,7286.41,asset
+Stock Purchase,388.97,asset
+Electricity Bill,8112.92,expense
+Car Loan EMI,9179.2,liability
+Home Loan Interest,1882.2,liability
+Freelance Payment,5657.18,income
+Salary Credit,311.11,income
+Swiggy Order,9692.65,expense
+Freelance Payment,8414.37,income
+FD Deposit,470.59,asset
+FD Deposit,6052.53,asset
+Swiggy Order,2091.9,expense
+Home Loan Interest,3451.91,liability
+Loan EMI,9229.14,liability
+Amazon Purchase,9558.08,expense
+Car Loan EMI,1397.87,liability
+Home Loan Interest,9677.3,liability
+Loan EMI,9612.36,liability
+Loan EMI,3626.25,liability
+Salary Credit,5954.18,income
+Electricity Bill,2817.44,expense
+Car Loan EMI,5659.65,liability
+Electricity Bill,2619.52,expense
+Interest Credit,2206.12,income
+Car Loan EMI,9701.81,liability
+Bonus Received,753.69,income
+Gold Investment,9340.51,asset
+Mutual Fund Investment,1592.3,asset
+Freelance Payment,7548.31,income
+Home Loan Interest,5682.48,liability
+Freelance Payment,2638.32,income
+Bonus Received,7676.31,income
+Freelance Payment,9923.98,income
+Swiggy Order,1064.19,expense
+Freelance Payment,1185.84,income
+Swiggy Order,5458.19,expense
+Credit Card Bill,8857.19,liability
+Electricity Bill,4987.46,expense
+Swiggy Order,371.31,expense
+Amazon Purchase,9950.14,expense
+Uber Ride,9310.59,expense
+Electricity Bill,8862.76,expense
+Uber Ride,1321.57,expense
+Loan EMI,9797.59,liability
+Mutual Fund Investment,3123.76,asset
+Home Loan Interest,7230.58,liability
+FD Deposit,8522.5,asset
+Car Loan EMI,8425.46,liability
+Home Loan Interest,1918.65,liability
+Stock Purchase,5719.45,asset
+Gold Investment,2890.56,asset
+Mutual Fund Investment,6749.04,asset
+Freelance Payment,7942.04,income
+Mutual Fund Investment,9638.16,asset
+Interest Credit,6920.13,income
+Gold Investment,3264.58,asset
+Electricity Bill,6988.12,expense
+Interest Credit,3070.91,income
+Bonus Received,2779.15,income
+Bonus Received,4203.96,income
+Freelance Payment,8009.85,income
+Home Loan Interest,3369.16,liability
+Amazon Purchase,1576.42,expense
+Uber Ride,4585.14,expense
+Salary Credit,5151.16,income
+Mutual Fund Investment,4201.68,asset
+Credit Card Bill,2745.82,liability
+Electricity Bill,9598.38,expense
+Amazon Purchase,7776.58,expense
+Interest Credit,1767.27,income
+FD Deposit,4926.76,asset
+Swiggy Order,7407.31,expense
+Electricity Bill,1392.37,expense
+Interest Credit,6320.68,income
+Amazon Purchase,8942.67,expense
+Swiggy Order,3010.07,expense
+Home Loan Interest,6472.4,liability
+Swiggy Order,8861.43,expense
+Mutual Fund Investment,170.72,asset
+Salary Credit,6499.87,income
+Uber Ride,8753.41,expense
+Stock Purchase,7809.6,asset
+Bonus Received,1491.97,income
+Home Loan Interest,6034.04,liability
+Swiggy Order,4801.15,expense
+Freelance Payment,1226.7,income
+Home Loan Interest,2311.41,liability
+Uber Ride,9453.6,expense
+FD Deposit,376.53,asset
+Mutual Fund Investment,2207.05,asset
+FD Deposit,9425.06,asset
+Interest Credit,9558.4,income
+Salary Credit,1379.35,income
+Amazon Purchase,7448.25,expense
+Uber Ride,3444.92,expense
+Home Loan Interest,5137.85,liability
+Interest Credit,9355.18,income
+Car Loan EMI,5969.95,liability
+Gold Investment,6459.16,asset
+Car Loan EMI,1262.73,liability
+FD Deposit,429.35,asset
+Credit Card Bill,7403.53,liability
+Electricity Bill,5835.69,expense
+Amazon Purchase,5498.09,expense
+Home Loan Interest,6975.34,liability
+Home Loan Interest,1388.66,liability
+Mutual Fund Investment,8427.55,asset
+Mutual Fund Investment,3008.57,asset
+Freelance Payment,2089.59,income
+Home Loan Interest,4278.26,liability
+Home Loan Interest,3357.55,liability
+Salary Credit,1799.71,income
+Credit Card Bill,5794.64,liability
+FD Deposit,9593.59,asset
+Mutual Fund Investment,4150.41,asset
+Salary Credit,213.63,income
+Loan EMI,3607.78,liability
+Loan EMI,3130.34,liability
+FD Deposit,5817.98,asset
+Swiggy Order,3977.21,expense
+Amazon Purchase,5226.1,expense
+Uber Ride,3909.28,expense
+FD Deposit,8404.89,asset
+Loan EMI,6210.31,liability
+FD Deposit,9897.17,asset
+Salary Credit,1242.6,income
+Salary Credit,9145.26,income
+Amazon Purchase,9980.27,expense
+Stock Purchase,6319.45,asset
+Home Loan Interest,6069.87,liability
+Swiggy Order,6666.47,expense
+Uber Ride,4502.05,expense
+Credit Card Bill,3990.9,liability
+Amazon Purchase,5252.98,expense
+Uber Ride,1993.37,expense
+Freelance Payment,5190.4,income
+Amazon Purchase,3902.87,expense
+Swiggy Order,5464.97,expense
+FD Deposit,6031.14,asset
+Uber Ride,4591.73,expense
+Uber Ride,2078.62,expense
+Mutual Fund Investment,5202.51,asset
+Mutual Fund Investment,4154.95,asset
+Electricity Bill,8026.05,expense
+Uber Ride,5986.84,expense
+Bonus Received,8364.58,income
+Interest Credit,2436.12,income
+Home Loan Interest,5596.34,liability
+Gold Investment,7413.64,asset
+Electricity Bill,1078.62,expense
+Amazon Purchase,9656.5,expense
+FD Deposit,6381.85,asset
+Loan EMI,4629.03,liability
+Stock Purchase,9493.42,asset
+Amazon Purchase,9670.5,expense
+Interest Credit,1554.56,income
+Electricity Bill,1795.42,expense
+Freelance Payment,5459.1,income
+Stock Purchase,1121.33,asset
+Amazon Purchase,7967.11,expense
+Freelance Payment,9521.9,income
+Electricity Bill,846.15,expense
+Amazon Purchase,863.55,expense
+Uber Ride,6041.63,expense
+Salary Credit,5134.15,income
+Loan EMI,6141.86,liability
+Credit Card Bill,2947.94,liability
+Electricity Bill,7741.43,expense
+Amazon Purchase,6222.33,expense
+Uber Ride,5520.01,expense
+Credit Card Bill,8652.41,liability
+Swiggy Order,628.96,expense
+Swiggy Order,1419.96,expense
+Swiggy Order,1206.46,expense
+Amazon Purchase,4914.28,expense
+Salary Credit,8854.71,income
+Amazon Purchase,4860.85,expense
+Interest Credit,268.67,income
+Stock Purchase,6140.37,asset
+FD Deposit,8461.02,asset
+Interest Credit,5116.42,income
+Interest Credit,4219.77,income
+Stock Purchase,321.37,asset
+Home Loan Interest,4461.63,liability
+Interest Credit,9390.54,income
+Freelance Payment,1480.95,income
+Interest Credit,4863.76,income
+Freelance Payment,889.35,income
+Salary Credit,663.95,income
+Salary Credit,7281.81,income
+Electricity Bill,9307.41,expense
+Amazon Purchase,8936.86,expense
+Mutual Fund Investment,8272.35,asset
+Mutual Fund Investment,6546.03,asset
+Mutual Fund Investment,5598.52,asset
+Car Loan EMI,1707.98,liability
+Bonus Received,5814.49,income
+Salary Credit,7235.16,income
+Freelance Payment,9624.42,income
+Electricity Bill,5748.19,expense
+Mutual Fund Investment,5674.62,asset
+Interest Credit,5728.68,income
+Amazon Purchase,1329.6,expense
+FD Deposit,8656.94,asset
+Mutual Fund Investment,1350.85,asset
+Freelance Payment,3235.15,income
+Mutual Fund Investment,4489.78,asset
+Loan EMI,8140.69,liability
+Salary Credit,1448.15,income
+Car Loan EMI,9278.04,liability
+FD Deposit,9704.61,asset
+Bonus Received,6839.67,income
+Credit Card Bill,4055.8,liability
+Car Loan EMI,6283.15,liability
+Electricity Bill,2753.78,expense
+Bonus Received,9763.95,income
+Credit Card Bill,6686.74,liability
+Mutual Fund Investment,1009.83,asset
+Bonus Received,870.65,income
+Amazon Purchase,198.69,expense
+Loan EMI,2909.37,liability
+Interest Credit,7659.39,income
+Amazon Purchase,3755.01,expense
+Mutual Fund Investment,6408.69,asset
+Mutual Fund Investment,3109.7,asset
+Amazon Purchase,6696.37,expense
+Swiggy Order,952.38,expense
+Car Loan EMI,3002.0,liability
+Car Loan EMI,7177.52,liability
+Amazon Purchase,1190.51,expense
+Mutual Fund Investment,3267.86,asset
+Credit Card Bill,7398.25,liability
+Home Loan Interest,3109.8,liability
+Bonus Received,373.65,income
+Gold Investment,7612.22,asset
+Electricity Bill,5322.55,expense
+Uber Ride,7490.54,expense
+FD Deposit,6629.38,asset
+Interest Credit,5994.53,income
+Credit Card Bill,3202.5,liability
+Swiggy Order,4811.15,expense
+Amazon Purchase,3380.73,expense
+FD Deposit,2648.8,asset
+Interest Credit,7605.55,income
+Uber Ride,3341.2,expense
+Uber Ride,9894.73,expense
+Stock Purchase,6972.34,asset
+Credit Card Bill,2484.4,liability
+Amazon Purchase,5225.96,expense
+Credit Card Bill,898.01,liability
+Amazon Purchase,9956.31,expense
+Mutual Fund Investment,2271.91,asset
+Bonus Received,2720.52,income
+Mutual Fund Investment,3952.33,asset
+Freelance Payment,9167.91,income
+Car Loan EMI,1358.8,liability
+Home Loan Interest,8275.58,liability
+Car Loan EMI,419.63,liability
+Credit Card Bill,805.9,liability
+Salary Credit,8531.1,income
+Car Loan EMI,736.02,liability
+Electricity Bill,7836.39,expense
+Stock Purchase,572.57,asset
+Stock Purchase,5179.11,asset
+Swiggy Order,1610.09,expense
+Car Loan EMI,7964.59,liability
+Car Loan EMI,1071.64,liability
+Car Loan EMI,4603.81,liability
+Uber Ride,3096.05,expense
+Loan EMI,7126.58,liability
+Credit Card Bill,7208.13,liability
+Home Loan Interest,9621.5,liability
+Bonus Received,2829.27,income
+Uber Ride,7893.6,expense
+Interest Credit,773.86,income
+Loan EMI,6721.21,liability
+Stock Purchase,6086.34,asset
+Loan EMI,9097.88,liability
+Interest Credit,5038.58,income
+FD Deposit,2665.95,asset
+Bonus Received,8101.24,income
+Freelance Payment,5657.49,income
+FD Deposit,2433.08,asset
+Mutual Fund Investment,6361.14,asset
+Loan EMI,9397.02,liability
+Freelance Payment,2678.71,income
+Credit Card Bill,9094.03,liability
+FD Deposit,3952.54,asset
+Loan EMI,8783.67,liability
+Uber Ride,3743.32,expense
+Uber Ride,2043.94,expense
+FD Deposit,9839.12,asset
+Swiggy Order,3537.26,expense
+Gold Investment,4302.14,asset
+Car Loan EMI,9790.71,liability
+Loan EMI,5087.03,liability
+Stock Purchase,3997.14,asset
+Electricity Bill,6932.08,expense
+Amazon Purchase,241.0,expense
+Amazon Purchase,9917.92,expense
+Bonus Received,4256.23,income
+Swiggy Order,7178.77,expense
+Credit Card Bill,5340.6,liability
+Freelance Payment,6655.89,income
+Bonus Received,4816.73,income
+Home Loan Interest,7005.04,liability
+Mutual Fund Investment,1818.86,asset
+Credit Card Bill,3340.04,liability
+Salary Credit,8237.19,income
+Stock Purchase,7390.48,asset
+Interest Credit,6100.75,income
+Credit Card Bill,7322.01,liability
+Swiggy Order,5754.25,expense
+Freelance Payment,4324.08,income
+Amazon Purchase,5311.26,expense
+Car Loan EMI,7578.85,liability
+Gold Investment,4378.08,asset
+Bonus Received,8115.11,income
+Stock Purchase,4144.23,asset
+Swiggy Order,4893.47,expense
+FD Deposit,8524.37,asset
+Car Loan EMI,9160.83,liability
+Swiggy Order,8961.68,expense
+Amazon Purchase,8137.99,expense
+Car Loan EMI,4817.73,liability
+Amazon Purchase,3397.23,expense
+Salary Credit,8839.19,income
+Car Loan EMI,7885.73,liability
+Mutual Fund Investment,7782.78,asset
+Car Loan EMI,1399.57,liability
+Gold Investment,1059.14,asset
+Salary Credit,4643.63,income
+Interest Credit,4665.65,income
+Stock Purchase,9200.93,asset
+Salary Credit,434.14,income
+Bonus Received,8315.82,income
+Mutual Fund Investment,6901.17,asset
+FD Deposit,116.26,asset
+Electricity Bill,5495.47,expense
+Credit Card Bill,3448.66,liability
+Stock Purchase,7235.11,asset
+Uber Ride,333.98,expense
+Car Loan EMI,1004.66,liability
+Home Loan Interest,9888.01,liability
+Gold Investment,7559.29,asset
+Salary Credit,4833.12,income
+Salary Credit,6422.0,income
+Uber Ride,3803.49,expense
+Credit Card Bill,8388.3,liability
+Stock Purchase,2732.56,asset
+Bonus Received,8290.46,income
+Stock Purchase,1367.96,asset
+Amazon Purchase,560.26,expense
+Interest Credit,6224.08,income
+FD Deposit,2769.31,asset
+Amazon Purchase,9751.29,expense
+Interest Credit,759.38,income
+Interest Credit,6713.66,income
+Uber Ride,1246.46,expense
+Freelance Payment,5352.17,income
+Amazon Purchase,2905.83,expense
+Loan EMI,7938.27,liability
+FD Deposit,9639.07,asset
+Gold Investment,7310.68,asset
+Car Loan EMI,9575.69,liability
+Loan EMI,4412.68,liability
+Amazon Purchase,2800.18,expense
+Amazon Purchase,7722.46,expense
+Mutual Fund Investment,5877.86,asset
+Gold Investment,2423.65,asset
+Gold Investment,5067.44,asset
+Credit Card Bill,7883.27,liability
+FD Deposit,6498.82,asset
+Mutual Fund Investment,2677.27,asset
+Electricity Bill,198.51,expense
+Electricity Bill,3691.66,expense
+Interest Credit,7288.79,income
+Freelance Payment,7105.6,income
+Gold Investment,9149.88,asset
+Freelance Payment,9541.6,income
+Freelance Payment,5963.42,income
+Amazon Purchase,873.94,expense
+Salary Credit,667.52,income
+Freelance Payment,995.07,income
+Car Loan EMI,6548.35,liability
+Home Loan Interest,2028.51,liability
+Amazon Purchase,1842.98,expense
+Loan EMI,6104.99,liability
+Electricity Bill,2916.3,expense
+Bonus Received,1157.34,income
+Freelance Payment,445.75,income
+Credit Card Bill,613.6,liability
+Interest Credit,6186.01,income
+Swiggy Order,3086.13,expense
+Amazon Purchase,5157.68,expense
+Electricity Bill,2311.11,expense
+Stock Purchase,4557.73,asset
+Swiggy Order,5945.6,expense
+Gold Investment,7396.05,asset
+Freelance Payment,2206.54,income
+Car Loan EMI,8825.42,liability
+Uber Ride,6744.59,expense
+Electricity Bill,2330.13,expense
+Gold Investment,5471.24,asset
+Swiggy Order,6207.61,expense
+Credit Card Bill,7740.11,liability
+Loan EMI,1061.22,liability
+Freelance Payment,1052.5,income
+Uber Ride,9296.02,expense
+Freelance Payment,9175.35,income
+Freelance Payment,7336.51,income
+Car Loan EMI,2526.31,liability
+Gold Investment,8404.07,asset
+Uber Ride,2787.97,expense
+Uber Ride,8112.38,expense
+Credit Card Bill,5678.68,liability
+Salary Credit,6549.41,income
+FD Deposit,3175.76,asset
+Electricity Bill,8991.0,expense
+Loan EMI,1214.23,liability
+Swiggy Order,9197.73,expense
+Amazon Purchase,258.54,expense
+Mutual Fund Investment,3281.84,asset
+Loan EMI,3740.83,liability
+Car Loan EMI,2032.45,liability
+Swiggy Order,9109.06,expense
+Amazon Purchase,5037.58,expense
+Swiggy Order,1291.0,expense
+Interest Credit,9951.55,income
+Electricity Bill,6812.11,expense
+Interest Credit,9377.38,income
+Salary Credit,5690.19,income
+Gold Investment,2754.82,asset
+Salary Credit,9727.05,income
+Bonus Received,4662.73,income
+Electricity Bill,1964.17,expense
+Freelance Payment,2404.4,income
+Amazon Purchase,4859.52,expense
+Salary Credit,9707.86,income
+Uber Ride,447.01,expense
+Freelance Payment,7368.71,income
+Stock Purchase,173.45,asset
+Amazon Purchase,8874.02,expense
+Bonus Received,189.02,income
+Uber Ride,691.82,expense
+Bonus Received,4985.41,income
+Uber Ride,2553.1,expense
+Stock Purchase,2879.47,asset
+Salary Credit,7162.65,income
+Home Loan Interest,773.02,liability
+Loan EMI,4048.46,liability
+Freelance Payment,564.54,income
+Electricity Bill,8407.13,expense
+Swiggy Order,2531.92,expense
+Electricity Bill,2651.23,expense
+Home Loan Interest,3893.41,liability
+Freelance Payment,4493.32,income
+Mutual Fund Investment,1217.51,asset
+Swiggy Order,8791.89,expense
+Swiggy Order,7709.6,expense
+Freelance Payment,2281.41,income
+Stock Purchase,598.43,asset
+Amazon Purchase,7246.08,expense
+Swiggy Order,9036.12,expense
+Electricity Bill,4542.5,expense
+FD Deposit,5057.99,asset
+FD Deposit,8415.52,asset
+Bonus Received,1382.58,income
+Electricity Bill,9445.8,expense
+Home Loan Interest,595.59,liability
+Uber Ride,9284.27,expense
+Uber Ride,6290.41,expense
+Salary Credit,9445.98,income
+Salary Credit,6767.33,income
+Gold Investment,9929.65,asset
+Loan EMI,1504.79,liability
+Amazon Purchase,5667.36,expense
+Stock Purchase,2123.87,asset
+Uber Ride,482.08,expense
+Mutual Fund Investment,598.75,asset
+Gold Investment,9362.66,asset
+Uber Ride,9654.75,expense
+FD Deposit,7829.55,asset
+Gold Investment,5681.92,asset
+Stock Purchase,6678.87,asset
+Loan EMI,5614.45,liability
+Credit Card Bill,6174.91,liability
+Uber Ride,8414.36,expense
+Freelance Payment,4552.49,income
+Salary Credit,1282.2,income
+Gold Investment,4181.52,asset
+Loan EMI,4416.16,liability
+Salary Credit,1817.92,income
+Electricity Bill,8105.3,expense
+Amazon Purchase,1074.16,expense
+Swiggy Order,631.43,expense
+Swiggy Order,931.56,expense
+Credit Card Bill,6561.6,liability
+Salary Credit,7077.68,income
+Salary Credit,7259.14,income
+Freelance Payment,2721.14,income
+Salary Credit,8608.7,income
+Electricity Bill,7392.92,expense
+FD Deposit,1441.13,asset
+Gold Investment,1259.17,asset
+Electricity Bill,2024.28,expense
+Stock Purchase,3871.16,asset
+Salary Credit,5017.93,income
+Uber Ride,2186.76,expense
+Swiggy Order,7272.28,expense
+Mutual Fund Investment,8153.01,asset
+Home Loan Interest,6588.33,liability
+Gold Investment,9477.21,asset
+Salary Credit,5009.26,income
+Loan EMI,917.24,liability
+Uber Ride,3343.95,expense
+FD Deposit,3741.59,asset
+Uber Ride,7813.67,expense
+Mutual Fund Investment,4655.6,asset
+Credit Card Bill,6148.14,liability
+Uber Ride,3921.06,expense
+FD Deposit,711.46,asset
+Bonus Received,6844.52,income
+Bonus Received,1604.73,income
+Swiggy Order,2725.25,expense
+Home Loan Interest,7587.28,liability
+FD Deposit,7218.48,asset
+Interest Credit,4263.98,income
+Swiggy Order,4164.9,expense
+Amazon Purchase,8956.23,expense
+Uber Ride,1108.54,expense
+Amazon Purchase,8280.21,expense
+Freelance Payment,779.11,income
+Stock Purchase,8724.15,asset
+Salary Credit,8570.72,income
+Interest Credit,3986.06,income
+Electricity Bill,893.37,expense
+Freelance Payment,7419.35,income
+Gold Investment,3625.87,asset
+Loan EMI,6889.09,liability
+Interest Credit,189.58,income
+Amazon Purchase,3042.59,expense
+Bonus Received,933.55,income
+Swiggy Order,766.36,expense
+Home Loan Interest,5510.15,liability
+Uber Ride,3232.05,expense
+Mutual Fund Investment,2725.67,asset
+FD Deposit,411.66,asset
+FD Deposit,1807.62,asset
+Loan EMI,2347.59,liability
+Loan EMI,2830.64,liability
+Bonus Received,3751.66,income
+Mutual Fund Investment,693.72,asset
+Mutual Fund Investment,1371.45,asset
+Loan EMI,3471.22,liability
+Loan EMI,5117.07,liability
+FD Deposit,2278.41,asset
+Bonus Received,8622.42,income
+Uber Ride,6922.15,expense
+Bonus Received,1301.53,income
+Gold Investment,800.31,asset
+Home Loan Interest,2029.34,liability
+Amazon Purchase,795.57,expense
+FD Deposit,9485.55,asset
+Swiggy Order,818.07,expense
+Mutual Fund Investment,5517.71,asset
+Credit Card Bill,4068.34,liability
+Home Loan Interest,7877.43,liability
+FD Deposit,9109.3,asset
+Credit Card Bill,3608.51,liability
+Credit Card Bill,5465.91,liability
+Electricity Bill,245.24,expense
+Uber Ride,9733.02,expense
+Gold Investment,1945.67,asset
+Loan EMI,3594.93,liability
+Salary Credit,5331.25,income
+Interest Credit,9629.75,income
+Home Loan Interest,5820.11,liability
+Bonus Received,1885.87,income
+Freelance Payment,9861.84,income
+Bonus Received,9209.08,income
+Uber Ride,2672.28,expense
+Bonus Received,1817.11,income
+Uber Ride,9011.08,expense
+Home Loan Interest,1458.95,liability
+Bonus Received,1573.81,income
+Credit Card Bill,6106.28,liability
+Car Loan EMI,1686.83,liability
+Credit Card Bill,7029.75,liability
+Mutual Fund Investment,5575.38,asset
+Interest Credit,5279.19,income
+Swiggy Order,7107.39,expense
+Loan EMI,7195.38,liability
+Mutual Fund Investment,2254.34,asset
+Gold Investment,9517.7,asset
+FD Deposit,9614.95,asset
+Uber Ride,1606.03,expense
+Swiggy Order,7269.17,expense
+Home Loan Interest,3756.99,liability
+Amazon Purchase,7372.22,expense
+Bonus Received,1388.52,income
+Electricity Bill,7363.87,expense
+Gold Investment,4072.18,asset
+Freelance Payment,8319.83,income
+Interest Credit,8603.48,income
+Interest Credit,130.26,income
+Car Loan EMI,5190.91,liability
+Electricity Bill,6728.82,expense
+Gold Investment,9430.48,asset
+Interest Credit,7754.5,income
+Home Loan Interest,1115.89,liability
+Bonus Received,5423.81,income
+Electricity Bill,8641.78,expense
+Electricity Bill,4378.0,expense
+Electricity Bill,8549.48,expense
+Bonus Received,3027.32,income
+Credit Card Bill,5457.05,liability
+Gold Investment,4376.87,asset
+Electricity Bill,6449.38,expense
+Loan EMI,2511.02,liability
+Bonus Received,7114.22,income
+Car Loan EMI,2323.48,liability
+Amazon Purchase,870.36,expense
+FD Deposit,4304.56,asset
+Car Loan EMI,9708.04,liability
+Loan EMI,5798.82,liability
+Mutual Fund Investment,6910.15,asset
+Car Loan EMI,7667.67,liability
+Credit Card Bill,7547.54,liability
+Salary Credit,7807.14,income
+Credit Card Bill,4305.66,liability
+Car Loan EMI,1728.53,liability
+Swiggy Order,6678.51,expense
+Swiggy Order,5726.14,expense
+Car Loan EMI,6553.28,liability
+Mutual Fund Investment,7808.86,asset
+Stock Purchase,3459.31,asset
+Gold Investment,7835.05,asset
+Gold Investment,9078.87,asset
+Loan EMI,7312.25,liability
+Interest Credit,7972.9,income
+Car Loan EMI,1576.89,liability
+Stock Purchase,797.16,asset
+Electricity Bill,3629.32,expense
+Interest Credit,3838.39,income
+Gold Investment,6965.58,asset
+Mutual Fund Investment,2154.84,asset
+Bonus Received,4673.41,income
+Loan EMI,5250.67,liability
+Car Loan EMI,2026.74,liability
+Electricity Bill,8448.04,expense
+Swiggy Order,9205.3,expense
+Electricity Bill,9970.43,expense
+Mutual Fund Investment,3063.22,asset
+Uber Ride,3957.17,expense
+Mutual Fund Investment,2526.73,asset
+Bonus Received,1568.89,income
+Loan EMI,4582.76,liability
+Interest Credit,5610.93,income
+Amazon Purchase,1657.14,expense
+Credit Card Bill,6430.82,liability
+Electricity Bill,1388.22,expense
+Bonus Received,8323.68,income
+Gold Investment,3008.82,asset
+FD Deposit,4485.86,asset
+Freelance Payment,209.54,income
+FD Deposit,1118.98,asset
+Gold Investment,3017.09,asset
+Stock Purchase,8585.14,asset
+Freelance Payment,4933.51,income
+FD Deposit,674.35,asset
+Freelance Payment,7882.53,income
+Mutual Fund Investment,8039.6,asset
+FD Deposit,8558.4,asset
+FD Deposit,4536.66,asset
+Gold Investment,7215.34,asset
+Car Loan EMI,1182.86,liability
+Swiggy Order,2752.19,expense
+Amazon Purchase,4168.85,expense
+Car Loan EMI,7361.11,liability
+Credit Card Bill,9068.11,liability
+Stock Purchase,1377.97,asset
+Gold Investment,2094.64,asset
+Interest Credit,7447.73,income
+Amazon Purchase,1158.39,expense
+Interest Credit,8761.55,income
+Credit Card Bill,104.52,liability
+Credit Card Bill,7343.04,liability
+Amazon Purchase,4327.24,expense
+Gold Investment,738.2,asset
+Interest Credit,157.14,income
+Salary Credit,8298.78,income
+Interest Credit,7560.52,income
+Gold Investment,1948.05,asset
+Car Loan EMI,4623.46,liability
+Gold Investment,1330.19,asset
+Stock Purchase,3818.44,asset
+FD Deposit,5256.48,asset
+Credit Card Bill,4481.68,liability
+Interest Credit,3744.08,income
+Credit Card Bill,8750.77,liability
+Stock Purchase,127.82,asset
+Car Loan EMI,9677.74,liability
+Electricity Bill,6718.86,expense
+Stock Purchase,6471.17,asset
+Freelance Payment,228.09,income
+Home Loan Interest,9229.03,liability
+Electricity Bill,2611.42,expense
+Freelance Payment,2321.55,income
+Home Loan Interest,6714.37,liability
+Home Loan Interest,4956.84,liability
+Amazon Purchase,6640.14,expense
+Salary Credit,2887.01,income
+Mutual Fund Investment,3249.54,asset
+Swiggy Order,3956.91,expense
+Car Loan EMI,2590.5,liability
+Uber Ride,5825.81,expense
+Salary Credit,4723.56,income
+Electricity Bill,9844.68,expense
+Interest Credit,3834.61,income
+Car Loan EMI,7230.49,liability
+Gold Investment,6700.14,asset
+Credit Card Bill,6190.66,liability
+Home Loan Interest,8565.29,liability
+Electricity Bill,2379.04,expense
+Freelance Payment,1940.45,income
+Amazon Purchase,8714.46,expense
+Credit Card Bill,9314.32,liability
+Amazon Purchase,3262.42,expense
+Electricity Bill,2541.74,expense
+Uber Ride,7380.64,expense
+Stock Purchase,7859.3,asset
+Amazon Purchase,6636.1,expense
+Freelance Payment,8856.19,income
+Interest Credit,8915.49,income
+Salary Credit,1433.89,income
+Electricity Bill,3346.42,expense
+Mutual Fund Investment,6715.43,asset
+Amazon Purchase,3070.99,expense
+Bonus Received,4037.15,income
+Home Loan Interest,8417.03,liability
+Home Loan Interest,6080.06,liability
+Mutual Fund Investment,2720.16,asset
+FD Deposit,9110.78,asset
+Swiggy Order,2702.09,expense
+Mutual Fund Investment,8429.91,asset
+Swiggy Order,3629.74,expense
+Credit Card Bill,4622.15,liability
+Bonus Received,8852.7,income
+Electricity Bill,2187.08,expense
+Stock Purchase,7150.28,asset
+Gold Investment,7896.77,asset
+Interest Credit,2614.66,income
+Salary Credit,1785.47,income
+Car Loan EMI,9504.24,liability
+Interest Credit,4537.07,income
+Salary Credit,7348.0,income
+Interest Credit,1625.78,income
+Credit Card Bill,1573.0,liability
+Bonus Received,7875.69,income
+Mutual Fund Investment,7469.23,asset
+Loan EMI,5430.39,liability
+Salary Credit,7532.66,income
+Mutual Fund Investment,3488.14,asset
+Bonus Received,8009.93,income
+Interest Credit,9785.15,income
+Home Loan Interest,6065.96,liability
+Freelance Payment,9522.03,income
+Mutual Fund Investment,1086.43,asset
+Credit Card Bill,8338.96,liability
+Credit Card Bill,183.93,liability
+Interest Credit,6334.63,income
+Bonus Received,3692.14,income
+Uber Ride,1900.82,expense
+FD Deposit,5567.43,asset
+Swiggy Order,3097.13,expense
+Salary Credit,9769.76,income
+Freelance Payment,2219.23,income
+Mutual Fund Investment,5018.69,asset
+Home Loan Interest,4248.89,liability
+Swiggy Order,189.99,expense
+FD Deposit,9730.07,asset
+Bonus Received,6397.12,income
+Electricity Bill,8708.58,expense
+Freelance Payment,398.77,income
+Freelance Payment,4030.95,income
+Credit Card Bill,732.39,liability
+Stock Purchase,8448.5,asset
+Electricity Bill,3583.57,expense
+Gold Investment,4014.04,asset
+Swiggy Order,1689.88,expense
+Credit Card Bill,8590.95,liability
+Car Loan EMI,9788.93,liability
+Freelance Payment,8282.02,income
+Car Loan EMI,1299.28,liability
+Home Loan Interest,6662.76,liability
+Uber Ride,9508.87,expense
+FD Deposit,2574.32,asset
+Gold Investment,7171.88,asset
+Stock Purchase,5457.46,asset
+Swiggy Order,5079.6,expense
+Home Loan Interest,3294.95,liability
+FD Deposit,8428.07,asset
+Freelance Payment,7718.85,income
+Bonus Received,1272.36,income
+Salary Credit,1529.74,income
+Home Loan Interest,9908.45,liability
+Interest Credit,9177.45,income
+Loan EMI,7871.2,liability
+Stock Purchase,6819.85,asset
+Stock Purchase,5673.47,asset
+Home Loan Interest,8511.03,liability
+Salary Credit,5183.03,income
+Stock Purchase,6530.86,asset
+Amazon Purchase,9077.32,expense
+Mutual Fund Investment,2568.16,asset
+Freelance Payment,3254.08,income
+Stock Purchase,1574.69,asset
+Loan EMI,9390.5,liability
+Bonus Received,6555.23,income
+Swiggy Order,8516.35,expense
+Home Loan Interest,8597.96,liability
+Home Loan Interest,3313.31,liability
+Uber Ride,6160.22,expense
+Credit Card Bill,6037.82,liability
+FD Deposit,3952.26,asset
+Bonus Received,8183.27,income
+Stock Purchase,7989.25,asset
+Uber Ride,7798.3,expense
+Stock Purchase,3671.62,asset
+Home Loan Interest,6077.78,liability
+Home Loan Interest,7727.37,liability
+Uber Ride,3370.19,expense
+Salary Credit,2788.56,income
+Salary Credit,5064.5,income
+Salary Credit,180.89,income
+Home Loan Interest,946.56,liability
+Amazon Purchase,8857.67,expense
+Gold Investment,5221.81,asset
+Bonus Received,1021.47,income
+Gold Investment,693.75,asset
+Loan EMI,5548.4,liability
+Credit Card Bill,1078.07,liability
+Uber Ride,4261.12,expense
+Amazon Purchase,554.3,expense
+Home Loan Interest,4346.95,liability
+Home Loan Interest,4952.68,liability
+Bonus Received,7286.63,income
+Amazon Purchase,3505.45,expense
+Interest Credit,2392.14,income
+FD Deposit,6467.43,asset
+Credit Card Bill,1962.45,liability
+Stock Purchase,1267.26,asset
+Freelance Payment,2512.55,income
+Amazon Purchase,7092.73,expense
+Mutual Fund Investment,746.43,asset
+FD Deposit,2972.56,asset
+Credit Card Bill,6388.14,liability
+Stock Purchase,5963.74,asset
+Amazon Purchase,3168.37,expense
+Amazon Purchase,943.32,expense
+FD Deposit,5675.92,asset
+Home Loan Interest,7095.8,liability
+Mutual Fund Investment,3348.56,asset
+Bonus Received,745.28,income
+Salary Credit,9914.05,income
+Swiggy Order,7035.98,expense
+Interest Credit,6888.73,income
+Electricity Bill,5704.06,expense
+Interest Credit,3673.17,income
+Stock Purchase,3688.45,asset
+Freelance Payment,9265.52,income
+Swiggy Order,5824.65,expense
+Interest Credit,5045.94,income
+Loan EMI,6632.19,liability
+Car Loan EMI,4660.11,liability
+Loan EMI,9513.5,liability
+Salary Credit,2071.92,income
+Swiggy Order,4906.46,expense
+Amazon Purchase,3099.25,expense
+Car Loan EMI,341.14,liability
+Credit Card Bill,8749.1,liability
+Electricity Bill,1606.47,expense
+Car Loan EMI,4950.04,liability
+Credit Card Bill,2395.59,liability
+FD Deposit,9089.95,asset
+Bonus Received,3869.66,income
+Electricity Bill,9546.67,expense
+Credit Card Bill,8718.89,liability
+Swiggy Order,1421.16,expense
+Uber Ride,6962.36,expense
+Mutual Fund Investment,1728.91,asset
+Freelance Payment,607.17,income
+Mutual Fund Investment,6922.72,asset
+Interest Credit,6623.17,income
+Loan EMI,7915.12,liability
+Car Loan EMI,6844.85,liability
+Freelance Payment,3762.05,income
+Loan EMI,2512.26,liability
+Credit Card Bill,8425.68,liability
+Car Loan EMI,7889.84,liability
+Mutual Fund Investment,2486.74,asset
+Credit Card Bill,112.94,liability
+Stock Purchase,6256.47,asset
+Bonus Received,2971.01,income
+Car Loan EMI,5169.16,liability
+Bonus Received,6851.55,income
+FD Deposit,8130.3,asset
+Loan EMI,128.44,liability
+Stock Purchase,4720.28,asset
+Uber Ride,6743.98,expense
+Mutual Fund Investment,2146.99,asset
+Salary Credit,1922.98,income
+Amazon Purchase,3151.35,expense
+FD Deposit,6673.12,asset
+Amazon Purchase,5183.06,expense
+Uber Ride,9577.12,expense
+Amazon Purchase,8487.93,expense
+Credit Card Bill,188.03,liability
+Swiggy Order,2477.62,expense
+Stock Purchase,8203.98,asset
+Car Loan EMI,4713.82,liability
+Amazon Purchase,5765.4,expense
+Mutual Fund Investment,9909.52,asset
+Swiggy Order,3843.04,expense
+FD Deposit,9214.05,asset
+FD Deposit,2892.77,asset
+Gold Investment,7586.56,asset
+Freelance Payment,5879.72,income
+Home Loan Interest,2633.72,liability
+Uber Ride,7004.95,expense
+Electricity Bill,8529.96,expense
+Swiggy Order,5913.67,expense
+Bonus Received,4831.04,income
+Swiggy Order,6602.72,expense
+Mutual Fund Investment,9827.92,asset
+Electricity Bill,4031.81,expense
+Credit Card Bill,2270.38,liability
+Interest Credit,2536.63,income
+Credit Card Bill,7242.48,liability
+Gold Investment,4655.04,asset
+Freelance Payment,2073.89,income
+Home Loan Interest,207.7,liability
+Interest Credit,6545.55,income
+Stock Purchase,4960.22,asset
+Gold Investment,5650.29,asset
+Swiggy Order,8110.88,expense
+Interest Credit,2042.36,income
+Interest Credit,1946.98,income
+Car Loan EMI,805.95,liability
+Loan EMI,4933.97,liability
+Electricity Bill,5674.84,expense
+Credit Card Bill,416.13,liability
+Gold Investment,1669.94,asset
+Amazon Purchase,2818.87,expense
+Mutual Fund Investment,5009.79,asset
+Car Loan EMI,7500.75,liability
+Mutual Fund Investment,6795.5,asset
+Interest Credit,950.55,income
+Freelance Payment,2878.24,income
+Electricity Bill,1838.83,expense
+Stock Purchase,2762.86,asset
+Credit Card Bill,7646.67,liability
+Electricity Bill,9384.23,expense
+Swiggy Order,5311.89,expense
+Bonus Received,653.92,income
+Swiggy Order,613.15,expense
+Car Loan EMI,7523.47,liability
+FD Deposit,1082.16,asset
+Car Loan EMI,7287.89,liability
+Electricity Bill,8880.59,expense
+Mutual Fund Investment,3146.28,asset
+Electricity Bill,3324.51,expense
+Interest Credit,3124.12,income
+Freelance Payment,6086.89,income
+Salary Credit,1016.53,income
+Salary Credit,688.3,income
+Mutual Fund Investment,3360.15,asset
+Freelance Payment,911.8,income
+Interest Credit,6054.25,income
+Car Loan EMI,6939.72,liability
+Interest Credit,3309.85,income
+Uber Ride,9130.26,expense
+Car Loan EMI,1493.03,liability
+Swiggy Order,2791.59,expense
+Bonus Received,3205.25,income
+Freelance Payment,604.78,income
+Salary Credit,3236.91,income
+Loan EMI,9850.53,liability
+Salary Credit,513.31,income
+Uber Ride,7882.52,expense
+Credit Card Bill,3100.55,liability
+Salary Credit,2823.28,income
+Loan EMI,4299.97,liability
+Freelance Payment,9698.99,income
+Electricity Bill,9104.53,expense
+Freelance Payment,2130.3,income
+Mutual Fund Investment,7417.3,asset
+Home Loan Interest,1724.92,liability
+Bonus Received,3373.56,income
+FD Deposit,9873.12,asset
+Mutual Fund Investment,3680.17,asset
+Credit Card Bill,5361.82,liability
+Swiggy Order,7461.58,expense
+Home Loan Interest,2675.99,liability
+Freelance Payment,5154.71,income
+Amazon Purchase,2839.08,expense
+Uber Ride,109.85,expense
+Bonus Received,2452.49,income
+Swiggy Order,5215.58,expense
+Car Loan EMI,9600.05,liability
+Credit Card Bill,9673.4,liability
+Interest Credit,8805.63,income
+Home Loan Interest,4880.25,liability
+Swiggy Order,1249.79,expense
+Loan EMI,566.18,liability
+Bonus Received,6377.01,income
+Gold Investment,5791.68,asset
+Car Loan EMI,8808.5,liability
+Electricity Bill,9344.29,expense
+Freelance Payment,2645.78,income
+Car Loan EMI,827.32,liability
+Salary Credit,7143.48,income
+FD Deposit,6900.26,asset
+Swiggy Order,3297.35,expense
+FD Deposit,4822.13,asset
+Freelance Payment,7843.33,income
+Bonus Received,3384.16,income
+Interest Credit,406.69,income
+Gold Investment,9262.78,asset
+Car Loan EMI,7175.11,liability
+Interest Credit,7965.62,income
+Swiggy Order,5597.97,expense
+Swiggy Order,4842.87,expense
+Freelance Payment,8912.34,income
+Home Loan Interest,7339.83,liability
+Interest Credit,8283.39,income
+Amazon Purchase,5057.57,expense
+FD Deposit,4347.72,asset
+FD Deposit,4739.64,asset
+Gold Investment,4779.61,asset
+Credit Card Bill,8657.57,liability
+Car Loan EMI,1968.25,liability
+Home Loan Interest,3825.95,liability
+Credit Card Bill,3317.73,liability
+FD Deposit,2858.71,asset
+FD Deposit,6751.39,asset
+Interest Credit,5777.36,income
+Uber Ride,3656.13,expense
+Salary Credit,7740.42,income
+Car Loan EMI,8980.02,liability
+Loan EMI,9656.49,liability
+Home Loan Interest,5007.16,liability
+Freelance Payment,9290.77,income
+Uber Ride,2546.8,expense
+Stock Purchase,1008.53,asset
+Car Loan EMI,454.31,liability
+Swiggy Order,1804.7,expense
+Home Loan Interest,3653.45,liability
+Gold Investment,7420.64,asset
+Interest Credit,4670.52,income
+Uber Ride,6239.98,expense
+FD Deposit,7945.08,asset
+Swiggy Order,2529.34,expense
+FD Deposit,3995.99,asset
+Car Loan EMI,1045.02,liability
+Amazon Purchase,7587.05,expense
+Swiggy Order,4292.25,expense
+Gold Investment,7735.53,asset
+Gold Investment,4891.45,asset
+FD Deposit,544.16,asset
+Interest Credit,9135.58,income
+Freelance Payment,6282.65,income
+Loan EMI,6807.25,liability
+Bonus Received,2754.25,income
+Interest Credit,8906.93,income
+Interest Credit,4990.53,income
+FD Deposit,4453.6,asset
+Freelance Payment,9442.64,income
+Home Loan Interest,5143.58,liability
+Bonus Received,5739.34,income
+Interest Credit,4407.58,income
+Electricity Bill,5755.45,expense
+Interest Credit,4361.95,income
+Gold Investment,9380.04,asset
+Salary Credit,7715.41,income
+Mutual Fund Investment,801.43,asset
+Gold Investment,385.91,asset
+Swiggy Order,7089.58,expense
+Interest Credit,5940.27,income
+Stock Purchase,5019.65,asset
+Stock Purchase,6320.28,asset
+Car Loan EMI,9399.09,liability
+Home Loan Interest,2084.23,liability
+Amazon Purchase,6440.14,expense
+Stock Purchase,1986.48,asset
+Uber Ride,6240.05,expense
+Mutual Fund Investment,8715.63,asset
+Electricity Bill,619.96,expense
+Car Loan EMI,7113.28,liability
+Amazon Purchase,9878.17,expense
+Interest Credit,190.31,income
+Freelance Payment,9583.97,income
+Uber Ride,5934.19,expense
+Freelance Payment,6651.39,income
+Credit Card Bill,4997.7,liability
+Interest Credit,9909.89,income
+Home Loan Interest,965.14,liability
+Home Loan Interest,349.95,liability
+Home Loan Interest,221.02,liability
+Stock Purchase,7356.73,asset
+FD Deposit,5938.79,asset
+Uber Ride,7923.93,expense
+Mutual Fund Investment,1147.7,asset
+Stock Purchase,1741.11,asset
+FD Deposit,3357.88,asset
+Credit Card Bill,6605.91,liability
+Electricity Bill,1615.54,expense
+Freelance Payment,1644.31,income
+Freelance Payment,4381.05,income
+Stock Purchase,2528.07,asset
+Swiggy Order,6908.92,expense
+Electricity Bill,142.31,expense
+Mutual Fund Investment,1321.18,asset
+Mutual Fund Investment,4022.9,asset
+Electricity Bill,1456.57,expense
+Bonus Received,8144.25,income
+Salary Credit,8726.9,income
+FD Deposit,7236.04,asset
+Salary Credit,1941.32,income
+Credit Card Bill,1072.55,liability
+Freelance Payment,2370.17,income
+Salary Credit,1921.44,income
+Credit Card Bill,6802.6,liability
+Electricity Bill,2493.07,expense
+Bonus Received,3457.96,income
+FD Deposit,6138.87,asset
+Stock Purchase,6791.35,asset
+Loan EMI,2888.6,liability
+Credit Card Bill,251.32,liability
+Car Loan EMI,2373.84,liability
+FD Deposit,2032.74,asset
+Amazon Purchase,2731.93,expense
+Mutual Fund Investment,9672.84,asset
+Stock Purchase,3449.61,asset
+Uber Ride,2171.05,expense
+Credit Card Bill,9352.78,liability
+Mutual Fund Investment,2681.86,asset
+Uber Ride,9931.51,expense
+Electricity Bill,7130.8,expense
+Interest Credit,8141.02,income
+Uber Ride,233.2,expense
+Mutual Fund Investment,1292.87,asset
+Uber Ride,9592.82,expense
+Home Loan Interest,5266.18,liability
+Home Loan Interest,7735.9,liability
+Credit Card Bill,1467.12,liability
+Stock Purchase,9337.38,asset
+Electricity Bill,6635.52,expense
+Electricity Bill,5737.52,expense
+Swiggy Order,4921.31,expense
+Salary Credit,8698.56,income
+Freelance Payment,9526.29,income
+Stock Purchase,9351.74,asset
+Interest Credit,9311.62,income
+Stock Purchase,9682.62,asset
+Freelance Payment,2235.22,income
+Amazon Purchase,9894.37,expense
+Amazon Purchase,1569.72,expense
+Interest Credit,5203.72,income
+Amazon Purchase,7138.07,expense
+Bonus Received,5223.33,income
+Interest Credit,117.06,income
+Home Loan Interest,7286.33,liability
+Uber Ride,6787.57,expense
+Stock Purchase,9919.8,asset
+Salary Credit,2348.74,income
+Uber Ride,9127.62,expense
+Loan EMI,5474.21,liability
+Stock Purchase,9366.29,asset
+Salary Credit,2502.38,income
+Bonus Received,6291.53,income
+Amazon Purchase,5712.85,expense
+FD Deposit,1170.1,asset
+Mutual Fund Investment,3568.61,asset
+Bonus Received,7785.86,income
+Stock Purchase,5408.14,asset
+Bonus Received,9590.76,income
+Gold Investment,8856.84,asset
+Loan EMI,5808.58,liability
+Bonus Received,8193.53,income
+Mutual Fund Investment,487.16,asset
+Interest Credit,7829.04,income
+Amazon Purchase,4287.03,expense
+Amazon Purchase,1085.74,expense
+Freelance Payment,8631.48,income
+Interest Credit,3070.73,income
+Swiggy Order,6012.55,expense
+Gold Investment,5793.36,asset
+FD Deposit,8978.92,asset
+Bonus Received,7164.94,income
+Amazon Purchase,2845.31,expense
+Gold Investment,4683.74,asset
+Amazon Purchase,420.31,expense
+Electricity Bill,5174.02,expense
+Freelance Payment,4465.81,income
+Loan EMI,3800.17,liability
+Amazon Purchase,4938.16,expense
+Credit Card Bill,4126.07,liability
+Home Loan Interest,7462.56,liability
+Home Loan Interest,6386.17,liability
+Uber Ride,5271.15,expense
+Freelance Payment,5181.76,income
+Mutual Fund Investment,4634.2,asset
+Salary Credit,1257.62,income
+Interest Credit,3510.68,income
+Electricity Bill,1459.4,expense
+Swiggy Order,1200.07,expense
+Bonus Received,8889.43,income
+Freelance Payment,7086.26,income
+FD Deposit,8620.99,asset
+Amazon Purchase,4727.82,expense
+Bonus Received,2376.87,income
+Freelance Payment,2683.18,income
+Gold Investment,677.42,asset
+Electricity Bill,2752.83,expense
+Swiggy Order,7996.07,expense
+Gold Investment,2718.03,asset
+Credit Card Bill,3026.83,liability
+FD Deposit,1646.07,asset
+Bonus Received,3528.95,income
+Interest Credit,6679.23,income
+Electricity Bill,368.77,expense
+Gold Investment,2705.24,asset
+FD Deposit,3158.4,asset
+Salary Credit,7531.25,income
+Gold Investment,7860.57,asset
+Stock Purchase,1529.81,asset
+Swiggy Order,2696.35,expense
+Swiggy Order,8095.13,expense
+Amazon Purchase,7891.06,expense
+Loan EMI,9338.79,liability
+Swiggy Order,658.14,expense
+Loan EMI,4568.2,liability
+Amazon Purchase,3562.47,expense
+Stock Purchase,2960.25,asset
+Car Loan EMI,4212.91,liability
+FD Deposit,222.48,asset
+Car Loan EMI,7067.7,liability
+Car Loan EMI,8082.16,liability
+Mutual Fund Investment,6686.18,asset
+Bonus Received,643.4,income
+Mutual Fund Investment,4738.42,asset
+Electricity Bill,5711.72,expense
+Uber Ride,2131.8,expense
+Mutual Fund Investment,4070.09,asset
+Amazon Purchase,3863.52,expense
+Loan EMI,466.27,liability
+Loan EMI,4291.21,liability
+Gold Investment,5366.72,asset
+Electricity Bill,4246.84,expense
+FD Deposit,5604.19,asset
+Salary Credit,1441.05,income
+Loan EMI,4006.43,liability
+Interest Credit,8054.84,income
+FD Deposit,2657.32,asset
+Credit Card Bill,3955.37,liability
+Electricity Bill,2790.16,expense
+Bonus Received,1432.54,income
+Loan EMI,6570.8,liability
+Swiggy Order,5418.31,expense
+Electricity Bill,4572.59,expense
+Gold Investment,9370.45,asset
+Credit Card Bill,7160.49,liability
+Loan EMI,5154.05,liability
+Gold Investment,7258.78,asset
+Freelance Payment,1895.21,income
+Salary Credit,6536.82,income
+Loan EMI,2927.59,liability
+Interest Credit,3389.71,income
+Stock Purchase,4612.69,asset
+Mutual Fund Investment,939.63,asset
+Interest Credit,3069.96,income
+Interest Credit,6736.99,income
+Swiggy Order,4289.74,expense
+Loan EMI,3355.58,liability
+Credit Card Bill,9133.44,liability
+Amazon Purchase,9453.39,expense
+Salary Credit,5925.31,income
+Mutual Fund Investment,7411.25,asset
+Freelance Payment,5921.82,income
+Freelance Payment,175.14,income
+Stock Purchase,5498.67,asset
+Salary Credit,5516.8,income
+Swiggy Order,5568.07,expense
+Amazon Purchase,358.99,expense
+Amazon Purchase,3648.59,expense
+FD Deposit,532.63,asset
+Amazon Purchase,6174.82,expense
+Stock Purchase,1790.39,asset
+Freelance Payment,122.7,income
+Stock Purchase,6727.8,asset
+Credit Card Bill,5030.27,liability
+FD Deposit,681.37,asset
+Swiggy Order,5507.49,expense
+Gold Investment,3057.76,asset
+Amazon Purchase,281.57,expense
+Bonus Received,7423.82,income
+Home Loan Interest,1104.99,liability
+Credit Card Bill,6300.83,liability
+Salary Credit,2221.29,income
+Bonus Received,5690.28,income
+Amazon Purchase,4730.02,expense
+Stock Purchase,8375.52,asset
+Salary Credit,5198.94,income
+Credit Card Bill,1843.04,liability
+Uber Ride,6214.06,expense
+Swiggy Order,5714.56,expense
+Mutual Fund Investment,9564.01,asset
+Swiggy Order,2956.13,expense
+Loan EMI,2515.17,liability
+Salary Credit,7841.25,income
+Amazon Purchase,2473.3,expense
+Bonus Received,2674.65,income
+Mutual Fund Investment,2447.22,asset
+Stock Purchase,5492.35,asset
+Freelance Payment,2999.36,income
+Electricity Bill,4235.94,expense
+Uber Ride,9700.24,expense
+Freelance Payment,8342.94,income
+Interest Credit,7666.01,income
+Loan EMI,2265.33,liability
+Interest Credit,3559.54,income
+Interest Credit,7048.57,income
+Car Loan EMI,8806.9,liability
+Bonus Received,119.52,income
+Bonus Received,1120.67,income
+Home Loan Interest,7578.37,liability
+Car Loan EMI,7049.08,liability
+Stock Purchase,456.32,asset
+Bonus Received,7380.06,income
+Swiggy Order,2114.49,expense
+Amazon Purchase,379.05,expense
+Interest Credit,1620.07,income
+Freelance Payment,1406.26,income
+Salary Credit,9740.19,income
+Bonus Received,2536.72,income
+Gold Investment,8741.51,asset
+Car Loan EMI,8446.18,liability
+Interest Credit,5734.46,income
+Credit Card Bill,336.07,liability
+Gold Investment,6215.91,asset
+Credit Card Bill,3296.37,liability
+Bonus Received,4068.07,income
+Electricity Bill,6844.95,expense
+Electricity Bill,983.34,expense
+Mutual Fund Investment,9540.8,asset
+Uber Ride,3866.4,expense
+Gold Investment,1649.47,asset
+Credit Card Bill,2731.36,liability
+FD Deposit,8545.05,asset
+Car Loan EMI,6734.25,liability
+Loan EMI,1924.37,liability
+Electricity Bill,8645.54,expense
+Freelance Payment,6888.23,income
+Interest Credit,4806.92,income
+Amazon Purchase,5457.11,expense
+Car Loan EMI,1028.94,liability
+Credit Card Bill,3045.6,liability
+Loan EMI,8433.39,liability
+Loan EMI,8022.24,liability
+Credit Card Bill,7258.54,liability
+Uber Ride,3857.79,expense
+Uber Ride,9271.84,expense
+Credit Card Bill,5086.76,liability
+Credit Card Bill,9231.78,liability
+Amazon Purchase,4317.75,expense
+Freelance Payment,7906.42,income
+FD Deposit,4268.51,asset
+Mutual Fund Investment,1827.03,asset
+Mutual Fund Investment,9838.71,asset
+Salary Credit,4090.16,income
+Home Loan Interest,5775.76,liability
+Mutual Fund Investment,8393.88,asset
+Electricity Bill,4135.5,expense
+Amazon Purchase,363.29,expense
+Uber Ride,9171.29,expense
+Salary Credit,9243.87,income
+Bonus Received,3071.29,income
+Electricity Bill,5589.26,expense
+Loan EMI,6621.84,liability
+Car Loan EMI,5509.09,liability
+Mutual Fund Investment,4895.77,asset
+Gold Investment,8946.35,asset
+Salary Credit,6016.1,income
+Loan EMI,3050.4,liability
+Bonus Received,5823.42,income
+Credit Card Bill,7157.98,liability
+Swiggy Order,1823.71,expense
+Salary Credit,6625.7,income
+Mutual Fund Investment,4881.29,asset
+Uber Ride,4656.87,expense
+Car Loan EMI,5592.92,liability
+Swiggy Order,5992.73,expense
+Freelance Payment,8281.69,income
+Mutual Fund Investment,6486.29,asset
+FD Deposit,2068.28,asset
+Salary Credit,9440.8,income
+Amazon Purchase,8397.93,expense
+Interest Credit,8541.51,income
+Electricity Bill,3661.53,expense
+Credit Card Bill,2720.69,liability
+Amazon Purchase,1567.34,expense
+Car Loan EMI,4660.33,liability
+Electricity Bill,5001.48,expense
+Interest Credit,4500.84,income
+Salary Credit,7750.0,income
+Car Loan EMI,5446.21,liability
+Credit Card Bill,1953.02,liability
+Electricity Bill,7389.79,expense
+Interest Credit,6781.09,income
+Stock Purchase,7040.98,asset
+Swiggy Order,8331.99,expense
+Electricity Bill,5245.84,expense
+Electricity Bill,7066.7,expense
+Interest Credit,7089.81,income
+Credit Card Bill,4096.58,liability
+Freelance Payment,8971.84,income
+Amazon Purchase,6326.87,expense
+FD Deposit,1530.44,asset
+Salary Credit,3498.69,income
+Credit Card Bill,8808.39,liability
+Loan EMI,1255.84,liability
+Car Loan EMI,1770.25,liability
+Gold Investment,8840.48,asset
+Amazon Purchase,3913.47,expense
+Swiggy Order,5433.49,expense
+Swiggy Order,1935.76,expense
+FD Deposit,2499.33,asset
+Bonus Received,7496.49,income
+Swiggy Order,6248.51,expense
+Mutual Fund Investment,3031.26,asset
+Gold Investment,4566.86,asset
+Loan EMI,7367.53,liability
+Home Loan Interest,4778.19,liability
+Amazon Purchase,556.25,expense
+Uber Ride,4062.48,expense
+Amazon Purchase,9400.7,expense
+Swiggy Order,438.93,expense
+Loan EMI,5074.21,liability
+Credit Card Bill,3712.58,liability
+Loan EMI,7642.17,liability
+Gold Investment,2828.5,asset
+Electricity Bill,8922.77,expense
+Home Loan Interest,8820.76,liability
+Loan EMI,1305.55,liability
+Salary Credit,3935.21,income
+Bonus Received,4900.45,income
+Home Loan Interest,9450.95,liability
+Credit Card Bill,8003.34,liability
+Uber Ride,2298.47,expense
+Electricity Bill,485.33,expense
+Interest Credit,1546.44,income
+Stock Purchase,5351.26,asset
+Amazon Purchase,5589.3,expense
+Amazon Purchase,5662.38,expense
+Credit Card Bill,6283.62,liability
+Gold Investment,3828.39,asset
+Amazon Purchase,7285.65,expense
+Mutual Fund Investment,1954.76,asset
+Electricity Bill,8624.53,expense
+Salary Credit,719.89,income
+Amazon Purchase,9514.61,expense
+Electricity Bill,1125.74,expense
+FD Deposit,9907.84,asset
+Gold Investment,7508.04,asset
+Home Loan Interest,6048.85,liability
+Freelance Payment,5345.2,income
+Gold Investment,6607.63,asset
+Interest Credit,9368.53,income
+Mutual Fund Investment,9580.24,asset
+Home Loan Interest,5982.37,liability
+Electricity Bill,4517.09,expense
+Bonus Received,7335.27,income
+Home Loan Interest,2789.75,liability
+Gold Investment,1395.54,asset
+Uber Ride,9060.63,expense
+Electricity Bill,2801.83,expense
+Salary Credit,3584.9,income
+Electricity Bill,9306.57,expense
+Stock Purchase,1718.78,asset
+Amazon Purchase,8115.51,expense
+Uber Ride,6995.48,expense
+Home Loan Interest,6147.69,liability
+Car Loan EMI,879.22,liability
+Home Loan Interest,8552.15,liability
+Mutual Fund Investment,5091.54,asset
+FD Deposit,3309.42,asset
+Loan EMI,3258.91,liability
+Uber Ride,4569.43,expense
+Home Loan Interest,3803.74,liability
+Car Loan EMI,4860.62,liability
+Interest Credit,4388.09,income
+Electricity Bill,2051.61,expense
+Home Loan Interest,6143.7,liability
+Electricity Bill,5038.0,expense
+Gold Investment,826.46,asset
+Electricity Bill,8121.82,expense
+Bonus Received,6410.8,income
+Loan EMI,3522.34,liability
+Car Loan EMI,2386.72,liability
+Amazon Purchase,4016.79,expense
+FD Deposit,2851.99,asset
+Freelance Payment,1582.83,income
+Loan EMI,5612.19,liability
+Swiggy Order,4454.31,expense
+Electricity Bill,3971.36,expense
+Bonus Received,8955.18,income
+Salary Credit,4933.97,income
+Amazon Purchase,1471.97,expense
+Amazon Purchase,6957.29,expense
+Stock Purchase,2163.32,asset
+Bonus Received,2798.83,income
+Mutual Fund Investment,4180.51,asset
+Stock Purchase,6655.43,asset
+Mutual Fund Investment,3610.27,asset
+FD Deposit,5713.71,asset
+Stock Purchase,4816.9,asset
+Bonus Received,5228.15,income
+Credit Card Bill,2898.68,liability
+Gold Investment,5927.54,asset
+Car Loan EMI,6601.14,liability
+Swiggy Order,5811.58,expense
+Loan EMI,5353.77,liability
+Electricity Bill,9881.12,expense
+Home Loan Interest,6269.66,liability
+Swiggy Order,7973.28,expense
+Uber Ride,2436.91,expense
+Gold Investment,9392.63,asset
+Car Loan EMI,8868.23,liability
+FD Deposit,2989.43,asset
+Swiggy Order,219.05,expense
+Gold Investment,4450.75,asset
+Amazon Purchase,3066.08,expense
+Car Loan EMI,5945.76,liability
+Gold Investment,8354.06,asset
+Loan EMI,8483.03,liability
+Interest Credit,4848.12,income
+Gold Investment,5452.66,asset
+Home Loan Interest,9457.06,liability
+Salary Credit,7185.23,income
+Credit Card Bill,4647.21,liability
+Interest Credit,457.11,income
+Home Loan Interest,2215.13,liability
+FD Deposit,3482.97,asset
+Home Loan Interest,8120.39,liability
+Loan EMI,1106.08,liability
+Electricity Bill,3331.09,expense
+Amazon Purchase,1845.82,expense
+Uber Ride,5541.15,expense
+Home Loan Interest,7379.43,liability
+FD Deposit,5141.72,asset
+Car Loan EMI,1762.43,liability
+Amazon Purchase,2684.29,expense
+Car Loan EMI,1479.52,liability
+Amazon Purchase,6763.24,expense
+Electricity Bill,3228.68,expense
+Amazon Purchase,2060.96,expense
+Gold Investment,6202.95,asset
+Car Loan EMI,6448.27,liability
+Salary Credit,7924.3,income
+FD Deposit,1957.02,asset
+Uber Ride,2264.4,expense
+Gold Investment,8477.91,asset
+Loan EMI,8084.59,liability
+Home Loan Interest,1988.7,liability
+Electricity Bill,8420.42,expense
+Uber Ride,3560.54,expense
+Car Loan EMI,6858.97,liability
+Freelance Payment,5266.87,income
+Car Loan EMI,6560.82,liability
+Salary Credit,7067.96,income
+Gold Investment,5015.55,asset
+Mutual Fund Investment,6455.68,asset
+Stock Purchase,7613.44,asset
+FD Deposit,280.18,asset
+FD Deposit,6556.34,asset
+Stock Purchase,4913.94,asset
+FD Deposit,1984.54,asset
+Credit Card Bill,8647.31,liability
+Swiggy Order,8453.85,expense
+Salary Credit,8328.71,income
+Interest Credit,5716.88,income
+FD Deposit,3287.12,asset
+Interest Credit,3505.98,income
+Salary Credit,237.29,income
+Stock Purchase,3894.45,asset
+Interest Credit,5141.5,income
+Stock Purchase,6774.02,asset
+Salary Credit,7001.44,income
+Interest Credit,8115.13,income
+Gold Investment,5755.85,asset
+Uber Ride,5673.17,expense
+Credit Card Bill,5107.7,liability
+Mutual Fund Investment,132.69,asset
+Uber Ride,4686.66,expense
+FD Deposit,8848.98,asset
+Bonus Received,3703.07,income
+Loan EMI,8187.32,liability
+Amazon Purchase,3454.07,expense
+Car Loan EMI,7258.25,liability
+Electricity Bill,1338.25,expense
+Swiggy Order,2013.63,expense
+Interest Credit,1900.44,income
+Uber Ride,9723.39,expense
+Car Loan EMI,1884.26,liability
+Swiggy Order,8021.0,expense
+Freelance Payment,1921.56,income
+Loan EMI,6111.85,liability
+Bonus Received,2514.57,income
+Electricity Bill,9536.43,expense
+Uber Ride,6819.97,expense
+Freelance Payment,4014.92,income
+Home Loan Interest,4708.54,liability
+Home Loan Interest,7065.85,liability
+Home Loan Interest,9753.63,liability
+Swiggy Order,310.76,expense
+Interest Credit,6491.44,income
+Car Loan EMI,1795.66,liability
+Gold Investment,2366.65,asset
+Home Loan Interest,8807.19,liability
+Electricity Bill,6756.41,expense
+Salary Credit,6941.55,income
+Interest Credit,6900.86,income
+Salary Credit,5073.67,income
+Mutual Fund Investment,1856.87,asset
+Electricity Bill,336.58,expense
+Car Loan EMI,6793.61,liability
+Loan EMI,1241.22,liability
+Swiggy Order,4189.31,expense
+Credit Card Bill,1753.16,liability
+Credit Card Bill,5685.13,liability
+FD Deposit,3719.58,asset
+Amazon Purchase,6560.57,expense
+FD Deposit,6630.53,asset
+Electricity Bill,8823.11,expense
+Uber Ride,3858.81,expense
+Swiggy Order,7063.36,expense
+Salary Credit,2993.29,income
+Electricity Bill,2051.94,expense
+Salary Credit,8861.07,income
+Credit Card Bill,8311.49,liability
+Amazon Purchase,8559.97,expense
+Credit Card Bill,6736.76,liability
+Salary Credit,5391.25,income
+Bonus Received,9760.0,income
+Home Loan Interest,5439.54,liability
+Salary Credit,3110.85,income
+Credit Card Bill,4174.96,liability
+Interest Credit,3768.07,income
+FD Deposit,6494.57,asset
+Bonus Received,6128.5,income
+Salary Credit,3647.62,income
+Car Loan EMI,8941.6,liability
+Credit Card Bill,6741.22,liability
+Electricity Bill,6905.09,expense
+Electricity Bill,3611.17,expense
+Bonus Received,4174.06,income
+Bonus Received,1903.1,income
+Credit Card Bill,1000.73,liability
+FD Deposit,3307.04,asset
+Salary Credit,9860.84,income
+Loan EMI,113.45,liability
+Credit Card Bill,1089.38,liability
+Stock Purchase,8668.23,asset
+Stock Purchase,896.73,asset
+Stock Purchase,8797.32,asset
+Gold Investment,7474.79,asset
+Uber Ride,4122.98,expense
+Mutual Fund Investment,9674.07,asset
+Bonus Received,9705.75,income
+Bonus Received,8652.3,income
+Home Loan Interest,7413.33,liability
+Gold Investment,6796.55,asset
+Loan EMI,6511.79,liability
+Stock Purchase,929.09,asset
+Salary Credit,6930.01,income
+Bonus Received,1405.08,income
+Car Loan EMI,5821.07,liability
+Credit Card Bill,3893.18,liability
+Car Loan EMI,6627.99,liability
+FD Deposit,1749.36,asset
+Amazon Purchase,1604.6,expense
+Interest Credit,1828.02,income
+FD Deposit,9216.76,asset
+Swiggy Order,5477.65,expense
+Home Loan Interest,9421.13,liability
+Amazon Purchase,776.38,expense
+Home Loan Interest,9767.07,liability
+Amazon Purchase,5448.09,expense
+Interest Credit,744.66,income
+Car Loan EMI,5852.04,liability
+Stock Purchase,2795.82,asset
+Stock Purchase,2775.13,asset
+Salary Credit,8740.97,income
+Uber Ride,3030.96,expense
+Electricity Bill,6664.67,expense
+Gold Investment,2300.08,asset
+Loan EMI,7127.22,liability
+Credit Card Bill,617.14,liability
+Amazon Purchase,9106.72,expense
+Amazon Purchase,7386.12,expense
+Amazon Purchase,2149.69,expense
+Home Loan Interest,6832.29,liability
+Interest Credit,8192.4,income
+Freelance Payment,2252.58,income
+Uber Ride,6569.31,expense
+Bonus Received,2995.19,income
+Mutual Fund Investment,2774.87,asset
+Stock Purchase,7223.77,asset
+Stock Purchase,5395.32,asset
+Swiggy Order,5083.12,expense
+Interest Credit,6646.2,income
+Gold Investment,3376.85,asset
+Home Loan Interest,7921.35,liability
+Gold Investment,2787.31,asset
+Swiggy Order,3472.74,expense
+Swiggy Order,5692.29,expense
+Gold Investment,1632.92,asset
+Mutual Fund Investment,3049.27,asset
+Freelance Payment,2025.41,income
+Swiggy Order,9163.72,expense
+Gold Investment,5129.03,asset
+Salary Credit,5129.36,income
+Uber Ride,8560.28,expense
+Credit Card Bill,7513.29,liability
+Electricity Bill,9397.59,expense
+Freelance Payment,4385.49,income
+Amazon Purchase,1003.41,expense
+Salary Credit,9314.32,income
+Car Loan EMI,6180.68,liability
+Interest Credit,7261.89,income
+Loan EMI,3901.07,liability
+FD Deposit,9120.72,asset
+Home Loan Interest,926.9,liability
+Freelance Payment,7319.88,income
+Bonus Received,9939.76,income
+Loan EMI,2166.21,liability
+Home Loan Interest,731.63,liability
+Freelance Payment,658.71,income
+Home Loan Interest,5032.43,liability
+Swiggy Order,6837.39,expense
+Uber Ride,2317.82,expense
+Uber Ride,5627.8,expense
+FD Deposit,1875.55,asset
+Loan EMI,2426.74,liability
+Amazon Purchase,3998.5,expense
+Gold Investment,9789.1,asset
+Electricity Bill,3414.0,expense
+Gold Investment,2430.82,asset
+FD Deposit,248.91,asset
+Stock Purchase,754.36,asset
+Credit Card Bill,1867.55,liability
+Credit Card Bill,6521.47,liability
+Bonus Received,8192.15,income
+Salary Credit,654.32,income
+Credit Card Bill,198.29,liability
+Mutual Fund Investment,7520.95,asset
+Uber Ride,6756.42,expense
+Electricity Bill,7701.12,expense
+Uber Ride,1229.68,expense
+FD Deposit,8880.58,asset
+Electricity Bill,2601.09,expense
+Home Loan Interest,1398.61,liability
+Swiggy Order,9600.22,expense
+Bonus Received,5794.54,income
+Loan EMI,9144.65,liability
+Stock Purchase,8458.41,asset
+Uber Ride,7368.15,expense
+Stock Purchase,6263.92,asset
+Swiggy Order,3699.52,expense
+Credit Card Bill,623.92,liability
+Gold Investment,8794.2,asset
+FD Deposit,3806.99,asset
+Interest Credit,1067.65,income
+Mutual Fund Investment,1550.81,asset
+Loan EMI,1864.35,liability
+Electricity Bill,5026.89,expense
+Uber Ride,3030.32,expense
+Swiggy Order,1830.6,expense
+Credit Card Bill,8429.1,liability
+Swiggy Order,6421.18,expense
+Gold Investment,8871.53,asset
+FD Deposit,7079.49,asset
+Salary Credit,6669.03,income
+Bonus Received,3350.55,income
+Freelance Payment,6838.56,income
+Uber Ride,7076.25,expense
+FD Deposit,1762.49,asset
+Credit Card Bill,1847.14,liability
+Electricity Bill,6973.16,expense
+Salary Credit,6566.84,income
+Bonus Received,1867.32,income
+Car Loan EMI,3175.87,liability
+Home Loan Interest,4522.48,liability
+Loan EMI,7566.4,liability
+Bonus Received,1338.87,income
+Bonus Received,4727.9,income
+Home Loan Interest,8868.59,liability
+Credit Card Bill,6325.94,liability
+Home Loan Interest,2997.2,liability
+Loan EMI,4659.23,liability
+Bonus Received,9858.92,income
+Gold Investment,3961.87,asset
+Uber Ride,8593.15,expense
+FD Deposit,8943.11,asset
+Mutual Fund Investment,5566.87,asset
+Credit Card Bill,9579.26,liability
+Electricity Bill,8014.57,expense
+Loan EMI,229.13,liability
+Freelance Payment,684.08,income
+Freelance Payment,9663.92,income
+Credit Card Bill,6926.54,liability
+Interest Credit,6990.5,income
+Swiggy Order,8395.01,expense
+Home Loan Interest,5780.06,liability
+Car Loan EMI,991.05,liability
+Bonus Received,8326.93,income
+Amazon Purchase,6056.16,expense
+Amazon Purchase,479.32,expense
+Electricity Bill,9088.62,expense
+Mutual Fund Investment,5450.71,asset
+Salary Credit,9896.58,income
+Freelance Payment,3427.47,income
+FD Deposit,8506.27,asset
+Mutual Fund Investment,3797.95,asset
+Bonus Received,3743.61,income
+Home Loan Interest,9223.12,liability
+Freelance Payment,9707.74,income
+Home Loan Interest,9628.88,liability
+Interest Credit,339.33,income
+Uber Ride,8119.41,expense
+Stock Purchase,4101.8,asset
+Car Loan EMI,9220.62,liability
+Interest Credit,4331.67,income
+Salary Credit,8141.89,income
+Home Loan Interest,5713.55,liability
+Swiggy Order,3318.95,expense
+Gold Investment,3486.42,asset
+Car Loan EMI,3895.69,liability
+Loan EMI,272.64,liability
+Credit Card Bill,5977.39,liability
+Salary Credit,4129.71,income
+FD Deposit,8414.66,asset
+Uber Ride,2098.58,expense
+Interest Credit,6097.56,income
+Car Loan EMI,6085.36,liability
+Stock Purchase,3652.09,asset
+Swiggy Order,6173.32,expense
+Salary Credit,4838.1,income
+Home Loan Interest,827.43,liability
+Swiggy Order,5068.71,expense
+Home Loan Interest,8252.03,liability
+Credit Card Bill,3676.64,liability
+Stock Purchase,2014.71,asset
+Credit Card Bill,5675.35,liability
+Credit Card Bill,5304.04,liability
+Salary Credit,7792.18,income
+Swiggy Order,9747.02,expense
+Salary Credit,2228.34,income
+Gold Investment,2362.87,asset
+Freelance Payment,181.47,income
+Gold Investment,4289.62,asset
+Uber Ride,5513.25,expense
+Car Loan EMI,8163.86,liability
+FD Deposit,8774.32,asset
+Car Loan EMI,8879.7,liability
+FD Deposit,124.13,asset
+Swiggy Order,5394.21,expense
+Salary Credit,2973.68,income
+Car Loan EMI,3117.13,liability
+Salary Credit,4737.64,income
+Swiggy Order,5098.66,expense
+Stock Purchase,174.54,asset
+Interest Credit,1863.7,income
+Mutual Fund Investment,502.0,asset
+Credit Card Bill,3071.66,liability
+Swiggy Order,3883.95,expense
+Gold Investment,1733.93,asset
+Home Loan Interest,5608.76,liability
+Bonus Received,444.48,income
+Stock Purchase,9567.13,asset
+Interest Credit,1874.76,income
+Credit Card Bill,4737.87,liability
+Freelance Payment,1270.07,income
+Electricity Bill,9187.49,expense
+Credit Card Bill,9282.14,liability
+Salary Credit,751.02,income
+Credit Card Bill,8515.25,liability
+FD Deposit,3137.7,asset
+Bonus Received,4798.96,income
+Swiggy Order,1171.04,expense
+FD Deposit,2611.5,asset
+Home Loan Interest,1724.26,liability
+FD Deposit,7957.97,asset
+FD Deposit,2595.74,asset
+Gold Investment,7915.03,asset
+Uber Ride,3114.51,expense
+Amazon Purchase,5557.15,expense
+FD Deposit,9995.3,asset
+Credit Card Bill,1204.02,liability
+Salary Credit,3731.07,income
+Freelance Payment,6892.02,income
+Electricity Bill,8747.71,expense
+Swiggy Order,2399.84,expense
+Interest Credit,8408.44,income
+Car Loan EMI,3996.71,liability
+Gold Investment,388.57,asset
+Stock Purchase,8741.58,asset
+Loan EMI,7676.3,liability
+Stock Purchase,6506.13,asset
+Gold Investment,6423.45,asset
+Swiggy Order,2096.68,expense
+Car Loan EMI,9760.21,liability
+Swiggy Order,2627.57,expense
+Bonus Received,9371.1,income
+Salary Credit,4194.31,income
+Gold Investment,7896.9,asset
+Car Loan EMI,7228.36,liability
+Swiggy Order,6865.31,expense
+Gold Investment,6267.49,asset
+FD Deposit,6522.48,asset
+Freelance Payment,517.17,income
+Credit Card Bill,5391.22,liability
+Swiggy Order,7267.14,expense
+Swiggy Order,862.65,expense
+Car Loan EMI,5699.05,liability
+Salary Credit,8969.31,income
+Mutual Fund Investment,5438.99,asset
+Freelance Payment,2735.71,income
+Mutual Fund Investment,9883.69,asset
+Loan EMI,7496.56,liability
+Freelance Payment,7512.61,income
+Car Loan EMI,7069.73,liability
+Home Loan Interest,1636.14,liability
+Stock Purchase,7234.78,asset
+Swiggy Order,5383.16,expense
+FD Deposit,7039.01,asset
+Car Loan EMI,9067.48,liability
+Swiggy Order,6181.78,expense
+FD Deposit,8142.92,asset
+Bonus Received,4358.9,income
+Interest Credit,1574.66,income
+Uber Ride,7646.01,expense
+Amazon Purchase,4422.45,expense
+Interest Credit,9307.37,income
+Bonus Received,9535.21,income
+Bonus Received,5248.81,income
+Uber Ride,5375.72,expense
+Salary Credit,1894.09,income
+Home Loan Interest,8016.2,liability
+Car Loan EMI,432.01,liability
+Home Loan Interest,5115.92,liability
+Salary Credit,9524.4,income
+Amazon Purchase,4700.84,expense
+Swiggy Order,2599.17,expense
+Loan EMI,9338.35,liability
+Credit Card Bill,3275.94,liability
+FD Deposit,4431.67,asset
+Bonus Received,1957.32,income
+Salary Credit,673.59,income
+Freelance Payment,3864.31,income
+Electricity Bill,5185.68,expense
+Stock Purchase,3031.88,asset
+Bonus Received,7282.08,income
+Stock Purchase,677.21,asset
+Amazon Purchase,2547.71,expense
+Car Loan EMI,3008.1,liability
+Loan EMI,5546.15,liability
+FD Deposit,9244.43,asset
+Home Loan Interest,3064.85,liability
+Amazon Purchase,2792.35,expense
+Freelance Payment,2654.94,income
+Mutual Fund Investment,4826.11,asset
+Bonus Received,6048.25,income
+Salary Credit,6090.91,income
+Interest Credit,1343.28,income
+Gold Investment,4016.81,asset
+Stock Purchase,5146.47,asset
+FD Deposit,8867.4,asset
+Credit Card Bill,4116.62,liability
+Bonus Received,6044.38,income
+Bonus Received,3856.2,income
+Home Loan Interest,373.82,liability
+Amazon Purchase,3372.3,expense
+Electricity Bill,6929.18,expense
+Stock Purchase,8500.47,asset
+Home Loan Interest,9662.57,liability
+Amazon Purchase,2435.77,expense
+Freelance Payment,4827.91,income
+Stock Purchase,9504.45,asset
+Credit Card Bill,8835.38,liability
+Salary Credit,3897.76,income
+Mutual Fund Investment,1601.31,asset
+Interest Credit,6746.27,income
+Swiggy Order,2433.0,expense
+Electricity Bill,5848.16,expense
+Loan EMI,6287.56,liability
+Salary Credit,8169.68,income
+Salary Credit,1742.92,income
+Uber Ride,8604.13,expense
+Electricity Bill,6602.02,expense
+Stock Purchase,9572.07,asset
+Gold Investment,4893.98,asset
+Electricity Bill,244.76,expense
+Salary Credit,8543.56,income
+Bonus Received,8504.98,income
+Home Loan Interest,7194.77,liability
+Loan EMI,983.14,liability
+Interest Credit,7497.0,income
+Bonus Received,2005.22,income
+Freelance Payment,3220.13,income
+Loan EMI,421.99,liability
+Salary Credit,1678.13,income
+Uber Ride,4453.9,expense
+Mutual Fund Investment,9477.95,asset
+Uber Ride,8581.05,expense
+Stock Purchase,6396.72,asset
+Gold Investment,3661.41,asset
+Mutual Fund Investment,7537.77,asset
+Salary Credit,952.15,income
+FD Deposit,8080.04,asset
+Salary Credit,2895.4,income
+Car Loan EMI,3031.24,liability
+Mutual Fund Investment,3867.14,asset
+Salary Credit,7142.78,income
+FD Deposit,1419.4,asset
+Car Loan EMI,7677.91,liability
+Bonus Received,5347.24,income
+Gold Investment,5456.04,asset
+Home Loan Interest,9075.64,liability
+Electricity Bill,238.66,expense
+Credit Card Bill,263.91,liability
+Gold Investment,8280.39,asset
+FD Deposit,6987.63,asset
+FD Deposit,8281.21,asset
+Credit Card Bill,1344.37,liability
+Stock Purchase,3603.81,asset
+Stock Purchase,9036.52,asset
+Home Loan Interest,6561.1,liability
+Stock Purchase,9407.05,asset
+Loan EMI,8084.88,liability
+Uber Ride,9827.85,expense
+Stock Purchase,5156.66,asset
+FD Deposit,7689.68,asset
+FD Deposit,6164.0,asset
+Mutual Fund Investment,1390.71,asset
+Car Loan EMI,3011.8,liability
+FD Deposit,6287.59,asset
+FD Deposit,6902.57,asset
+Car Loan EMI,8724.22,liability
+Mutual Fund Investment,1104.86,asset
+Stock Purchase,7519.25,asset
+Bonus Received,7551.88,income
+Car Loan EMI,452.28,liability
+Bonus Received,1702.5,income
+Salary Credit,5019.35,income
+Bonus Received,6218.2,income
+Gold Investment,6461.11,asset
+Amazon Purchase,1122.07,expense
+FD Deposit,1265.18,asset
+Stock Purchase,5809.12,asset
+Swiggy Order,2385.35,expense
+Swiggy Order,2496.65,expense
+Interest Credit,7586.19,income
+FD Deposit,6230.15,asset
+Electricity Bill,1536.35,expense
+Car Loan EMI,4029.7,liability
+Gold Investment,9405.71,asset
+Car Loan EMI,8328.46,liability
+Interest Credit,260.45,income
+Electricity Bill,5074.04,expense
+Interest Credit,457.55,income
+FD Deposit,9232.33,asset
+Interest Credit,710.78,income
+Freelance Payment,3241.94,income
+Electricity Bill,3132.04,expense
+Freelance Payment,4788.05,income
+Mutual Fund Investment,1583.64,asset
+Loan EMI,4709.71,liability
+Stock Purchase,6281.99,asset
+Swiggy Order,8139.45,expense
+Mutual Fund Investment,7455.55,asset
+Electricity Bill,665.79,expense
+Salary Credit,8843.0,income
+Amazon Purchase,5291.92,expense
+FD Deposit,5486.02,asset
+Gold Investment,2561.78,asset
+Credit Card Bill,8665.92,liability
+Loan EMI,2542.99,liability
+Salary Credit,759.77,income
+FD Deposit,7418.48,asset
+Stock Purchase,3823.46,asset
+Gold Investment,5210.29,asset
+Salary Credit,4810.6,income
+Uber Ride,3737.95,expense
+Electricity Bill,2558.72,expense
+Home Loan Interest,4775.17,liability
+Interest Credit,8138.3,income
+FD Deposit,7018.11,asset
+Electricity Bill,4131.22,expense
+Freelance Payment,4225.08,income
+FD Deposit,4815.89,asset
+Loan EMI,9535.54,liability
+Electricity Bill,7568.38,expense
+Gold Investment,4252.22,asset
+Car Loan EMI,3292.8,liability
+Mutual Fund Investment,1034.7,asset
+Loan EMI,9205.93,liability
+Swiggy Order,6947.3,expense
+Gold Investment,4450.88,asset
+Stock Purchase,8838.17,asset
+Car Loan EMI,2621.79,liability
+Car Loan EMI,918.09,liability
+Salary Credit,7110.28,income
+Interest Credit,1978.23,income
+Credit Card Bill,4526.02,liability
+Amazon Purchase,8787.9,expense
+Loan EMI,1775.78,liability
+Gold Investment,5088.09,asset
+Swiggy Order,6359.52,expense
+Home Loan Interest,9461.79,liability
+Salary Credit,3603.93,income
+Car Loan EMI,7509.69,liability
+Interest Credit,493.42,income
+FD Deposit,4365.39,asset
+Car Loan EMI,3428.07,liability
+Credit Card Bill,5900.3,liability
+Gold Investment,3501.25,asset
+Interest Credit,4431.03,income
+Freelance Payment,4324.6,income
+Car Loan EMI,2342.35,liability
+Swiggy Order,6961.2,expense
+Interest Credit,2265.5,income
+Home Loan Interest,6699.39,liability
+Freelance Payment,7426.65,income
+Credit Card Bill,9250.81,liability
+Home Loan Interest,6721.41,liability
+Electricity Bill,3810.81,expense
+Amazon Purchase,2038.86,expense
+FD Deposit,2944.35,asset
+Bonus Received,7726.4,income
+Home Loan Interest,4108.9,liability
+Home Loan Interest,2541.33,liability
+Car Loan EMI,1715.94,liability
+Amazon Purchase,7092.0,expense
+Stock Purchase,464.85,asset
+Uber Ride,4191.81,expense
+Interest Credit,3570.75,income
+Mutual Fund Investment,5571.98,asset
+Electricity Bill,5465.45,expense
+Mutual Fund Investment,4241.87,asset
+Freelance Payment,6422.85,income
+Home Loan Interest,1664.64,liability
+Car Loan EMI,6960.65,liability
+Loan EMI,7615.2,liability
+Electricity Bill,2541.6,expense
+Bonus Received,7326.51,income
+Interest Credit,6405.47,income
+Electricity Bill,1598.28,expense
+FD Deposit,609.82,asset
+Amazon Purchase,4643.9,expense
+Uber Ride,2339.13,expense
+Mutual Fund Investment,4174.41,asset
+Bonus Received,2443.11,income
+Car Loan EMI,5074.37,liability
+Stock Purchase,8262.54,asset
+Loan EMI,1756.13,liability
+Electricity Bill,7732.53,expense
+Home Loan Interest,7121.63,liability
+Swiggy Order,7263.8,expense
+Home Loan Interest,8525.18,liability
+Swiggy Order,3682.19,expense
+Interest Credit,4085.95,income
+Credit Card Bill,3095.53,liability
+Mutual Fund Investment,9335.78,asset
+Interest Credit,1052.23,income
+Freelance Payment,2660.15,income
+FD Deposit,6601.08,asset
+Swiggy Order,9375.45,expense
+Home Loan Interest,7559.58,liability
+Uber Ride,1152.49,expense
+Car Loan EMI,2476.05,liability
+Bonus Received,8083.57,income
+Loan EMI,6091.02,liability
+Freelance Payment,9318.39,income
+Loan EMI,814.14,liability
+Gold Investment,1816.93,asset
+Swiggy Order,3228.73,expense
+Salary Credit,5560.96,income
+Bonus Received,7304.96,income
+Interest Credit,1525.9,income
+Amazon Purchase,7004.46,expense
+Amazon Purchase,3761.18,expense
+Car Loan EMI,9356.56,liability
+Swiggy Order,8579.48,expense
+Freelance Payment,2530.59,income
+Loan EMI,673.69,liability
+Home Loan Interest,9511.5,liability
+Home Loan Interest,7796.67,liability
+Loan EMI,1473.15,liability
+Mutual Fund Investment,4432.94,asset
+Gold Investment,9172.56,asset
+Electricity Bill,2101.53,expense
+Loan EMI,2438.33,liability
+Freelance Payment,2982.55,income
+Salary Credit,2497.57,income
+Electricity Bill,1114.92,expense
+Swiggy Order,8576.08,expense
+Electricity Bill,3185.54,expense
+Car Loan EMI,6090.38,liability
+Mutual Fund Investment,8077.97,asset
+Loan EMI,5243.46,liability
+Stock Purchase,9675.67,asset
+Credit Card Bill,4598.18,liability
+Electricity Bill,2781.6,expense
+Freelance Payment,4598.49,income
+Credit Card Bill,775.42,liability
+Salary Credit,578.53,income
+Electricity Bill,4326.85,expense
+Stock Purchase,7538.74,asset
+Mutual Fund Investment,4696.91,asset
+Bonus Received,6059.07,income
+Loan EMI,7968.41,liability
+Mutual Fund Investment,5977.54,asset
+Amazon Purchase,3547.62,expense
+FD Deposit,8602.36,asset
+Salary Credit,7727.92,income
+Interest Credit,2041.95,income
+Interest Credit,3738.95,income
+Interest Credit,9511.65,income
+Car Loan EMI,2260.69,liability
+Home Loan Interest,3917.96,liability
+FD Deposit,7682.26,asset
+Freelance Payment,1239.34,income
+Bonus Received,8446.56,income
+Interest Credit,4572.62,income
+FD Deposit,3241.79,asset
+Car Loan EMI,9626.83,liability
+Bonus Received,8986.34,income
+Electricity Bill,1364.37,expense
+Freelance Payment,9507.41,income
+Stock Purchase,3328.25,asset
+Credit Card Bill,3744.6,liability
+Car Loan EMI,5506.88,liability
+Electricity Bill,9389.53,expense
+Credit Card Bill,1649.97,liability
+Home Loan Interest,4798.13,liability
+Stock Purchase,7610.22,asset
+Credit Card Bill,8253.4,liability
+Stock Purchase,2329.29,asset
+Uber Ride,3950.18,expense
+Home Loan Interest,9862.31,liability
+Bonus Received,383.5,income
+Swiggy Order,9454.43,expense
+Stock Purchase,3909.31,asset
+FD Deposit,9973.13,asset
+Home Loan Interest,8410.97,liability
+Uber Ride,2541.43,expense
+Amazon Purchase,2619.51,expense
+Salary Credit,7958.76,income
+FD Deposit,7930.97,asset
+Bonus Received,6893.9,income
+Uber Ride,622.31,expense
+Car Loan EMI,3308.12,liability
+Home Loan Interest,1762.0,liability
+Credit Card Bill,7265.85,liability
+Uber Ride,6964.69,expense
+Credit Card Bill,5946.97,liability
+Uber Ride,5360.26,expense
+Salary Credit,9930.25,income
+Mutual Fund Investment,4531.31,asset
+Interest Credit,3464.87,income
+Uber Ride,3885.61,expense
+Mutual Fund Investment,5381.03,asset
+Swiggy Order,5574.55,expense
+Mutual Fund Investment,575.13,asset
+Amazon Purchase,811.19,expense
+Uber Ride,5609.22,expense
+Interest Credit,1348.86,income
+Car Loan EMI,1962.62,liability
+Interest Credit,9312.63,income
+Freelance Payment,603.98,income
+Credit Card Bill,2953.36,liability
+Freelance Payment,4703.0,income
+Gold Investment,4028.16,asset
+Home Loan Interest,6375.42,liability
+Amazon Purchase,5943.44,expense
+FD Deposit,9223.76,asset
+Home Loan Interest,8893.43,liability
+Freelance Payment,1274.13,income
+Stock Purchase,1660.0,asset
+FD Deposit,8854.29,asset
+Car Loan EMI,9222.39,liability
+Salary Credit,5377.04,income
+FD Deposit,1550.46,asset
+Interest Credit,8280.79,income
+Uber Ride,8006.35,expense
+Amazon Purchase,4515.61,expense
+Gold Investment,6204.31,asset
+Salary Credit,3647.26,income
+Interest Credit,6492.11,income
+Uber Ride,6063.32,expense
+Credit Card Bill,7055.91,liability
+Mutual Fund Investment,5265.37,asset
+Loan EMI,1315.71,liability
+Salary Credit,2542.62,income
+Credit Card Bill,6650.85,liability
+Freelance Payment,2108.98,income
+Mutual Fund Investment,9070.36,asset
+Salary Credit,3431.82,income
+Amazon Purchase,7964.52,expense
+Loan EMI,4297.89,liability
+Stock Purchase,3294.52,asset
+Stock Purchase,9944.44,asset
+Stock Purchase,861.45,asset
+Swiggy Order,2078.29,expense
+Uber Ride,1067.96,expense
+Electricity Bill,6687.62,expense
+Gold Investment,4704.09,asset
+Swiggy Order,2231.77,expense
+Stock Purchase,1118.1,asset
+Uber Ride,6283.89,expense
+Bonus Received,298.21,income
+Car Loan EMI,8677.24,liability
+Electricity Bill,4157.77,expense
+Stock Purchase,995.67,asset
+Gold Investment,328.93,asset
+Stock Purchase,4204.42,asset
+Interest Credit,5590.55,income
+Uber Ride,9659.29,expense
+Salary Credit,120.82,income
+Home Loan Interest,6351.55,liability
+Interest Credit,5871.46,income
+Car Loan EMI,3205.99,liability
+Gold Investment,7100.91,asset
+Bonus Received,6270.69,income
+Uber Ride,715.05,expense
+Stock Purchase,657.59,asset
+Salary Credit,6992.03,income
+Bonus Received,5161.17,income
+Credit Card Bill,5679.51,liability
+Uber Ride,8911.35,expense
+Home Loan Interest,390.47,liability
+Mutual Fund Investment,856.94,asset
+Stock Purchase,5235.01,asset
+Freelance Payment,7938.98,income
+Home Loan Interest,4108.74,liability
+Electricity Bill,9727.88,expense
+Interest Credit,9484.55,income
+FD Deposit,986.29,asset
+Salary Credit,1724.95,income
+Bonus Received,4213.24,income
+Freelance Payment,2822.65,income
+Electricity Bill,7773.93,expense
+Mutual Fund Investment,3973.63,asset
+FD Deposit,8844.06,asset
+Gold Investment,5550.5,asset
+Uber Ride,4084.57,expense
+Mutual Fund Investment,1120.47,asset
+Swiggy Order,9294.71,expense
+Car Loan EMI,4343.6,liability
+Loan EMI,7961.56,liability
+Credit Card Bill,5232.67,liability
+FD Deposit,7971.64,asset
+Stock Purchase,3078.51,asset
+Car Loan EMI,6942.53,liability
+Bonus Received,6638.59,income
+Gold Investment,8274.71,asset
+Stock Purchase,4392.16,asset
+Stock Purchase,9246.99,asset
+Car Loan EMI,6502.48,liability
+Gold Investment,4796.72,asset
+Stock Purchase,8847.67,asset
+FD Deposit,8900.67,asset
+Interest Credit,6238.73,income
+Amazon Purchase,733.87,expense
+Uber Ride,7191.59,expense
+Mutual Fund Investment,8268.65,asset
+Stock Purchase,2041.25,asset
+Credit Card Bill,5979.97,liability
+Swiggy Order,3138.3,expense
+Gold Investment,5560.18,asset
+Home Loan Interest,4899.42,liability
+Loan EMI,4844.13,liability
+Amazon Purchase,1048.13,expense
+Car Loan EMI,4869.58,liability
+Amazon Purchase,1818.07,expense
+Car Loan EMI,2708.27,liability
+FD Deposit,3545.94,asset
+Stock Purchase,5943.35,asset
+Mutual Fund Investment,6902.92,asset
+Stock Purchase,8775.66,asset
+Swiggy Order,9973.34,expense
+Mutual Fund Investment,7686.52,asset
+Credit Card Bill,7089.05,liability
+Freelance Payment,3973.6,income
+Salary Credit,6979.78,income
+Interest Credit,861.88,income
+Loan EMI,426.51,liability
+Credit Card Bill,6917.85,liability
+Electricity Bill,4539.6,expense
+Loan EMI,6642.33,liability
+Salary Credit,1725.88,income
+Stock Purchase,7369.58,asset
+Credit Card Bill,8925.29,liability
+Gold Investment,5449.77,asset
+Home Loan Interest,4598.61,liability
+Swiggy Order,6782.96,expense
+Mutual Fund Investment,3744.89,asset
+Credit Card Bill,7785.97,liability
+FD Deposit,9918.01,asset
+Mutual Fund Investment,7701.12,asset
+Loan EMI,6245.61,liability
+Stock Purchase,5296.81,asset
+Electricity Bill,1285.59,expense
+Uber Ride,6194.7,expense
+Gold Investment,7985.88,asset
+Salary Credit,5440.17,income
+Uber Ride,8824.94,expense
+Salary Credit,745.96,income
+Amazon Purchase,9640.38,expense
+Amazon Purchase,3493.87,expense
+Freelance Payment,4585.92,income
+Gold Investment,9283.84,asset
+Stock Purchase,4331.17,asset
+Credit Card Bill,7658.49,liability
+Interest Credit,4679.41,income
+FD Deposit,3677.43,asset
+Credit Card Bill,6259.33,liability
+Amazon Purchase,9361.24,expense
+Freelance Payment,5759.54,income
+Stock Purchase,4769.57,asset
+Loan EMI,3568.11,liability
+Uber Ride,3521.51,expense
+Credit Card Bill,3492.49,liability
+Home Loan Interest,2943.2,liability
+Stock Purchase,4090.94,asset
+Salary Credit,8907.94,income
+Mutual Fund Investment,2203.88,asset
+Uber Ride,7327.97,expense
+Electricity Bill,172.79,expense
+FD Deposit,5141.41,asset
+Electricity Bill,9592.64,expense
+Stock Purchase,721.49,asset
+Car Loan EMI,5033.95,liability
+Loan EMI,2028.43,liability
+Car Loan EMI,8899.05,liability
+Amazon Purchase,9408.3,expense
+Mutual Fund Investment,8951.89,asset
+Home Loan Interest,6118.65,liability
+Freelance Payment,9436.79,income
+Salary Credit,8157.03,income
+Car Loan EMI,5000.16,liability
+Home Loan Interest,9915.69,liability
+Electricity Bill,8330.03,expense
+Gold Investment,5163.59,asset
+Swiggy Order,5471.47,expense
+Home Loan Interest,1772.52,liability
+Swiggy Order,8566.84,expense
+Mutual Fund Investment,6967.93,asset
+Freelance Payment,2016.79,income
+Home Loan Interest,1203.93,liability
+Credit Card Bill,4515.92,liability
+Home Loan Interest,7979.27,liability
+Home Loan Interest,2930.44,liability
+Mutual Fund Investment,4505.54,asset
+Salary Credit,6448.48,income
+Home Loan Interest,5587.98,liability
+Amazon Purchase,565.03,expense
+Swiggy Order,6520.39,expense
+Freelance Payment,8185.54,income
+Stock Purchase,5325.54,asset
+Swiggy Order,5095.36,expense
+Home Loan Interest,2306.35,liability
+Swiggy Order,673.25,expense
+Freelance Payment,3764.32,income
+Home Loan Interest,6458.22,liability
+Bonus Received,6039.08,income
+FD Deposit,3792.06,asset
+Uber Ride,8438.9,expense
+Salary Credit,1392.74,income
+Car Loan EMI,2780.97,liability
+Stock Purchase,2296.91,asset
+Car Loan EMI,6076.46,liability
+Amazon Purchase,3757.36,expense
+Mutual Fund Investment,9443.63,asset
+Loan EMI,4529.54,liability
+Home Loan Interest,2103.28,liability
+Stock Purchase,8504.6,asset
+Salary Credit,8753.17,income
+Home Loan Interest,8957.8,liability
+Credit Card Bill,3944.63,liability
+Swiggy Order,5138.14,expense
+Freelance Payment,1820.11,income
+Bonus Received,2136.06,income
+Stock Purchase,8766.84,asset
+Home Loan Interest,6008.83,liability
+FD Deposit,7494.62,asset
+Uber Ride,2242.11,expense
+Loan EMI,8333.63,liability
+Home Loan Interest,5009.49,liability
+FD Deposit,2764.09,asset
+Bonus Received,9910.81,income
+Swiggy Order,8126.62,expense
+Freelance Payment,2089.21,income
+Uber Ride,9147.7,expense
+Credit Card Bill,3851.41,liability
+Stock Purchase,1735.35,asset
+Mutual Fund Investment,3430.69,asset
+Bonus Received,6004.38,income
+Swiggy Order,902.8,expense
+Car Loan EMI,8610.89,liability
+Salary Credit,1649.8,income
+Bonus Received,6882.5,income
+Amazon Purchase,9171.69,expense
+Electricity Bill,9095.72,expense
+Stock Purchase,2655.56,asset
+Interest Credit,5896.46,income
+Freelance Payment,8526.04,income
+Electricity Bill,3072.7,expense
+Amazon Purchase,1408.15,expense
+Gold Investment,3121.46,asset
+Loan EMI,9395.92,liability
+Salary Credit,2629.03,income
+Interest Credit,8713.61,income
+Home Loan Interest,7415.56,liability
+Freelance Payment,4887.56,income
+Mutual Fund Investment,9271.63,asset
+Salary Credit,742.26,income
+Mutual Fund Investment,2956.89,asset
+Electricity Bill,439.48,expense
+FD Deposit,5184.75,asset
+Home Loan Interest,6104.55,liability
+Swiggy Order,1102.45,expense
+Uber Ride,1044.82,expense
+Bonus Received,8836.86,income
+Mutual Fund Investment,7171.41,asset
+Electricity Bill,4674.91,expense
+Amazon Purchase,8026.76,expense
+Interest Credit,3355.16,income
+Uber Ride,8769.88,expense
+Interest Credit,7409.42,income
+Car Loan EMI,8787.1,liability
+Interest Credit,4502.8,income
+Gold Investment,7053.04,asset
+Credit Card Bill,6393.47,liability
+Mutual Fund Investment,2753.17,asset
+Mutual Fund Investment,6367.55,asset
+Freelance Payment,4569.69,income
+Home Loan Interest,9390.71,liability
+Interest Credit,7988.34,income
+Stock Purchase,8426.06,asset
+Salary Credit,9406.88,income
+Swiggy Order,3310.9,expense
+Car Loan EMI,8176.93,liability
+Electricity Bill,8112.39,expense
+Home Loan Interest,8419.32,liability
+Mutual Fund Investment,4158.58,asset
+Home Loan Interest,4506.41,liability
+Home Loan Interest,4144.81,liability
+Home Loan Interest,6886.2,liability
+Electricity Bill,2549.72,expense
+Stock Purchase,2378.63,asset
+Mutual Fund Investment,4051.57,asset
+Credit Card Bill,6301.88,liability
+Amazon Purchase,4593.16,expense
+Electricity Bill,4739.55,expense
+Amazon Purchase,8088.18,expense
+Loan EMI,1698.21,liability
+Freelance Payment,8951.83,income
+FD Deposit,1555.77,asset
+Mutual Fund Investment,3426.37,asset
+Mutual Fund Investment,6399.06,asset
+Salary Credit,4415.26,income
+Amazon Purchase,3596.19,expense
+Car Loan EMI,2149.03,liability
+Gold Investment,1636.48,asset
+Bonus Received,7776.19,income
+Freelance Payment,5986.98,income
+Amazon Purchase,5416.23,expense
+Credit Card Bill,4527.81,liability
+Salary Credit,8545.99,income
+Credit Card Bill,9451.86,liability
+Uber Ride,3412.88,expense
+Mutual Fund Investment,873.83,asset
+Uber Ride,3699.52,expense
+Uber Ride,7897.3,expense
+Freelance Payment,2874.19,income
+Freelance Payment,7551.38,income
+Mutual Fund Investment,673.76,asset
+Gold Investment,8153.01,asset
+Interest Credit,1124.54,income
+Interest Credit,4402.34,income
+Mutual Fund Investment,6808.15,asset
+Bonus Received,8403.31,income
+Loan EMI,2191.54,liability
+Loan EMI,3432.97,liability
+Stock Purchase,4440.88,asset
+Bonus Received,7313.67,income
+Salary Credit,5894.58,income
+Loan EMI,5744.04,liability
+Loan EMI,2944.91,liability
+Interest Credit,9788.36,income
+Stock Purchase,2331.68,asset
+Loan EMI,5878.46,liability
+Bonus Received,8092.39,income
+Uber Ride,3142.57,expense
+Loan EMI,1260.31,liability
+Credit Card Bill,601.07,liability
+Home Loan Interest,1774.0,liability
+Credit Card Bill,8779.9,liability
+Stock Purchase,4046.84,asset
+Freelance Payment,8637.92,income
+FD Deposit,6553.17,asset
+Mutual Fund Investment,8977.95,asset
+Home Loan Interest,2051.31,liability
+Uber Ride,7834.19,expense
+Swiggy Order,3296.42,expense
+Home Loan Interest,7606.47,liability
+Loan EMI,1301.49,liability
+Amazon Purchase,6856.04,expense
+Swiggy Order,7311.52,expense
+Interest Credit,280.16,income
+Uber Ride,9331.33,expense
+Amazon Purchase,8954.98,expense
+Electricity Bill,8720.25,expense
+Bonus Received,623.56,income
+Credit Card Bill,8342.57,liability
+Bonus Received,244.46,income
+Swiggy Order,9430.86,expense
+Car Loan EMI,9697.94,liability
+Swiggy Order,893.15,expense
+Swiggy Order,9489.21,expense
+Car Loan EMI,9385.09,liability
+Mutual Fund Investment,3755.27,asset
+Uber Ride,883.83,expense
+Gold Investment,6750.8,asset
+Home Loan Interest,9025.08,liability
+Swiggy Order,5268.38,expense
+Salary Credit,5918.37,income
+Car Loan EMI,7932.14,liability
+Amazon Purchase,9624.3,expense
+Gold Investment,7054.76,asset
+Amazon Purchase,5810.48,expense
+Loan EMI,9820.22,liability
+FD Deposit,2842.87,asset
+Home Loan Interest,9461.2,liability
+Uber Ride,9306.56,expense
+Bonus Received,5096.97,income
+Home Loan Interest,6254.67,liability
+Amazon Purchase,1958.11,expense
+Gold Investment,3285.22,asset
+Credit Card Bill,7585.31,liability
+Uber Ride,772.8,expense
+Freelance Payment,4353.55,income
+Amazon Purchase,7688.39,expense
+Uber Ride,6426.0,expense
+Amazon Purchase,9746.73,expense
+Loan EMI,8312.44,liability
+FD Deposit,3944.38,asset
+Swiggy Order,5225.49,expense
+Bonus Received,1574.62,income
+Electricity Bill,9052.07,expense
+Freelance Payment,1967.43,income
+Home Loan Interest,7932.6,liability
+Credit Card Bill,3286.72,liability
+Freelance Payment,7860.94,income
+Stock Purchase,5105.02,asset
+Credit Card Bill,7691.86,liability
+Stock Purchase,4435.67,asset
+Stock Purchase,7554.55,asset
+Freelance Payment,3370.78,income
+FD Deposit,4952.21,asset
+Interest Credit,5981.87,income
+Home Loan Interest,3217.89,liability
+Home Loan Interest,5666.7,liability
+FD Deposit,1457.26,asset
+Car Loan EMI,6070.7,liability
+FD Deposit,9953.39,asset
+Uber Ride,4945.66,expense
+Credit Card Bill,6781.34,liability
+Loan EMI,7007.44,liability
+Home Loan Interest,3378.03,liability
+Uber Ride,6069.41,expense
+Amazon Purchase,1975.93,expense
+Credit Card Bill,1183.17,liability
+Electricity Bill,8250.41,expense
+Freelance Payment,3722.34,income
+Electricity Bill,2495.89,expense
+Swiggy Order,5276.58,expense
+Stock Purchase,5099.34,asset
+Gold Investment,4816.73,asset
+Bonus Received,4872.29,income
+Stock Purchase,6341.1,asset
+Salary Credit,1586.8,income
+Amazon Purchase,4229.04,expense
+Salary Credit,5510.13,income
+Mutual Fund Investment,6732.55,asset
+Loan EMI,7460.85,liability
+Stock Purchase,7137.47,asset
+Salary Credit,1650.53,income
+Gold Investment,883.8,asset
+Car Loan EMI,5885.75,liability
+Interest Credit,5338.55,income
+Freelance Payment,1075.88,income
+Bonus Received,5999.97,income
+Mutual Fund Investment,3732.08,asset
+Uber Ride,9761.96,expense
+Mutual Fund Investment,1907.51,asset
+Gold Investment,8941.93,asset
+Amazon Purchase,6168.03,expense
+Credit Card Bill,555.96,liability
+Home Loan Interest,8584.53,liability
+Bonus Received,7876.96,income
+Car Loan EMI,2289.91,liability
+Electricity Bill,2094.78,expense
+Car Loan EMI,8909.54,liability
+Car Loan EMI,7188.4,liability
+Credit Card Bill,8300.87,liability
+Home Loan Interest,6604.39,liability
+Uber Ride,9113.94,expense
+Stock Purchase,6084.14,asset
+Credit Card Bill,3691.69,liability
+Swiggy Order,7290.8,expense
+Swiggy Order,3024.77,expense
+FD Deposit,3469.97,asset
+Swiggy Order,1738.23,expense
+Swiggy Order,4706.38,expense
+Swiggy Order,7947.79,expense
+Electricity Bill,3731.95,expense
+Stock Purchase,8786.5,asset
+Home Loan Interest,5363.58,liability
+Mutual Fund Investment,9602.94,asset
+Electricity Bill,285.36,expense
+Electricity Bill,6222.07,expense
+Uber Ride,3451.19,expense
+Uber Ride,7821.57,expense
+Swiggy Order,9836.58,expense
+Amazon Purchase,9974.37,expense
+FD Deposit,6660.03,asset
+Stock Purchase,4017.3,asset
+Stock Purchase,6342.71,asset
+Stock Purchase,2399.72,asset
+Loan EMI,6725.15,liability
+Bonus Received,9491.38,income
+Gold Investment,3350.6,asset
+Car Loan EMI,7283.56,liability
+FD Deposit,7471.68,asset
+Car Loan EMI,5305.65,liability
+Salary Credit,8484.25,income
+Salary Credit,2703.14,income
+Car Loan EMI,7564.98,liability
+Credit Card Bill,6118.41,liability
+Swiggy Order,9419.0,expense
+Home Loan Interest,9621.7,liability
+Freelance Payment,5575.2,income
+Stock Purchase,7457.74,asset
+Freelance Payment,270.51,income
+Stock Purchase,3705.87,asset
+Electricity Bill,2108.63,expense
+Salary Credit,2944.72,income
+Stock Purchase,2696.52,asset
+Mutual Fund Investment,7882.28,asset
+Uber Ride,3208.25,expense
+Interest Credit,4400.5,income
+Loan EMI,746.55,liability
+Stock Purchase,9155.09,asset
+FD Deposit,5733.14,asset
+Gold Investment,4935.23,asset
+Car Loan EMI,8010.57,liability
+Credit Card Bill,9596.19,liability
+Electricity Bill,7916.7,expense
+Credit Card Bill,8000.55,liability
+Stock Purchase,6462.37,asset
+FD Deposit,779.56,asset
+Electricity Bill,1713.46,expense
+Amazon Purchase,2007.81,expense
+Home Loan Interest,4334.24,liability
+Stock Purchase,797.2,asset
+Uber Ride,5734.6,expense
+Credit Card Bill,3938.05,liability
+Mutual Fund Investment,9403.16,asset
+Home Loan Interest,2826.55,liability
+Interest Credit,9872.23,income
+Bonus Received,5327.98,income
+Salary Credit,5210.93,income
+Amazon Purchase,4278.57,expense
+Swiggy Order,4275.2,expense
+Stock Purchase,9298.97,asset
+Interest Credit,585.92,income
+Car Loan EMI,6970.11,liability
+Loan EMI,9948.89,liability
+Electricity Bill,1145.03,expense
+Freelance Payment,5778.6,income
+Loan EMI,3247.69,liability
+Interest Credit,2964.79,income
+Freelance Payment,7554.58,income
+Salary Credit,1800.39,income
+Gold Investment,2474.35,asset
+Interest Credit,4619.32,income
+Uber Ride,4243.8,expense
+Car Loan EMI,8844.45,liability
+Gold Investment,5364.85,asset
+Salary Credit,4394.33,income
+FD Deposit,8128.85,asset
+Bonus Received,2324.16,income
+Stock Purchase,3728.31,asset
+Car Loan EMI,369.73,liability
+FD Deposit,6199.74,asset
+Car Loan EMI,1277.72,liability
+Salary Credit,7790.48,income
+Home Loan Interest,9412.29,liability
+Uber Ride,5095.44,expense
+Bonus Received,2930.5,income
+Interest Credit,1502.71,income
+Gold Investment,5900.1,asset
+FD Deposit,3234.94,asset
+Electricity Bill,2269.69,expense
+Interest Credit,391.78,income
+Salary Credit,5728.84,income
+Salary Credit,3098.78,income
+Home Loan Interest,902.01,liability
+Stock Purchase,9181.16,asset
+Mutual Fund Investment,8634.4,asset
+Home Loan Interest,9371.14,liability
+Credit Card Bill,925.34,liability
+Loan EMI,905.45,liability
+Gold Investment,8932.52,asset
+FD Deposit,7886.52,asset
+Car Loan EMI,6040.2,liability
+Amazon Purchase,343.74,expense
+Stock Purchase,4737.33,asset
+Bonus Received,6529.52,income
+Swiggy Order,1246.6,expense
+Salary Credit,8137.56,income
+Mutual Fund Investment,6633.91,asset
+FD Deposit,6270.42,asset
+Stock Purchase,5319.47,asset
+Swiggy Order,5079.98,expense
+Uber Ride,7119.71,expense
+Swiggy Order,9599.75,expense
+Car Loan EMI,848.26,liability
+Freelance Payment,6860.41,income
+Freelance Payment,9772.23,income
+Stock Purchase,3447.33,asset
+Bonus Received,1006.04,income
+Stock Purchase,5819.63,asset
+Salary Credit,8189.06,income
+Uber Ride,9104.19,expense
+Home Loan Interest,1354.09,liability
+Stock Purchase,5858.46,asset
+Freelance Payment,6659.64,income
+Freelance Payment,5847.75,income
+Mutual Fund Investment,7418.38,asset
+Freelance Payment,880.93,income
+Amazon Purchase,4768.57,expense
+Bonus Received,916.04,income
+Bonus Received,3699.2,income
+Swiggy Order,3036.62,expense
+Gold Investment,495.82,asset
+Amazon Purchase,6076.77,expense
+Credit Card Bill,689.61,liability
+Credit Card Bill,9293.73,liability
+Interest Credit,9865.14,income
+Uber Ride,7444.29,expense
+Stock Purchase,8938.34,asset
+FD Deposit,1430.85,asset
+Interest Credit,1011.46,income
+Credit Card Bill,5622.44,liability
+Swiggy Order,2576.24,expense
+Freelance Payment,4056.13,income
+Interest Credit,9173.76,income
+Credit Card Bill,7747.85,liability
+Bonus Received,7414.26,income
+Car Loan EMI,2900.82,liability
+Home Loan Interest,9813.87,liability
+Freelance Payment,3753.54,income
+Bonus Received,457.13,income
+Loan EMI,1682.37,liability
+Mutual Fund Investment,2421.14,asset
+Stock Purchase,4143.61,asset
+Interest Credit,9858.78,income
+Stock Purchase,4594.62,asset
+Loan EMI,751.45,liability
+Freelance Payment,5061.37,income
+Stock Purchase,8273.87,asset
+FD Deposit,8320.9,asset
+Electricity Bill,5427.29,expense
+Freelance Payment,5605.85,income
+Credit Card Bill,7739.97,liability
+Gold Investment,4008.42,asset
+Freelance Payment,4487.58,income
+Stock Purchase,6049.73,asset
+Stock Purchase,7579.6,asset
+Credit Card Bill,1571.66,liability
+Amazon Purchase,3633.13,expense
+Loan EMI,5652.16,liability
+Loan EMI,7917.3,liability
+Amazon Purchase,3024.23,expense
+Uber Ride,3415.16,expense
+Salary Credit,1095.16,income
+Salary Credit,204.35,income
+Stock Purchase,3302.58,asset
+Car Loan EMI,7659.64,liability
+Amazon Purchase,9744.97,expense
+Gold Investment,8315.99,asset
+Credit Card Bill,6224.02,liability
+Salary Credit,8627.76,income
+Mutual Fund Investment,5107.48,asset
+Loan EMI,5513.88,liability
+Car Loan EMI,7673.54,liability
+Swiggy Order,5703.25,expense
+Swiggy Order,2110.17,expense
+Amazon Purchase,9578.75,expense
+Uber Ride,282.17,expense
+Bonus Received,8062.37,income
+Salary Credit,8761.21,income
+Car Loan EMI,9767.42,liability
+Amazon Purchase,6978.65,expense
+Swiggy Order,7705.25,expense
+FD Deposit,9936.18,asset
+FD Deposit,7309.19,asset
+Electricity Bill,1871.46,expense
+Electricity Bill,8084.44,expense
+Stock Purchase,2987.2,asset
+Home Loan Interest,8660.12,liability
+Gold Investment,6405.19,asset
+Salary Credit,364.81,income
+Swiggy Order,5029.84,expense
+Car Loan EMI,3437.59,liability
+Swiggy Order,8850.37,expense
+Swiggy Order,7408.14,expense
+Amazon Purchase,9128.44,expense
+Home Loan Interest,2415.48,liability
+Car Loan EMI,7403.55,liability
+Amazon Purchase,5976.04,expense
+Gold Investment,5899.94,asset
+Freelance Payment,6603.67,income
+Stock Purchase,200.97,asset
+Credit Card Bill,1256.82,liability
+Mutual Fund Investment,5161.42,asset
+Salary Credit,8958.57,income
+Salary Credit,1141.1,income
+Mutual Fund Investment,857.12,asset
+Salary Credit,2512.94,income
+Amazon Purchase,6648.88,expense
+Stock Purchase,8149.73,asset
+Home Loan Interest,4182.89,liability
+Swiggy Order,9483.04,expense
+Salary Credit,7531.98,income
+Bonus Received,4733.81,income
+Uber Ride,6202.33,expense
+Uber Ride,1322.13,expense
+Freelance Payment,5311.14,income
+Salary Credit,3704.42,income
+Loan EMI,3805.5,liability
+Electricity Bill,9505.31,expense
+Home Loan Interest,6446.17,liability
+Stock Purchase,348.42,asset
+Credit Card Bill,1491.04,liability
+Amazon Purchase,6804.17,expense
+Bonus Received,7216.32,income
+Car Loan EMI,4750.86,liability
+Interest Credit,3139.71,income
+Loan EMI,1229.01,liability
+Salary Credit,880.52,income
+Loan EMI,2377.03,liability
+Uber Ride,3947.75,expense
+Freelance Payment,2839.51,income
+Home Loan Interest,6653.49,liability
+Home Loan Interest,9186.41,liability
+Mutual Fund Investment,2583.29,asset
+Loan EMI,7703.99,liability
+FD Deposit,1255.54,asset
+Interest Credit,1282.36,income
+Home Loan Interest,8437.65,liability
+Mutual Fund Investment,6424.73,asset
+Amazon Purchase,1731.66,expense
+Salary Credit,5327.19,income
+Interest Credit,5145.2,income
+FD Deposit,6227.1,asset
+Salary Credit,5549.23,income
+Electricity Bill,6268.23,expense
+Swiggy Order,3018.06,expense
+Uber Ride,3625.79,expense
+Interest Credit,8478.96,income
+Electricity Bill,5612.76,expense
+Gold Investment,6522.21,asset
+Freelance Payment,5906.46,income
+Freelance Payment,6817.55,income
+Gold Investment,3298.93,asset
+FD Deposit,8216.21,asset
+Interest Credit,7208.28,income
+Amazon Purchase,9043.68,expense
+Swiggy Order,1121.45,expense
+Bonus Received,9457.82,income
+Uber Ride,7692.92,expense
+Mutual Fund Investment,3301.57,asset
+Stock Purchase,1384.92,asset
+Freelance Payment,299.6,income
+Electricity Bill,9843.61,expense
+Car Loan EMI,8846.96,liability
+Home Loan Interest,3791.14,liability
+Stock Purchase,1266.31,asset
+Gold Investment,153.97,asset
+Home Loan Interest,6569.24,liability
+Home Loan Interest,1462.69,liability
+Gold Investment,1783.05,asset
+Loan EMI,9828.13,liability
+FD Deposit,3144.85,asset
+Salary Credit,6177.47,income
+Credit Card Bill,275.79,liability
+Loan EMI,8822.55,liability
+Credit Card Bill,3922.1,liability
+Loan EMI,4573.95,liability
+Interest Credit,4472.18,income
+Bonus Received,9965.5,income
+Uber Ride,5211.83,expense
+Loan EMI,872.26,liability
+Freelance Payment,5941.56,income
+Gold Investment,7773.98,asset
+Freelance Payment,6250.4,income
+Salary Credit,3343.83,income
+Swiggy Order,953.04,expense
+Credit Card Bill,6724.6,liability
+Amazon Purchase,5870.91,expense
+Freelance Payment,5927.56,income
+Mutual Fund Investment,9431.91,asset
+Salary Credit,360.37,income
+Uber Ride,9147.15,expense
+Swiggy Order,2000.85,expense
+Loan EMI,1859.49,liability
+Car Loan EMI,9746.52,liability
+Interest Credit,9087.74,income
+Swiggy Order,1930.89,expense
+Salary Credit,8632.68,income
+Freelance Payment,8377.85,income
+Home Loan Interest,5353.74,liability
+Loan EMI,2526.39,liability
+Electricity Bill,5717.27,expense
+Gold Investment,1894.38,asset
+Mutual Fund Investment,1884.36,asset
+FD Deposit,1858.41,asset
+Freelance Payment,8989.78,income
+Credit Card Bill,3607.18,liability
+Stock Purchase,8304.95,asset
+Home Loan Interest,9541.99,liability
+Salary Credit,8051.17,income
+Mutual Fund Investment,4278.32,asset
+Interest Credit,3628.31,income
+Stock Purchase,9980.76,asset
+Amazon Purchase,1840.22,expense
+Stock Purchase,6463.63,asset
+Electricity Bill,6433.34,expense
+Stock Purchase,8685.66,asset
+Electricity Bill,7598.76,expense
+Loan EMI,716.66,liability
+Uber Ride,7544.23,expense
+Stock Purchase,7810.97,asset
+Salary Credit,4008.36,income
+Gold Investment,8891.6,asset
+Salary Credit,6384.57,income
+Amazon Purchase,6478.64,expense
+FD Deposit,1073.51,asset
+Freelance Payment,2519.68,income
+Freelance Payment,4195.37,income
+Loan EMI,9072.59,liability
+Stock Purchase,6931.6,asset
+Salary Credit,2447.11,income
+Freelance Payment,9715.56,income
+Amazon Purchase,8584.82,expense
+Mutual Fund Investment,8474.49,asset
+Home Loan Interest,5475.59,liability
+Amazon Purchase,5568.68,expense
+Mutual Fund Investment,5174.06,asset
+Freelance Payment,2749.67,income
+Gold Investment,6234.41,asset
+Electricity Bill,2644.32,expense
+Salary Credit,465.87,income
+Amazon Purchase,4210.71,expense
+Gold Investment,8779.27,asset
+Uber Ride,5391.77,expense
+Mutual Fund Investment,2101.69,asset
+Swiggy Order,139.67,expense
+Loan EMI,4642.94,liability
+Swiggy Order,6199.34,expense
+FD Deposit,4901.67,asset
+Amazon Purchase,9633.59,expense
+Gold Investment,9594.58,asset
+Interest Credit,6598.56,income
+Amazon Purchase,3592.23,expense
+Electricity Bill,4984.52,expense
+Swiggy Order,606.49,expense
+Car Loan EMI,4353.76,liability
+Stock Purchase,5804.74,asset
+Car Loan EMI,7919.82,liability
+Credit Card Bill,8008.58,liability
+Credit Card Bill,9471.47,liability
+Bonus Received,4535.62,income
+Amazon Purchase,4372.52,expense
+Loan EMI,950.81,liability
+Salary Credit,3580.56,income
+Home Loan Interest,4945.88,liability
+Electricity Bill,8830.96,expense
+Home Loan Interest,2837.77,liability
+Salary Credit,1606.43,income
+Stock Purchase,460.67,asset
+Home Loan Interest,7656.09,liability
+Interest Credit,2740.19,income
+Home Loan Interest,2037.58,liability
+Gold Investment,6930.96,asset
+Loan EMI,2822.21,liability
+Salary Credit,3613.86,income
+Amazon Purchase,1215.96,expense
+Home Loan Interest,9450.51,liability
+Electricity Bill,8344.03,expense
+FD Deposit,3847.12,asset
+Interest Credit,545.77,income
+Loan EMI,3633.75,liability
+Loan EMI,3452.36,liability
+Interest Credit,5386.96,income
+Stock Purchase,4974.25,asset
+Uber Ride,8941.54,expense
+FD Deposit,1262.46,asset
+Swiggy Order,3491.44,expense
+FD Deposit,9342.18,asset
+Freelance Payment,1989.54,income
+Swiggy Order,4623.46,expense
+Stock Purchase,9654.22,asset
+Interest Credit,8872.34,income
+Car Loan EMI,3205.65,liability
+Credit Card Bill,9192.36,liability
+FD Deposit,9353.6,asset
+Stock Purchase,8294.58,asset
+Credit Card Bill,4053.58,liability
+Loan EMI,4138.53,liability
+Salary Credit,7065.01,income
+Credit Card Bill,8941.49,liability
+Uber Ride,3704.68,expense
+Salary Credit,8622.59,income
+Salary Credit,8737.27,income
+Loan EMI,7508.76,liability
+Salary Credit,997.72,income
+Interest Credit,6676.41,income
+Credit Card Bill,6076.95,liability
+Gold Investment,2332.41,asset
+Swiggy Order,8708.67,expense
+FD Deposit,5913.18,asset
+Credit Card Bill,1963.35,liability
+Electricity Bill,8911.4,expense
+Freelance Payment,3054.71,income
+Freelance Payment,367.35,income
+Car Loan EMI,7171.18,liability
+Bonus Received,7314.25,income
+Home Loan Interest,399.01,liability
+Home Loan Interest,7220.09,liability
+Bonus Received,6886.54,income
+Swiggy Order,8030.33,expense
+Home Loan Interest,3747.28,liability
+Stock Purchase,505.19,asset
+Freelance Payment,8536.59,income
+Swiggy Order,3841.26,expense
+Salary Credit,7130.63,income
+Uber Ride,9388.06,expense
+Gold Investment,5227.1,asset
+Amazon Purchase,1633.49,expense
+Stock Purchase,859.99,asset
+Mutual Fund Investment,1323.11,asset
+Electricity Bill,8955.46,expense
+Bonus Received,5685.9,income
+Uber Ride,1745.22,expense
+Freelance Payment,8282.59,income
+Uber Ride,9520.49,expense
+Loan EMI,6125.08,liability
+Bonus Received,4348.68,income
+Home Loan Interest,7299.81,liability
+Credit Card Bill,3850.13,liability
+Car Loan EMI,1010.73,liability
+Freelance Payment,8627.33,income
+Gold Investment,4006.93,asset
+Mutual Fund Investment,3556.52,asset
+Salary Credit,4719.14,income
+Mutual Fund Investment,4050.0,asset
+Car Loan EMI,516.65,liability
+Credit Card Bill,2414.95,liability
+Home Loan Interest,9793.51,liability
+Swiggy Order,8196.75,expense
+Credit Card Bill,5838.1,liability
+Gold Investment,8159.22,asset
+Credit Card Bill,8095.21,liability
+Swiggy Order,9246.37,expense
+FD Deposit,3928.84,asset
+Amazon Purchase,8853.35,expense
+Gold Investment,297.03,asset
+Freelance Payment,5909.8,income
+Bonus Received,858.47,income
+Gold Investment,1012.13,asset
+Bonus Received,4099.24,income
+Electricity Bill,8154.77,expense
+Electricity Bill,9147.87,expense
+Amazon Purchase,6020.09,expense
+Car Loan EMI,6364.33,liability
+Stock Purchase,4962.75,asset
+Credit Card Bill,2130.67,liability
+Gold Investment,5412.28,asset
+Swiggy Order,2132.34,expense
+Uber Ride,129.87,expense
+Bonus Received,3181.43,income
+Stock Purchase,2369.04,asset
+FD Deposit,4854.24,asset
+Swiggy Order,3039.69,expense
+Amazon Purchase,2239.08,expense
+Interest Credit,3778.77,income
+Gold Investment,5610.44,asset
+Home Loan Interest,273.62,liability
+Car Loan EMI,4104.0,liability
+Salary Credit,8355.07,income
+Loan EMI,6463.75,liability
+Amazon Purchase,5367.22,expense
+Stock Purchase,1141.44,asset
+FD Deposit,7798.58,asset
+FD Deposit,8366.53,asset
+Bonus Received,4977.75,income
+Car Loan EMI,7546.99,liability
+FD Deposit,1433.88,asset
+Loan EMI,7493.98,liability
+Mutual Fund Investment,9283.15,asset
+Credit Card Bill,6549.32,liability
+Car Loan EMI,618.58,liability
+FD Deposit,7533.38,asset
+FD Deposit,3229.02,asset
+Uber Ride,6418.98,expense
+Interest Credit,5110.36,income
+Swiggy Order,8218.52,expense
+Gold Investment,5227.71,asset
+Swiggy Order,6618.34,expense
+Freelance Payment,6229.75,income
+Electricity Bill,8379.11,expense
+Swiggy Order,4633.76,expense
+Credit Card Bill,5947.1,liability
+Bonus Received,6457.49,income
+FD Deposit,7768.95,asset
+Home Loan Interest,879.76,liability
+Interest Credit,9140.62,income
+Mutual Fund Investment,9401.54,asset
+Bonus Received,5062.97,income
+Stock Purchase,1118.3,asset
+Stock Purchase,6401.15,asset
+Freelance Payment,398.46,income
+Credit Card Bill,4217.01,liability
+Salary Credit,1050.14,income
+Loan EMI,1359.1,liability
+Home Loan Interest,2131.66,liability
+FD Deposit,6986.9,asset
+Freelance Payment,5372.05,income
+Credit Card Bill,8679.72,liability
+Uber Ride,6206.35,expense
+Bonus Received,7994.79,income
+Freelance Payment,1252.12,income
+Car Loan EMI,4540.94,liability
+Bonus Received,8668.52,income
+Home Loan Interest,6266.43,liability
+Electricity Bill,6923.65,expense
+Car Loan EMI,4437.31,liability
+FD Deposit,3187.44,asset
+Swiggy Order,8650.4,expense
+Stock Purchase,4191.05,asset
+Credit Card Bill,374.59,liability
+Amazon Purchase,9747.14,expense
+Home Loan Interest,8030.52,liability
+Electricity Bill,4902.31,expense
+Mutual Fund Investment,1013.59,asset
+Home Loan Interest,3754.9,liability
+Gold Investment,781.81,asset
+Electricity Bill,357.08,expense
+Electricity Bill,1455.86,expense
+Salary Credit,1713.17,income
+Mutual Fund Investment,2247.25,asset
+Loan EMI,3114.47,liability
+Credit Card Bill,908.77,liability
+Swiggy Order,4410.19,expense
+Car Loan EMI,6115.47,liability
+Credit Card Bill,5498.46,liability
+Gold Investment,2051.1,asset
+Home Loan Interest,4621.34,liability
+Electricity Bill,4834.08,expense
+Uber Ride,9540.9,expense
+Bonus Received,9542.34,income
+Home Loan Interest,7250.27,liability
+Bonus Received,858.78,income
+Gold Investment,7541.64,asset
+Interest Credit,106.66,income
+Uber Ride,1351.96,expense
+Amazon Purchase,869.42,expense
+Loan EMI,9727.02,liability
+Credit Card Bill,2283.01,liability
+Electricity Bill,8713.44,expense
+Freelance Payment,912.86,income
+Bonus Received,5088.05,income
+Credit Card Bill,3344.73,liability
+Electricity Bill,3022.22,expense
+Credit Card Bill,7140.75,liability
+Stock Purchase,3194.1,asset
+Mutual Fund Investment,8705.72,asset
+Interest Credit,4380.46,income
+Car Loan EMI,3474.5,liability
+Electricity Bill,718.2,expense
+Mutual Fund Investment,3581.86,asset
+Interest Credit,2674.17,income
+Credit Card Bill,4334.76,liability
+Credit Card Bill,7317.05,liability
+Bonus Received,1928.89,income
+Swiggy Order,9751.4,expense
+Loan EMI,7399.84,liability
+Stock Purchase,7761.66,asset
+Home Loan Interest,4962.1,liability
+Gold Investment,9243.78,asset
+Loan EMI,9379.99,liability
+Home Loan Interest,706.77,liability
+Interest Credit,6982.9,income
+Car Loan EMI,4927.69,liability
+Freelance Payment,2403.97,income
+Interest Credit,7350.1,income
+Credit Card Bill,4797.69,liability
+Bonus Received,2350.45,income
+Mutual Fund Investment,2870.27,asset
+Amazon Purchase,3110.16,expense
+Freelance Payment,5091.06,income
+Stock Purchase,6472.98,asset
+Mutual Fund Investment,2814.75,asset
+Loan EMI,1953.97,liability
+Swiggy Order,6978.9,expense
+Electricity Bill,9880.42,expense
+Stock Purchase,5196.18,asset
+Gold Investment,7288.49,asset
+Stock Purchase,4159.09,asset
+Mutual Fund Investment,9184.1,asset
+Loan EMI,8891.17,liability
+Home Loan Interest,7742.68,liability
+Electricity Bill,7487.29,expense
+Loan EMI,1753.66,liability
+Mutual Fund Investment,5409.39,asset
+Amazon Purchase,4216.09,expense
+Electricity Bill,1128.48,expense
+Stock Purchase,7001.44,asset
+Amazon Purchase,9627.33,expense
+Electricity Bill,6686.17,expense
+FD Deposit,1816.53,asset
+Amazon Purchase,254.45,expense
+Loan EMI,1261.07,liability
+Salary Credit,6836.57,income
+Uber Ride,5730.4,expense
+Credit Card Bill,6475.43,liability
+Uber Ride,7976.65,expense
+Swiggy Order,1048.17,expense
+Credit Card Bill,8241.84,liability
+Salary Credit,2185.54,income
+Home Loan Interest,9618.19,liability
+Freelance Payment,7445.11,income
+Stock Purchase,1194.88,asset
+Car Loan EMI,5953.36,liability
+Credit Card Bill,3580.15,liability
+Uber Ride,9735.29,expense
+Interest Credit,4132.5,income
+FD Deposit,1934.03,asset
+Mutual Fund Investment,2757.65,asset
+Amazon Purchase,4410.75,expense
+FD Deposit,2304.88,asset
+Loan EMI,5516.27,liability
+FD Deposit,9667.87,asset
+Freelance Payment,5257.65,income
+Gold Investment,5551.5,asset
+Loan EMI,5774.36,liability
+Car Loan EMI,896.82,liability
+Freelance Payment,7559.11,income
+Gold Investment,8855.88,asset
+Loan EMI,8722.24,liability
+Salary Credit,6705.67,income
+Loan EMI,9158.35,liability
+Loan EMI,7506.51,liability
+Stock Purchase,7504.96,asset
+Interest Credit,1666.34,income
+Gold Investment,6379.58,asset
+Home Loan Interest,443.16,liability
+Swiggy Order,989.45,expense
+Bonus Received,3423.86,income
+Mutual Fund Investment,8981.67,asset
+Salary Credit,2726.86,income
+Amazon Purchase,5626.32,expense
+Amazon Purchase,8638.26,expense
+Amazon Purchase,1413.38,expense
+Gold Investment,8086.03,asset
+Interest Credit,9343.29,income
+Interest Credit,1695.22,income
+Stock Purchase,171.97,asset
+Bonus Received,9224.27,income
+Stock Purchase,874.76,asset
+Freelance Payment,2508.02,income
+Bonus Received,2503.74,income
+Electricity Bill,4048.65,expense
+Salary Credit,8721.7,income
+Loan EMI,6556.47,liability
+Salary Credit,5192.27,income
+Home Loan Interest,7741.21,liability
+Mutual Fund Investment,3448.47,asset
+Freelance Payment,7087.55,income
+Freelance Payment,323.25,income
+Electricity Bill,7230.12,expense
+Interest Credit,2109.75,income
+Salary Credit,4365.86,income
+Electricity Bill,6556.54,expense
+Amazon Purchase,5608.14,expense
+Uber Ride,3651.77,expense
+Salary Credit,7526.94,income
+Amazon Purchase,3686.34,expense
+Electricity Bill,5673.7,expense
+Swiggy Order,7194.33,expense
+Electricity Bill,9705.37,expense
+Gold Investment,7281.08,asset
+Uber Ride,6975.02,expense
+FD Deposit,7698.38,asset
+Credit Card Bill,5525.69,liability
+Freelance Payment,3854.36,income
+Swiggy Order,3697.82,expense
+Gold Investment,2932.17,asset
+Interest Credit,7819.94,income
+Salary Credit,5837.69,income
+Gold Investment,1613.35,asset
+Amazon Purchase,9893.69,expense
+Stock Purchase,9948.83,asset
+Loan EMI,6726.71,liability
+FD Deposit,3548.44,asset
+Stock Purchase,6022.39,asset
+Credit Card Bill,4736.87,liability
+Amazon Purchase,2147.12,expense
+Mutual Fund Investment,7597.77,asset
+Bonus Received,741.6,income
+Interest Credit,1283.04,income
+Car Loan EMI,6336.61,liability
+Amazon Purchase,5330.78,expense
+FD Deposit,1809.19,asset
+Mutual Fund Investment,1535.56,asset
+Salary Credit,9576.58,income
+Freelance Payment,9407.93,income
+Car Loan EMI,9079.78,liability
+FD Deposit,7891.62,asset
+Mutual Fund Investment,7548.86,asset
+Gold Investment,5041.72,asset
+FD Deposit,3461.97,asset
+Swiggy Order,1031.21,expense
+Salary Credit,816.84,income
+Freelance Payment,5392.13,income
+Uber Ride,4229.74,expense
+Gold Investment,8545.75,asset
+Bonus Received,2993.26,income
+Uber Ride,8779.04,expense
+Amazon Purchase,5275.9,expense
+Uber Ride,6299.66,expense
+Gold Investment,5837.8,asset
+Mutual Fund Investment,1699.85,asset
+Stock Purchase,5089.02,asset
+Interest Credit,6189.04,income
+Gold Investment,6903.6,asset
+Gold Investment,9204.08,asset
+Swiggy Order,7799.35,expense
+Home Loan Interest,5212.7,liability
+Bonus Received,4970.85,income
+Freelance Payment,8661.08,income
+Home Loan Interest,5066.14,liability
+Car Loan EMI,668.61,liability
+Bonus Received,9467.52,income
+Mutual Fund Investment,4422.75,asset
+FD Deposit,8500.65,asset
+Interest Credit,6910.5,income
+Freelance Payment,991.62,income
+Swiggy Order,7529.98,expense
+Amazon Purchase,5471.61,expense
+Car Loan EMI,9842.04,liability
+Electricity Bill,226.04,expense
+Freelance Payment,1159.3,income
+Freelance Payment,6762.76,income
+Amazon Purchase,5177.51,expense
