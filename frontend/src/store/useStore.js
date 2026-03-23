@@ -4,11 +4,17 @@ import { persist } from "zustand/middleware";
 export const useStore = create(
   persist(
     (set) => ({
-      data: [],              // ✅ FIXED (not undefined)
+      data: [],
       summary: null,
+      fileName: "",
+      journal: [],
+      ledger: {},
 
       setData: (data) => set({ data }),
       setSummary: (summary) => set({ summary }),
+      setFileName: (fileName) => set({ fileName }),
+      setJournal: (journal) => set({ journal }),
+      setLedger: (ledger) => set({ ledger }),
     }),
     {
       name: "finance-storage",

@@ -3,15 +3,22 @@ import { useState } from "react";
 import { useStore } from "../store/useStore";
 
 export default function Upload() {
-  const [fileName, setFileName] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  // ✅ NEW: use global fileName instead of local state
+  const fileName = useStore((state) => state.fileName);
+  const setFileName = useStore((state) => state.setFileName);
 
   const setData = useStore((state) => state.setData);
   const setSummary = useStore((state) => state.setSummary);
 
   const handleUpload = async (file) => {
     try {
-      if (!file) return;
+      if (!file || loading) return;
 
+      setLoading(true);
+
+      // ✅ CHANGED: store in global state (persists)
       setFileName(file.name);
 
       const formData = new FormData();
@@ -22,6 +29,7 @@ export default function Upload() {
 
       if (res1.data.error || res2.data.error) {
         alert(res1.data.error || res2.data.error);
+        setLoading(false);
         return;
       }
 
@@ -29,11 +37,14 @@ export default function Upload() {
       setSummary(res2.data || null);
     } catch (err) {
       console.error(err);
+    } finally {
+      setLoading(false);
     }
   };
 
   const handleDrop = (e) => {
     e.preventDefault();
+    if (loading) return;
     const file = e.dataTransfer.files[0];
     handleUpload(file);
   };
@@ -47,17 +58,28 @@ export default function Upload() {
       <p className="upload-text">Drag & Drop your file here</p>
 
       <div className="upload-actions">
-        <label className="upload-btn">
-          Upload File
+        <label className={`upload-btn ${loading ? "disabled" : ""}`}>
+          {loading ? "Processing..." : "Upload File"}
           <input
             type="file"
             hidden
+            disabled={loading}
             onChange={(e) => handleUpload(e.target.files[0])}
           />
         </label>
       </div>
 
+      {/* ✅ FILE NAME (NOW PERSISTS) */}
       {fileName && <p className="file-name">📄 {fileName}</p>}
+
+      {loading && (
+        <div className="loader-overlay">
+          <div className="loader-box">
+            <div className="spinner"></div>
+            <p>Processing your file...</p>
+          </div>
+        </div>
+      )}
     </div>
   );
 }

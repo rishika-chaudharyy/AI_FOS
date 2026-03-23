@@ -8,7 +8,6 @@
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
 }
 
-/* RESET */
 * {
   margin: 0;
   padding: 0;
@@ -25,18 +24,16 @@ body {
   color: var(--text);
 }
 
-/* ROOT */
 #root {
   width: 100%;
   min-height: 100vh;
 }
 
-/* 🔥 HERO SECTION */
+
 .hero {
   width: 100%;
   min-height: 100vh;
 
-  /* ✅ MAKE SURE bg.jpg is in /public */
   background: url("/bg.jpg") center/cover no-repeat;
 
   display: flex;
@@ -46,7 +43,7 @@ body {
   position: relative;
 }
 
-/* DARK OVERLAY */
+
 .hero::before {
   content: "";
   position: absolute;
@@ -54,7 +51,6 @@ body {
   background: rgba(0, 0, 0, 0.65);
 }
 
-/* CONTENT CARD */
 .hero-content {
   position: relative;
   max-width: 900px;
@@ -71,7 +67,6 @@ body {
   box-shadow: 0 20px 60px rgba(0, 0, 0, 0.5);
 }
 
-/* LOGO */
 .logo {
   font-size: 64px;
   font-weight: 800;
@@ -82,16 +77,14 @@ body {
   -webkit-text-fill-color: transparent;
 }
 
-/* 🔥 CUSTOM SCROLLBAR */
 
-/* Chrome, Edge, Safari */
 ::-webkit-scrollbar {
   width: 10px;
 }
 
 ::-webkit-scrollbar-track {
   background: transparent;
-  /* clean look */
+
 }
 
 ::-webkit-scrollbar-thumb {
@@ -105,7 +98,7 @@ body {
   background: linear-gradient(180deg, #3b82f6, #7c3aed);
 }
 
-/* Firefox */
+
 * {
   scrollbar-width: thin;
   scrollbar-color: #7c3aed transparent;
@@ -114,6 +107,6 @@ body {
 .page-content {
   padding-top: 80px;
   background: #020617;
-  /* same as body */
+
   min-height: 100vh;
 }

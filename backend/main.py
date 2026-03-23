@@ -4,7 +4,6 @@ from app.api import upload
 
 app = FastAPI(title="AI-FOS Backend")
 
-# ✅ CORS FIXED
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],

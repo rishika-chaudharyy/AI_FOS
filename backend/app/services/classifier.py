@@ -8,7 +8,6 @@ from sklearn.linear_model import LogisticRegression
 from app.core.db import get_cached, store
 
 
-#  ENV
 load_dotenv()
 
 api_key = os.getenv("GROQ_API_KEY")

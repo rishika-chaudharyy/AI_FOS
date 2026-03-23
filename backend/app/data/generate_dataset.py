@@ -5,7 +5,7 @@ from faker import Faker
 
 fake = Faker()
 
-N = 10000  # 🔥 large dataset
+N = 10000  
 
 descriptions = [
     "NEFT CR SALARY", "UPI SWIGGY", "EMI PAYMENT HDFC",
@@ -57,4 +57,4 @@ df = pd.DataFrame(data)
 
 df.to_csv("enterprise_dataset.csv", index=False)
 
-print("✅ Dataset generated: enterprise_dataset.csv")
+print(" Dataset generated: enterprise_dataset.csv")

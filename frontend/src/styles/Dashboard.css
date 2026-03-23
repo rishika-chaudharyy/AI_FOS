@@ -113,3 +113,49 @@ tbody tr:nth-child(even) {
 tr:hover {
   background: rgba(255, 255, 255, 0.05);
 }
+
+.file-name {
+  margin-top: 10px;
+  color: #22c55e;
+  font-size: 14px;
+}
+
+/* TABLE */
+.table-container {
+  max-height: 350px;
+  overflow: auto;
+  border: 1px solid #1e293b;
+  border-radius: 10px;
+}
+
+/* 🔥 FIX HEADER VISIBILITY */
+thead th {
+  position: sticky;
+  top: 0;
+  background: #020617;
+  color: #e2e8f0;
+  /* brighter */
+  font-weight: 600;
+  z-index: 10;
+  border-bottom: 2px solid #334155;
+}
+
+/* TABLE STYLE */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  padding: 12px;
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+tr:hover {
+  background: rgba(255, 255, 255, 0.05);
+}

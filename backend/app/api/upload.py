@@ -4,6 +4,8 @@ import pandas as pd
 from app.services.parser import normalize_data, detect_columns
 from app.services.classifier import classify_transaction
 from app.services.finance_engine import generate_pnl, generate_balance_sheet
+from app.services.journal_engine import generate_journal_entries
+from app.services.ledger_engine import generate_ledger
 
 router = APIRouter()
 
@@ -24,7 +26,7 @@ def read_file(file):
         raise Exception("Unsupported file format")
 
 
-# 🔹 PROCESS (FULL DATA)
+
 @router.post("/process")
 async def process_file(file: UploadFile = File(...)):
     try:
@@ -42,7 +44,7 @@ async def process_file(file: UploadFile = File(...)):
 
         df["category"] = df[text_col].apply(classify_transaction)
 
-        # ✅ FULL DATA (ALL ROWS)
+       
         classified_data = df.to_dict(orient="records")
 
         return {
@@ -54,7 +56,7 @@ async def process_file(file: UploadFile = File(...)):
         return {"error": str(e)}
 
 
-# 🔹 ANALYZE
+# ANALYZE
 @router.post("/analyze")
 async def analyze(file: UploadFile = File(...)):
     try:
@@ -86,6 +88,40 @@ async def analyze(file: UploadFile = File(...)):
             "balance_sheet": balance_sheet,
             "summary": summary,
             "total_rows": len(df)
+        }
+
+    except Exception as e:
+        return {"error": str(e)}
+@router.post("/journal-ledger")
+async def journal_ledger(file: UploadFile = File(...)):
+    try:
+        df = read_file(file)
+
+        df = normalize_data(df)
+
+        text_col, amount_col = detect_columns(df)
+
+        if not text_col:
+            return {"error": "No description column found"}
+
+        if not amount_col:
+            return {"error": "Amount column not found"}
+
+        df[text_col] = df[text_col].astype(str)
+        df["category"] = df[text_col].apply(classify_transaction)
+
+        df[amount_col] = pd.to_numeric(df[amount_col], errors="coerce").fillna(0)
+
+        # ✅ GENERATE JOURNAL
+        journal = generate_journal_entries(df, text_col, amount_col)
+
+        # ✅ GENERATE LEDGER
+        ledger = generate_ledger(journal)
+
+        return {
+            "journal": journal,
+            "ledger": ledger,
+            "total_entries": len(journal)
         }
 
     except Exception as e:
