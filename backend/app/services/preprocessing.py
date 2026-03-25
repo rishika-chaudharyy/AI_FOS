@@ -1,4 +1,6 @@
 import pandas as pd
+import re
+from rapidfuzz import process, fuzz
 
 
 def clean_text(text):
@@ -55,3 +57,47 @@ def preprocess_pipeline(df):
     print("Preprocessing complete")
 
     return df
+
+
+# -------------------------------
+# BALANCED ACCOUNT MATCHING
+# -------------------------------
+
+KNOWN_ACCOUNTS = []
+SIMILARITY_THRESHOLD = 92   # 🔥 stricter to avoid over-grouping
+
+
+def normalize_account_name(name):
+    if not name:
+        return ""
+
+    name = str(name).lower().strip()
+
+    name = re.sub(r'[^a-z0-9\s]', '', name)
+    name = re.sub(r'\s+', ' ', name)
+
+    return name
+
+
+def get_standard_account(name):
+    clean_name = normalize_account_name(name)
+
+    # 🔥 avoid grouping very small/generic text
+    if len(clean_name.split()) < 2:
+        KNOWN_ACCOUNTS.append(clean_name)
+        return clean_name.title() + " A/c"
+
+    if KNOWN_ACCOUNTS:
+        match = process.extractOne(
+            clean_name,
+            KNOWN_ACCOUNTS,
+            scorer=fuzz.token_sort_ratio,
+            score_cutoff=SIMILARITY_THRESHOLD
+        )
+
+        if match:
+            return match[0].title() + " A/c"
+
+    KNOWN_ACCOUNTS.append(clean_name)
+
+    return clean_name.title() + " A/c"

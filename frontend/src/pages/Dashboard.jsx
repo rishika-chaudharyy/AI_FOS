@@ -2,10 +2,16 @@ import Upload from "../components/Upload";
 import "../styles/Dashboard.css";
 import { PieChart, Pie, Tooltip, Cell } from "recharts";
 import { useStore } from "../store/useStore";
+import { useEffect } from "react";
 
 export default function Dashboard() {
-  const data = useStore((state) => state.data) || []; // ✅ SAFE
+  const data = useStore((state) => state.data) || [];
   const summary = useStore((state) => state.summary);
+  const setCurrentPage = useStore((state) => state.setCurrentPage);
+
+  useEffect(() => {
+    setCurrentPage("dashboard");
+  }, []);
 
   const COLORS = {
     income: "#22c55e",
@@ -32,7 +38,6 @@ export default function Dashboard() {
 
       <Upload />
 
-      {/* CARDS */}
       {summary && (
         <div className="cards">
           <Card
@@ -58,7 +63,6 @@ export default function Dashboard() {
         </div>
       )}
 
-      {/* CHART */}
       {chartData && (
         <div className="chart-box">
           <h2 className="chart-title">Financial Distribution</h2>
@@ -76,7 +80,6 @@ export default function Dashboard() {
         </div>
       )}
 
-      {/* TABLES */}
       <Section title="Income" data={filterBy("income")} color={COLORS.income} />
       <Section
         title="Expense"
@@ -92,6 +95,8 @@ export default function Dashboard() {
     </div>
   );
 }
+
+/* ✅ ADD THIS BACK */
 
 function Card({ title, value, color }) {
   return (
@@ -124,9 +129,11 @@ function Section({ title, data, color }) {
           <tbody>
             {data.map((row, i) => (
               <tr key={i}>
-                <td>{row.description}</td>
-                <td style={{ color }}>{row.amount}</td>
-                <td>{row.category}</td>
+                <td>{row.description || "-"}</td>
+                <td style={{ color }}>
+                  {Number(row.amount || 0).toLocaleString()}
+                </td>
+                <td>{row.category || "-"}</td>
               </tr>
             ))}
           </tbody>

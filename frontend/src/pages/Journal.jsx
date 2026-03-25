@@ -1,10 +1,12 @@
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import axios from "axios";
 import "../styles/Journal.css";
 import { useStore } from "../store/useStore";
 
 export default function Journal() {
   const [loading, setLoading] = useState(false);
+
+  const setCurrentPage = useStore((state) => state.setCurrentPage);
 
   const setFileName = useStore((state) => state.setFileName);
   const fileName = useStore((state) => state.fileName);
@@ -13,6 +15,10 @@ export default function Journal() {
   const ledger = useStore((state) => state.ledger);
   const setJournal = useStore((state) => state.setJournal);
   const setLedger = useStore((state) => state.setLedger);
+
+  useEffect(() => {
+    setCurrentPage("journal"); // 🔥 IMPORTANT
+  }, []);
 
   const handleUpload = async (file) => {
     if (!file) return;
@@ -82,7 +88,6 @@ export default function Journal() {
         </div>
       )}
 
-      {/*   JOURNAL    */}
       {!loading && journal.length > 0 && (
         <div className="full-card">
           <h2 className="section-title">Journal Entries</h2>
@@ -123,7 +128,6 @@ export default function Journal() {
         </div>
       )}
 
-      {/* LEDGER */}
       {!loading && Object.keys(ledger).length > 0 && (
         <div className="full-card">
           <h2 className="section-title">Ledger Accounts</h2>

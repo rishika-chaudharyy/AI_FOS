@@ -5,7 +5,6 @@ import { useStore } from "../store/useStore";
 export default function Upload() {
   const [loading, setLoading] = useState(false);
 
-  // ✅ NEW: use global fileName instead of local state
   const fileName = useStore((state) => state.fileName);
   const setFileName = useStore((state) => state.setFileName);
 
@@ -18,7 +17,6 @@ export default function Upload() {
 
       setLoading(true);
 
-      // ✅ CHANGED: store in global state (persists)
       setFileName(file.name);
 
       const formData = new FormData();
@@ -69,7 +67,6 @@ export default function Upload() {
         </label>
       </div>
 
-      {/* ✅ FILE NAME (NOW PERSISTS) */}
       {fileName && <p className="file-name">📄 {fileName}</p>}
 
       {loading && (
