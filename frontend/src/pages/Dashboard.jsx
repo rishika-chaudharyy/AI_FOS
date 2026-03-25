@@ -2,7 +2,7 @@ import Upload from "../components/Upload";
 import "../styles/Dashboard.css";
 import { PieChart, Pie, Tooltip, Cell } from "recharts";
 import { useStore } from "../store/useStore";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
 
 export default function Dashboard() {
   const data = useStore((state) => state.data) || [];
@@ -27,10 +27,28 @@ export default function Dashboard() {
       }))
     : null;
 
-  const renderLabel = ({ name }) => name;
+  // 🔥 FIX 1: GROUP + SUM DUPLICATES
+  const aggregateData = (data) => {
+    const map = {};
+
+    data.forEach((item) => {
+      const key = `${item.description}-${item.category}`;
+
+      if (!map[key]) {
+        map[key] = {
+          ...item,
+          amount: Number(item.amount || 0),
+        };
+      } else {
+        map[key].amount += Number(item.amount || 0);
+      }
+    });
+
+    return Object.values(map);
+  };
 
   const filterBy = (type) =>
-    data.filter((d) => d.category?.toLowerCase().includes(type));
+    aggregateData(data.filter((d) => d.category?.toLowerCase().includes(type)));
 
   return (
     <div className="dashboard">
@@ -66,12 +84,19 @@ export default function Dashboard() {
       {chartData && (
         <div className="chart-box">
           <h2 className="chart-title">Financial Distribution</h2>
-
           <div className="chart-center">
             <PieChart width={350} height={300}>
-              <Pie data={chartData} dataKey="value" label={renderLabel}>
+              <Pie
+                data={chartData}
+                dataKey="value"
+                nameKey="name"
+                label={({ name }) => name}
+              >
                 {chartData.map((entry, index) => (
-                  <Cell key={index} fill={COLORS[entry.name.toLowerCase()]} />
+                  <Cell
+                    key={index}
+                    fill={COLORS[entry.name?.toLowerCase()] || "#8884d8"}
+                  />
                 ))}
               </Pie>
               <Tooltip />
@@ -96,8 +121,6 @@ export default function Dashboard() {
   );
 }
 
-/* ✅ ADD THIS BACK */
-
 function Card({ title, value, color }) {
   return (
     <div className="card" style={{ borderTop: `3px solid ${color}` }}>
@@ -108,13 +131,66 @@ function Card({ title, value, color }) {
 }
 
 function Section({ title, data, color }) {
+  const [search, setSearch] = useState("");
+  const [page, setPage] = useState(1);
+  const rowsPerPage = 6;
+
+  const filtered = data.filter((row) =>
+    row.description?.toLowerCase().includes(search.toLowerCase()),
+  );
+
+  const totalPages = Math.ceil(filtered.length / rowsPerPage);
+  const start = (page - 1) * rowsPerPage;
+  const paginated = filtered.slice(start, start + rowsPerPage);
+
+  const exportCSV = () => {
+    const headers = ["Description", "Amount", "Category"];
+    const rows = filtered.map((row) => [
+      row.description,
+      row.amount,
+      row.category,
+    ]);
+
+    const csv =
+      "data:text/csv;charset=utf-8," +
+      [headers, ...rows].map((r) => r.join(",")).join("\n");
+
+    const link = document.createElement("a");
+    link.href = encodeURI(csv);
+    link.download = `${title}.csv`;
+    link.click();
+  };
+
   if (!data.length) return null;
 
   return (
     <div className="section">
       <h2 className="section-title" style={{ borderColor: color }}>
-        {title} ({data.length})
+        {title} ({filtered.length})
       </h2>
+
+      <div className="section-controls">
+        {/* 🔥 FIXED SEARCH UI */}
+        <div className="search-wrapper">
+          <div className="search-box-container">
+            <svg className="search-icon" viewBox="0 0 24 24"></svg>
+
+            <input
+              className="search-box"
+              placeholder="Search..."
+              value={search}
+              onChange={(e) => {
+                setSearch(e.target.value);
+                setPage(1);
+              }}
+            />
+          </div>
+        </div>
+
+        <button className="export-btn" onClick={exportCSV}>
+          Export CSV
+        </button>
+      </div>
 
       <div className="table-container">
         <table>
@@ -127,7 +203,7 @@ function Section({ title, data, color }) {
           </thead>
 
           <tbody>
-            {data.map((row, i) => (
+            {paginated.map((row, i) => (
               <tr key={i}>
                 <td>{row.description || "-"}</td>
                 <td style={{ color }}>
@@ -138,6 +214,23 @@ function Section({ title, data, color }) {
             ))}
           </tbody>
         </table>
+      </div>
+
+      <div className="pagination">
+        <button disabled={page === 1} onClick={() => setPage(page - 1)}>
+          Prev
+        </button>
+
+        <span>
+          {page} / {totalPages || 1}
+        </span>
+
+        <button
+          disabled={page === totalPages || totalPages === 0}
+          onClick={() => setPage(page + 1)}
+        >
+          Next
+        </button>
       </div>
     </div>
   );
