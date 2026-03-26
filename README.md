@@ -26,11 +26,12 @@ Process your financial data (CSV/XLSX) to automatically categorize transactions 
 - **Dashboard Analytics** - Visual representation of financial data with charts
 - **Real-time Processing** - FastAPI backend with instant data processing
 - **Caching System** - SQLite-based caching for improved performance
+- **Data Export** - Export classified data and reports to CSV format
 
 ### Classification Methods
 - **Rule-based**: Keyword pattern matching for quick classification
 - **ML-based**: Trained LogisticRegression model using TF-IDF vectorization
-- **LLM-based**: Groq API integration for context-aware classification
+- **LLM-based**: Groq API integration with Llama 3.3 70B model for context-aware classification
 
 ---
 
@@ -253,10 +254,11 @@ curl -X POST "http://localhost:8000/journal-ledger" \
 
 ### Transaction Categories
 
-- **Income** - Salary, payments, consulting fees, bonuses
-- **Expense** - Rent, bills, subscriptions, purchases
-- **Asset** - Equipment, vehicles, property
-- **Liability** - Loans, EMIs
+- **Income** - Salary, payments, consulting fees, bonuses, sales revenue
+- **Expense** - Rent, bills, subscriptions, purchases, salary payments
+- **Asset** - Equipment, vehicles, property, furniture, machinery
+- **Liability** - Loans, EMIs, borrowed funds
+- **Purchase** - Goods purchased, inventory purchase, stock purchase
 
 ### Training Data
 
@@ -361,6 +363,7 @@ openpyxl
 python-dotenv
 groq
 scikit-learn
+rapidfuzz
 ```
 
 ### Frontend
@@ -371,6 +374,9 @@ react-router-dom@^7.13.1
 recharts@^3.8.0
 axios@^1.13.6
 zustand@^5.0.12
+jspdf@^4.2.1
+jspdf-autotable@^5.0.7
+xlsx@^0.18.5
 ```
 
 ---
@@ -532,6 +538,7 @@ For issues, questions, or suggestions, please open an issue in the repository.
 - [x] Account ledger management
 - [x] Data preprocessing pipeline
 - [x] SQLite caching for performance
+- [x] CSV data export functionality
 - [ ] Multi-user authentication
 - [ ] Advanced reporting features
 - [ ] Budget planning tools

@@ -2,7 +2,7 @@ fastapi
 pandas
 uvicorn
 openpyxl
-python-dotenvpython-dotenv
+python-dotenv
 groq
 scikit-learn
 rapidfuzz
