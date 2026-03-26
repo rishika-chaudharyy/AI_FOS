@@ -7,7 +7,6 @@ from sklearn.linear_model import LogisticRegression
 
 from app.core.db import get_cached, store
 
-
 load_dotenv()
 
 api_key = os.getenv("GROQ_API_KEY")
@@ -18,7 +17,7 @@ if not api_key:
 client = Groq(api_key=api_key) if api_key else None
 
 
-# PREPROCESS 
+# ================= PREPROCESS =================
 def preprocess_text(text):
     text = str(text).lower()
 
@@ -34,48 +33,62 @@ def preprocess_text(text):
     return text.strip()
 
 
-# RULE BASED
+
 def rule_classify(text):
     text = str(text).lower()
 
-    if any(word in text for word in ["salary", "income", "credited", "received"]):
-        return "Income"
-    elif any(word in text for word in ["rent", "bill", "expense", "subscription"]):
-        return "Expense"
-    elif any(word in text for word in ["loan", "emi"]):
-        return "Liability"
-    elif any(word in text for word in ["equipment", "laptop", "vehicle"]):
+    if any(word in text for word in [
+        "furniture", "equipment", "laptop", "vehicle",
+        "machinery", "building"
+    ]):
         return "Asset"
-    elif "purchase" in text:
+
+   
+    elif any(word in text for word in [
+        "goods purchased", "inventory purchase", "stock purchase"
+    ]):
+        return "Purchase"
+
+    elif any(word in text for word in [
+        "sales", "revenue", "income", "received", "credited"
+    ]):
+        return "Income"
+
+    elif any(word in text for word in [
+        "rent", "bill", "expense", "subscription",
+        "salary", "wages", "electricity", "internet", "insurance"
+    ]):
         return "Expense"
-    else:
-        return "Other"
+
+    elif any(word in text for word in [
+        "loan", "emi", "borrowed", "payable"
+    ]):
+        return "Liability"
+
+    return "Other"
 
 
-#TRAINING DATA 
+# ================= TRAINING DATA =================
 training_data = {
     "text": [
         "salary credit", "client payment", "consulting income",
         "rent payment", "electricity bill", "office expense",
         "loan received", "loan emi",
         "equipment purchase", "asset purchase",
-        "amazon order", "netflix subscription", "upi payment",
-        "freelance income", "bonus received",
-        "crypto sale profit", "vendor payment", "uber ride"
+        "goods purchased", "stock purchase",
+        "sales revenue", "product sale"
     ],
     "label": [
         "Income", "Income", "Income",
         "Expense", "Expense", "Expense",
         "Liability", "Liability",
         "Asset", "Asset",
-        "Expense", "Expense", "Expense",
-        "Income", "Income",
-        "Income", "Expense", "Expense"
+        "Purchase", "Purchase",
+        "Income", "Income"
     ]
 }
 
 train_df = pd.DataFrame(training_data)
-
 
 vectorizer = TfidfVectorizer(ngram_range=(1, 2))
 X = vectorizer.fit_transform(train_df["text"])
@@ -84,7 +97,7 @@ model = LogisticRegression()
 model.fit(X, train_df["label"])
 
 
-#  ML 
+# ================= ML =================
 def ml_classify(text):
     try:
         X_input = vectorizer.transform([text])
@@ -98,32 +111,40 @@ def ml_classify(text):
         return "Other", 0.0
 
 
-# LLM
+# ================= LLM =================
 def llm_classify(text):
     if not client:
         return "Other"
 
     try:
         prompt = f"""
-        You are a financial expert.
+        You are a Chartered Accountant.
 
-        Classify this transaction into ONE category:
-        Income, Expense, Asset, Liability
+        Classify this transaction STRICTLY into:
+        Income, Expense, Asset, Liability, Purchase
+
+        Rules:
+        - Goods Purchased → Purchase
+        - Furniture/Equipment → Asset
+        - Sales → Income
+        - Salary/Rent → Expense
+        - Loan → Liability
 
         Transaction: "{text}"
 
-        Only return the category name.
+        Return ONLY one word.
         """
 
         response = client.chat.completions.create(
             model="llama-3.3-70b-versatile",
             messages=[{"role": "user", "content": prompt}],
-            temperature=0
+            temperature=0,
+            timeout=5
         )
 
         result = response.choices[0].message.content.strip()
 
-        for cat in ["Income", "Expense", "Asset", "Liability"]:
+        for cat in ["Income", "Expense", "Asset", "Liability", "Purchase"]:
             if cat.lower() in result.lower():
                 return cat
 
@@ -134,17 +155,15 @@ def llm_classify(text):
         return "Other"
 
 
-#  FINAL CLASSIFIER 
+# ================= FINAL =================
 def classify_transaction(text):
     text = preprocess_text(text)
 
-  
     cached = get_cached(text)
     if cached:
         print(f"[CACHE] {text} → {cached}")
         return cached
 
-  
     rule = rule_classify(text)
     if rule != "Other":
         print(f"[RULE] {text} → {rule}")
@@ -159,7 +178,7 @@ def classify_transaction(text):
         store(text, ml_pred, "ml")
         return ml_pred
 
-   
+    
     llm_pred = llm_classify(text)
     print(f"[LLM] {text} → {llm_pred}")
 

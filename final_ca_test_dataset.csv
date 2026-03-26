@@ -1,0 +1,15 @@
+description,amount,type,category
+Capital Introduced,500000,credit,liability
+Cash,500000,debit,asset
+Loan Taken,100000,credit,liability
+Cash,100000,debit,asset
+Goods Purchased,200000,debit,purchase
+Cash,200000,credit,asset
+Sales Revenue,350000,credit,income
+Cash,350000,debit,asset
+Salary Paid,20000,debit,expense
+Cash,20000,credit,asset
+Rent Paid,10000,debit,expense
+Cash,10000,credit,asset
+Furniture Purchased,50000,debit,asset
+Cash,50000,credit,asset

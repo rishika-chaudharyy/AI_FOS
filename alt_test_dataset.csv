@@ -1,0 +1,15 @@
+description,amount,type,category
+Capital Introduced,300000,credit,liability
+Cash,300000,debit,asset
+Goods Purchased,120000,debit,purchase
+Cash,120000,credit,asset
+Sales Revenue,200000,credit,income
+Cash,200000,debit,asset
+Electricity Expense,5000,debit,expense
+Cash,5000,credit,asset
+Internet Expense,3000,debit,expense
+Cash,3000,credit,asset
+Laptop Purchased,40000,debit,asset
+Cash,40000,credit,asset
+Loan Taken,50000,credit,liability
+Cash,50000,debit,asset

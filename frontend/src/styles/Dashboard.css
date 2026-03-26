@@ -571,3 +571,24 @@ tr:hover {
 .section-controls .search-box::placeholder {
   color: #94a3b8;
 }
+
+/* ===== STATEMENTS ENHANCEMENT ===== */
+
+.section-title {
+  font-size: 20px;
+  font-weight: 600;
+  margin-bottom: 15px;
+}
+
+.table-container table {
+  font-size: 14px;
+}
+
+.table-container td {
+  padding: 10px;
+}
+
+.table-container tr:last-child {
+  font-weight: bold;
+  background: rgba(34, 197, 94, 0.08);
+}

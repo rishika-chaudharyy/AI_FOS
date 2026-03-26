@@ -1,0 +1,15 @@
+date,description,amount,type,category
+2024-04-01,Capital Introduced,500000,credit,liability
+2024-04-01,Cash,500000,debit,asset
+2024-04-02,Goods Purchased,200000,debit,purchase
+2024-04-02,Cash,200000,credit,asset
+2024-04-03,Sales Revenue,350000,credit,income
+2024-04-03,Cash,350000,debit,asset
+2024-04-04,Salary Paid,20000,debit,expense
+2024-04-04,Cash,20000,credit,asset
+2024-04-05,Rent Paid,10000,debit,expense
+2024-04-05,Cash,10000,credit,asset
+2024-04-06,Furniture Purchased,50000,debit,asset
+2024-04-06,Cash,50000,credit,asset
+2024-04-07,Loan Taken,100000,credit,liability
+2024-04-07,Cash,100000,debit,asset
