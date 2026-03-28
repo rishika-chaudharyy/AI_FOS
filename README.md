@@ -21,6 +21,8 @@ Process your financial data (CSV/XLSX) to automatically categorize transactions 
 - **Automatic Data Normalization** - Detects and normalizes column headers
 - **Data Preprocessing Pipeline** - Cleans text, handles missing values, removes noise
 - **Financial Report Generation** - Creates P&L statements and balance sheets
+- **AI Cash Flow Advisory** - Fast-tracks liquidity analysis (burn rate, runway) with Groq-powered AI CFO insights
+- **Comparative Insights** - Compare multiple datasets (e.g. Year-over-Year) to track growth, variance, and expense drops
 - **Double-Entry Journal Generation** - Generates proper accounting journal entries
 - **Ledger Management** - Creates and maintains account ledgers
 - **Dashboard Analytics** - Visual representation of financial data with charts
@@ -160,6 +162,7 @@ AI-FOS/
 | `/process` | `POST` | Upload and classify financial data file |
 | `/analyze` | `POST` | Generate financial statements (P&L, Balance Sheet) |
 | `/journal-ledger` | `POST` | Generate journal entries and account ledgers |
+| `/cashflow-insights` | `POST` | Generate LLM-powered cash flow strategy, forecasting, and anomaly detection |
 
 ### Request/Response Examples
 
@@ -206,7 +209,22 @@ curl -X POST "http://localhost:8000/analyze" \
     "Income": 50000,
     "Expense": 30000
   },
-  "total_rows": 100
+}
+```
+
+**Generate AI Cashflow Insights**
+```bash
+curl -X POST "http://localhost:8000/cashflow-insights" \
+  -H "Content-Type: application/json" \
+  -d '{"data": [...]}'
+```
+
+**Response:**
+```json
+{
+  "advices": ["Cut marketing spend by 10%..."],
+  "forecast": "Based on the $25k inflow trend, expect strong runway.",
+  "anomalies": ["Unusually high software subscription cost."]
 }
 ```
 
@@ -302,10 +320,18 @@ The system automatically:
 - Total Liabilities
 - Net Worth
 
-### Cash Flow Analysis
-- Income breakdown
-- Expense breakdown
+### Cash Flow Analysis & AI Advisory
+- Income & Expense breakdown
 - Asset/Liability movements
+- **Monthly Burn Rate & Cash Runway calculations**
+- **Groq LLM-powered CFO strategic insights**
+- **1-Click PDF Report Export**
+
+### Comparative Insights
+- Dual-file CSV processor
+- Year-over-Year (YoY) percentage growth metrics
+- Comparative clustered charting
+- Categorical variance tables
 
 ### Journal Entries
 - Double-entry bookkeeping
@@ -473,9 +499,9 @@ with open('financial_data.csv', 'rb') as f:
 - **Landing** - Welcome and introduction
 - **Dashboard** - Overview of financial data
 - **Upload** - File upload interface
-- **Analysis** - Detailed transaction analysis
+- **Analysis** - **Comparative Insights** tool for extreme YoY variance mapping and growth charting
 - **Statements** - Financial statements view
-- **Cashflow** - Cash flow analysis
+- **Cashflow** - Cash flow analysis featuring **Groq AI Advisory** insights and PDF export
 - **Journal** - Transaction journal entries
 
 ---
