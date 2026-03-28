@@ -10,6 +10,7 @@ export default function Upload() {
 
   const setData = useStore((state) => state.setData);
   const setSummary = useStore((state) => state.setSummary);
+  const setInsights = useStore((state) => state.setInsights);
 
   const handleUpload = async (file) => {
     try {
@@ -24,15 +25,17 @@ export default function Upload() {
 
       const res1 = await axios.post("http://127.0.0.1:8000/process", formData);
       const res2 = await axios.post("http://127.0.0.1:8000/analyze", formData);
+      const res3 = await axios.post("http://127.0.0.1:8000/cashflow-insights", formData);
 
-      if (res1.data.error || res2.data.error) {
-        alert(res1.data.error || res2.data.error);
+      if (res1.data.error || res2.data.error || res3.data.error) {
+        alert(res1.data.error || res2.data.error || res3.data.error);
         setLoading(false);
         return;
       }
 
       setData(res1.data.classified_data || []);
       setSummary(res2.data || null);
+      setInsights(res3.data || null);
     } catch (err) {
       console.error(err);
     } finally {

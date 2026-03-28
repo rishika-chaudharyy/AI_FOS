@@ -6,6 +6,7 @@ from app.services.classifier import classify_transaction
 from app.services.finance_engine import generate_pnl, generate_balance_sheet
 from app.services.journal_engine import generate_journal_entries
 from app.services.ledger_engine import generate_ledger
+from app.services.cashflow_engine import generate_cashflow_insights
 
 router = APIRouter()
 
@@ -123,6 +124,32 @@ async def journal_ledger(file: UploadFile = File(...)):
             "ledger": ledger,
             "total_entries": len(journal)
         }
+
+    except Exception as e:
+        return {"error": str(e)}
+
+@router.post("/cashflow-insights")
+async def cashflow_insights(file: UploadFile = File(...)):
+    try:
+        df = read_file(file)
+        df = normalize_data(df)
+        text_col, amount_col = detect_columns(df)
+
+        if not text_col:
+            return {"error": "No description column found"}
+        if not amount_col:
+            return {"error": "Amount column not found"}
+
+        df[text_col] = df[text_col].astype(str)
+        df["category"] = df[text_col].apply(classify_transaction)
+        
+        # Ensure we have "amount" and "description" required by the insights engine
+        df["amount"] = pd.to_numeric(df[amount_col], errors="coerce").fillna(0)
+        df["description"] = df[text_col]
+
+        insights = generate_cashflow_insights(df)
+
+        return insights
 
     except Exception as e:
         return {"error": str(e)}
